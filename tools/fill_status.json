@@ -1,9 +1,19 @@
 {
-  "issue": "2026-11-01",
+  "issue": "2026-11-02",
   "games": {
-    "bruins": {
-      "box": "ok",
-      "video": "ok"
+    "patriots": {
+      "box": "added",
+      "video_notes": [
+        "feeds: found MhOZjDTqSmw"
+      ],
+      "video": "added MhOZjDTqSmw (New England Patriots)"
+    },
+    "celtics": {
+      "box": "added",
+      "video_notes": [
+        "feeds: found 8jItnLHesf0"
+      ],
+      "video": "added 8jItnLHesf0 (NBA)"
     }
   }
 }

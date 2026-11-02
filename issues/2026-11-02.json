@@ -168,7 +168,466 @@
           "note": "Caught every target, including the 48-yard catch-and-run that made it a two-score game."
         }
       ],
-      "oppLine": "Malik Willis was 21-of-32 for 211 yards and two touchdowns with an interception and was sacked five times; Ollie Gordon ran for 69 yards on 19 carries."
+      "oppLine": "Malik Willis was 21-of-32 for 211 yards and two touchdowns with an interception and was sacked five times; Ollie Gordon ran for 69 yards on 19 carries.",
+      "box": {
+        "source": {
+          "name": "ESPN",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873034"
+        },
+        "boston": {
+          "name": "Patriots",
+          "groups": [
+            {
+              "label": "Passing",
+              "columns": [
+                "C/ATT",
+                "YDS",
+                "TD",
+                "INT"
+              ],
+              "rows": [
+                {
+                  "name": "Drake Maye",
+                  "values": [
+                    "16/20",
+                    199,
+                    2,
+                    0
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Rushing",
+              "columns": [
+                "CAR",
+                "YDS",
+                "TD",
+                "LONG"
+              ],
+              "rows": [
+                {
+                  "name": "Rhamondre Stevenson",
+                  "values": [
+                    19,
+                    82,
+                    0,
+                    9
+                  ]
+                },
+                {
+                  "name": "Corey Kiner",
+                  "values": [
+                    7,
+                    38,
+                    0,
+                    20
+                  ]
+                },
+                {
+                  "name": "Lan Larison",
+                  "values": [
+                    2,
+                    6,
+                    0,
+                    4
+                  ]
+                },
+                {
+                  "name": "Drake Maye",
+                  "values": [
+                    8,
+                    5,
+                    1,
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Receiving",
+              "columns": [
+                "REC",
+                "YDS",
+                "TD",
+                "TGT"
+              ],
+              "rows": [
+                {
+                  "name": "DeMario Douglas",
+                  "values": [
+                    3,
+                    76,
+                    1,
+                    3
+                  ]
+                },
+                {
+                  "name": "Kyle Williams",
+                  "values": [
+                    1,
+                    43,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "name": "Efton Chism III",
+                  "values": [
+                    5,
+                    37,
+                    0,
+                    5
+                  ]
+                },
+                {
+                  "name": "Hunter Henry",
+                  "values": [
+                    3,
+                    30,
+                    0,
+                    3
+                  ]
+                },
+                {
+                  "name": "Rhamondre Stevenson",
+                  "values": [
+                    3,
+                    8,
+                    0,
+                    3
+                  ]
+                },
+                {
+                  "name": "Eli Raridon",
+                  "values": [
+                    1,
+                    5,
+                    0,
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Defense",
+              "columns": [
+                "TCKL",
+                "SACK",
+                "TFL",
+                "INT",
+                "FF"
+              ],
+              "rows": [
+                {
+                  "name": "Carlton Davis III",
+                  "values": [
+                    9,
+                    0,
+                    0,
+                    0,
+                    ""
+                  ]
+                },
+                {
+                  "name": "Christian Elliss",
+                  "values": [
+                    9,
+                    "0.5",
+                    2,
+                    0,
+                    ""
+                  ]
+                },
+                {
+                  "name": "Kevin Byard",
+                  "values": [
+                    7,
+                    0,
+                    0,
+                    1,
+                    ""
+                  ]
+                },
+                {
+                  "name": "Dre'Mont Jones",
+                  "values": [
+                    6,
+                    0,
+                    0,
+                    0,
+                    ""
+                  ]
+                },
+                {
+                  "name": "Marcus Jones",
+                  "values": [
+                    5,
+                    0,
+                    0,
+                    0,
+                    ""
+                  ]
+                },
+                {
+                  "name": "Craig Woodson",
+                  "values": [
+                    5,
+                    0,
+                    1,
+                    0,
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "opp": {
+          "name": "Dolphins",
+          "groups": [
+            {
+              "label": "Passing",
+              "columns": [
+                "C/ATT",
+                "YDS",
+                "TD",
+                "INT"
+              ],
+              "rows": [
+                {
+                  "name": "Malik Willis",
+                  "values": [
+                    "21/32",
+                    211,
+                    2,
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Rushing",
+              "columns": [
+                "CAR",
+                "YDS",
+                "TD",
+                "LONG"
+              ],
+              "rows": [
+                {
+                  "name": "Ollie Gordon II",
+                  "values": [
+                    19,
+                    69,
+                    0,
+                    16
+                  ]
+                },
+                {
+                  "name": "Jaylen Wright",
+                  "values": [
+                    2,
+                    5,
+                    0,
+                    3
+                  ]
+                },
+                {
+                  "name": "Malik Willis",
+                  "values": [
+                    1,
+                    2,
+                    0,
+                    2
+                  ]
+                },
+                {
+                  "name": "Chris Bell",
+                  "values": [
+                    1,
+                    -2,
+                    0,
+                    -2
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Receiving",
+              "columns": [
+                "REC",
+                "YDS",
+                "TD",
+                "TGT"
+              ],
+              "rows": [
+                {
+                  "name": "Kevin Coleman Jr.",
+                  "values": [
+                    3,
+                    46,
+                    1,
+                    3
+                  ]
+                },
+                {
+                  "name": "Greg Dulcich",
+                  "values": [
+                    4,
+                    43,
+                    0,
+                    6
+                  ]
+                },
+                {
+                  "name": "Caleb Douglas",
+                  "values": [
+                    4,
+                    43,
+                    0,
+                    6
+                  ]
+                },
+                {
+                  "name": "Malik Washington",
+                  "values": [
+                    5,
+                    40,
+                    1,
+                    6
+                  ]
+                },
+                {
+                  "name": "Chris Bell",
+                  "values": [
+                    4,
+                    31,
+                    0,
+                    5
+                  ]
+                },
+                {
+                  "name": "Jalen Tolbert",
+                  "values": [
+                    1,
+                    8,
+                    0,
+                    1
+                  ]
+                },
+                {
+                  "name": "Jaylen Wright",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    1
+                  ]
+                },
+                {
+                  "name": "Ollie Gordon II",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    1
+                  ]
+                },
+                {
+                  "name": "Will Kacmarek",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Defense",
+              "columns": [
+                "TCKL",
+                "SACK",
+                "TFL",
+                "INT",
+                "FF"
+              ],
+              "rows": [
+                {
+                  "name": "Jordyn Brooks",
+                  "values": [
+                    11,
+                    0,
+                    0,
+                    0,
+                    ""
+                  ]
+                },
+                {
+                  "name": "Jacob Rodriguez",
+                  "values": [
+                    8,
+                    0,
+                    0,
+                    0,
+                    ""
+                  ]
+                },
+                {
+                  "name": "Zach Sieler",
+                  "values": [
+                    6,
+                    0,
+                    0,
+                    0,
+                    ""
+                  ]
+                },
+                {
+                  "name": "Michael Taaffe",
+                  "values": [
+                    6,
+                    0,
+                    1,
+                    0,
+                    ""
+                  ]
+                },
+                {
+                  "name": "Jordan Phillips",
+                  "values": [
+                    5,
+                    0,
+                    0,
+                    0,
+                    ""
+                  ]
+                },
+                {
+                  "name": "Josh Uche",
+                  "values": [
+                    4,
+                    1,
+                    1,
+                    0,
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "MhOZjDTqSmw",
+          "title": "Patriots at Dolphins: game highlights",
+          "channel": "New England Patriots",
+          "kind": "full"
+        }
+      ]
     },
     {
       "teamKey": "celtics",
@@ -269,7 +728,399 @@
           "note": "Gave Boston 21 useful minutes in his first game as the backup center."
         }
       ],
-      "oppLine": "Anthony Black had 23 points and 8 rebounds and Tristan da Silva had 23 points (five threes) and 10 rebounds; Franz Wagner had a career-high 12 assists but shot 5-of-20."
+      "oppLine": "Anthony Black had 23 points and 8 rebounds and Tristan da Silva had 23 points (five threes) and 10 rebounds; Franz Wagner had a career-high 12 assists but shot 5-of-20.",
+      "box": {
+        "source": {
+          "name": "ESPN",
+          "url": "https://www.espn.com/nba/boxscore/_/gameId/401909903"
+        },
+        "boston": {
+          "name": "Celtics",
+          "groups": [
+            {
+              "label": "",
+              "columns": [
+                "MIN",
+                "PTS",
+                "REB",
+                "AST",
+                "FG",
+                "3PT",
+                "FT",
+                "STL",
+                "BLK",
+                "TO",
+                "+/-"
+              ],
+              "rows": [
+                {
+                  "name": "Paul George",
+                  "values": [
+                    33,
+                    17,
+                    6,
+                    8,
+                    "6-14",
+                    "3-10",
+                    "2-2",
+                    2,
+                    2,
+                    4,
+                    "+10"
+                  ]
+                },
+                {
+                  "name": "Jayson Tatum",
+                  "values": [
+                    34,
+                    32,
+                    4,
+                    7,
+                    "8-19",
+                    "1-5",
+                    "15-17",
+                    0,
+                    2,
+                    4,
+                    "+7"
+                  ]
+                },
+                {
+                  "name": "Neemias Queta",
+                  "values": [
+                    27,
+                    8,
+                    8,
+                    1,
+                    "4-9",
+                    "0-1",
+                    "0-0",
+                    0,
+                    2,
+                    1,
+                    "-2"
+                  ]
+                },
+                {
+                  "name": "Derrick White",
+                  "values": [
+                    34,
+                    12,
+                    2,
+                    2,
+                    "4-8",
+                    "2-5",
+                    "2-2",
+                    2,
+                    0,
+                    1,
+                    "+18"
+                  ]
+                },
+                {
+                  "name": "Hugo Gonzalez",
+                  "values": [
+                    14,
+                    7,
+                    1,
+                    1,
+                    "3-5",
+                    "1-3",
+                    "0-1",
+                    2,
+                    0,
+                    0,
+                    "0"
+                  ]
+                },
+                {
+                  "name": "Payton Pritchard",
+                  "values": [
+                    27,
+                    7,
+                    7,
+                    3,
+                    "3-11",
+                    "0-7",
+                    "1-1",
+                    1,
+                    1,
+                    1,
+                    "+3"
+                  ]
+                },
+                {
+                  "name": "Luka Garza",
+                  "values": [
+                    21,
+                    12,
+                    6,
+                    4,
+                    "4-7",
+                    "2-4",
+                    "2-3",
+                    1,
+                    0,
+                    0,
+                    "+11"
+                  ]
+                },
+                {
+                  "name": "Baylor Scheierman",
+                  "values": [
+                    20,
+                    10,
+                    2,
+                    1,
+                    "4-5",
+                    "2-3",
+                    "0-0",
+                    0,
+                    0,
+                    0,
+                    "+10"
+                  ]
+                },
+                {
+                  "name": "Sam Hauser",
+                  "values": [
+                    17,
+                    3,
+                    2,
+                    0,
+                    "1-3",
+                    "1-3",
+                    "0-0",
+                    1,
+                    0,
+                    0,
+                    "+2"
+                  ]
+                },
+                {
+                  "name": "Jordan Walsh",
+                  "values": [
+                    13,
+                    0,
+                    3,
+                    2,
+                    "0-3",
+                    "0-3",
+                    "0-0",
+                    0,
+                    0,
+                    1,
+                    "-4"
+                  ]
+                }
+              ],
+              "totals": [
+                "",
+                108,
+                41,
+                29,
+                "37-84",
+                "12-44",
+                "22-26",
+                9,
+                7,
+                12,
+                ""
+              ],
+              "starters": 5
+            }
+          ]
+        },
+        "opp": {
+          "name": "Magic",
+          "groups": [
+            {
+              "label": "",
+              "columns": [
+                "MIN",
+                "PTS",
+                "REB",
+                "AST",
+                "FG",
+                "3PT",
+                "FT",
+                "STL",
+                "BLK",
+                "TO",
+                "+/-"
+              ],
+              "rows": [
+                {
+                  "name": "Franz Wagner",
+                  "values": [
+                    40,
+                    14,
+                    6,
+                    12,
+                    "5-20",
+                    "1-4",
+                    "3-4",
+                    0,
+                    0,
+                    3,
+                    "-7"
+                  ]
+                },
+                {
+                  "name": "Wendell Carter Jr.",
+                  "values": [
+                    35,
+                    7,
+                    10,
+                    0,
+                    "2-6",
+                    "1-5",
+                    "2-4",
+                    2,
+                    0,
+                    3,
+                    "-7"
+                  ]
+                },
+                {
+                  "name": "Desmond Bane",
+                  "values": [
+                    40,
+                    19,
+                    2,
+                    1,
+                    "7-13",
+                    "5-9",
+                    "0-0",
+                    2,
+                    1,
+                    3,
+                    "-10"
+                  ]
+                },
+                {
+                  "name": "Anthony Black",
+                  "values": [
+                    33,
+                    23,
+                    8,
+                    3,
+                    "6-12",
+                    "1-5",
+                    "10-11",
+                    2,
+                    0,
+                    4,
+                    "-11"
+                  ]
+                },
+                {
+                  "name": "Jase Richardson",
+                  "values": [
+                    26,
+                    4,
+                    1,
+                    3,
+                    "2-8",
+                    "0-4",
+                    "0-0",
+                    0,
+                    0,
+                    0,
+                    "-8"
+                  ]
+                },
+                {
+                  "name": "Tristan da Silva",
+                  "values": [
+                    35,
+                    23,
+                    10,
+                    2,
+                    "9-14",
+                    "5-8",
+                    "0-0",
+                    0,
+                    0,
+                    2,
+                    "-1"
+                  ]
+                },
+                {
+                  "name": "Jamal Cain",
+                  "values": [
+                    18,
+                    5,
+                    1,
+                    1,
+                    "2-5",
+                    "1-4",
+                    "0-0",
+                    0,
+                    0,
+                    0,
+                    "-7"
+                  ]
+                },
+                {
+                  "name": "Nikola Vucevic",
+                  "values": [
+                    7,
+                    2,
+                    4,
+                    2,
+                    "1-2",
+                    "0-0",
+                    "0-0",
+                    0,
+                    1,
+                    1,
+                    "-5"
+                  ]
+                },
+                {
+                  "name": "Goga Bitadze",
+                  "values": [
+                    5,
+                    0,
+                    1,
+                    0,
+                    "0-1",
+                    "0-0",
+                    "0-0",
+                    0,
+                    0,
+                    0,
+                    "+1"
+                  ]
+                }
+              ],
+              "totals": [
+                "",
+                97,
+                43,
+                24,
+                "34-81",
+                "14-39",
+                "15-19",
+                6,
+                2,
+                16,
+                ""
+              ],
+              "starters": 5
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "8jItnLHesf0",
+          "title": "Celtics at Magic: full game highlights",
+          "channel": "NBA",
+          "kind": "full"
+        }
+      ]
     }
   ],
   "teamNews": {
