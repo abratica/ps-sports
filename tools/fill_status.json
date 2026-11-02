@@ -2,18 +2,12 @@
   "issue": "2026-11-02",
   "games": {
     "patriots": {
-      "box": "added",
-      "video_notes": [
-        "feeds: found MhOZjDTqSmw"
-      ],
-      "video": "added MhOZjDTqSmw (New England Patriots)"
+      "box": "ok",
+      "video": "ok"
     },
     "celtics": {
-      "box": "added",
-      "video_notes": [
-        "feeds: found 8jItnLHesf0"
-      ],
-      "video": "added 8jItnLHesf0 (NBA)"
+      "box": "ok",
+      "video": "ok"
     }
   }
 }
