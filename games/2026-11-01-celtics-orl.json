@@ -1,0 +1,103 @@
+{
+  "teamKey": "celtics",
+  "sport": "NBA",
+  "headline": "Tatum's 32 and George's late three push the streak to five",
+  "home": false,
+  "boston": {
+    "abbr": "BOS",
+    "score": 108
+  },
+  "opp": {
+    "abbr": "ORL",
+    "name": "Magic",
+    "score": 97,
+    "record": "2–4"
+  },
+  "result": "W",
+  "record": "5–1",
+  "takeaway": "Jayson Tatum scored 32, 15 of them at the line, and Paul George's three with 1:32 left closed out an Orlando team that had cut it to 97–93. Boston has won five straight heading to Houston.",
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "boston": [
+      24,
+      31,
+      22,
+      31
+    ],
+    "opp": [
+      23,
+      27,
+      24,
+      23
+    ],
+    "sections": [
+      {
+        "label": "1st quarter",
+        "score": "BOS 24, ORL 23",
+        "text": "Boston went 1-of-10 from three but forced eight turnovers. Hugo González, in his first start of the season, scored all 7 of his points in the quarter. Tatum bumped heads with Jamal Cain and went to the locker room bleeding, then returned without needing stitches."
+      },
+      {
+        "label": "2nd quarter",
+        "score": "BOS 55, ORL 50",
+        "text": "Payton Pritchard picked up three fouls in 10:40 and sat the rest of the half. Boston stayed ahead on the glass, with eight offensive rebounds and 13 second-chance points by halftime; Tatum had 17 and Luka Garza 9 off the bench."
+      },
+      {
+        "label": "3rd quarter",
+        "score": "BOS 77, ORL 74",
+        "text": "Boston opened the half on a 14–4 run, capped by a Derrick White three, to lead 69–54. Tristan da Silva hit three threes in 2:28 and Anthony Black added another to tie it 72–72. Boston's only field goal over the last 7:03 was a Sam Hauser three, and Tatum scored the quarter's final 5 points at the line."
+      },
+      {
+        "label": "4th quarter",
+        "score": "Final: BOS 108, ORL 97",
+        "text": "Black tied it at 79 early in the quarter, and Orlando later got within 97–93. Tatum answered with two mid-range jumpers, and George's three with 1:32 left made it 104–93. George scored 10 in the quarter, and Neemias Queta had two blocks in the final minutes."
+      }
+    ],
+    "sources": [
+      {
+        "name": "ESPN",
+        "url": "https://www.espn.com/nba/recap?gameId=401909903"
+      },
+      {
+        "name": "Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/11/01/sports/celtics-magic/"
+      },
+      {
+        "name": "Boston.com",
+        "url": "https://www.boston.com/sports/boston-celtics/2026/11/01/jayson-tatum-celtics-magic-takeaways/"
+      },
+      {
+        "name": "MassLive (Yahoo Sports)",
+        "url": "https://sports.yahoo.com/articles/4-takeaways-celtics-defeat-magic-231019073.html"
+      },
+      {
+        "name": "NBC Sports Boston",
+        "url": "https://www.nbcsportsboston.com/nba/boston-celtics/live-updates-celtics-magic-jayson-tatum-video-highlights/810660/"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "Jayson Tatum",
+      "line": "32 PTS · 7 AST · 8-19 FG · 1-5 3PT · 15-17 FT",
+      "note": "Carried a cold-shooting offense from the line and hit the two jumpers that stopped Orlando's last push."
+    },
+    {
+      "name": "Paul George",
+      "line": "17 PTS · 6 REB · 8 AST · 2 STL · 2 BLK",
+      "note": "Scored 10 in the fourth, including the dagger three, though he was 3-of-10 from deep."
+    },
+    {
+      "name": "Luka Garza",
+      "line": "12 PTS · 6 REB · 4 AST",
+      "note": "Gave Boston 21 useful minutes in his first game as the backup center."
+    }
+  ],
+  "oppLine": "Anthony Black had 23 points and 8 rebounds and Tristan da Silva had 23 points (five threes) and 10 rebounds; Franz Wagner had a career-high 12 assists but shot 5-of-20.",
+  "id": "2026-11-01-celtics-orl",
+  "date": "2026-11-01"
+}

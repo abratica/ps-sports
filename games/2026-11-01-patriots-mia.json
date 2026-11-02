@@ -1,0 +1,99 @@
+{
+  "teamKey": "patriots",
+  "sport": "NFL",
+  "headline": "Maye's three second-half touchdowns rally Patriots past Miami",
+  "home": false,
+  "boston": {
+    "abbr": "NE",
+    "score": 24
+  },
+  "opp": {
+    "abbr": "MIA",
+    "name": "Dolphins",
+    "score": 19,
+    "record": "1–6"
+  },
+  "result": "W",
+  "record": "5–3",
+  "takeaway": "Down 13–3 at halftime, Drake Maye threw two touchdown passes and ran for a third as New England scored 21 straight points. The Patriots are 5–3 and 3–0 in the AFC East.",
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "boston": [
+      3,
+      0,
+      14,
+      7
+    ],
+    "opp": [
+      3,
+      10,
+      0,
+      6
+    ],
+    "sections": [
+      {
+        "label": "1st quarter",
+        "score": "NE 3, MIA 3",
+        "text": "Andy Borregales opened the scoring with a 34-yard field goal. Jacob Rodriguez then forced an Efton Chism III fumble that Miami recovered at the New England 19, and Zane Gonzalez's 31-yard field goal tied it 3–3."
+      },
+      {
+        "label": "2nd quarter",
+        "score": "MIA 13, NE 3",
+        "text": "Gonzalez's 52-yarder bounced in off the upright for a 6–3 Miami lead. Borregales missed a 40-yard try wide right with 2:24 left, and Miami answered with an 11-play, 70-yard drive capped by Malik Willis's 1-yard touchdown pass to Malik Washington with eight seconds left. Hunter Henry left with a foot injury."
+      },
+      {
+        "label": "3rd quarter",
+        "score": "NE 17, MIA 13",
+        "text": "Maye hit Kyle Williams for a 43-yard touchdown that was ruled incomplete until Mike Vrabel's challenge overturned it, making it 13–10. Maye then scored on a 2-yard run off a fake pitch on third-and-goal with 59 seconds left. He went 7-of-7 for 96 yards in the quarter."
+      },
+      {
+        "label": "4th quarter",
+        "score": "Final: NE 24, MIA 19",
+        "text": "Kevin Byard's first interception as a Patriot set up Maye's 48-yard touchdown to DeMario Douglas for a 24–13 lead with 12:39 left. Willis found Kevin Coleman Jr. for a 35-yard score with 2:04 left, but the two-point try failed, Rhamondre Stevenson recovered the onside kick, and his 5-yard run on third-and-5 ran out the clock."
+      }
+    ],
+    "sources": [
+      {
+        "name": "AP (ABC News)",
+        "url": "https://abcnews.com/Sports/wireStory/maye-3-touchdowns-patriots-rally-beat-dolphins-24-137759707"
+      },
+      {
+        "name": "Boston.com",
+        "url": "https://www.boston.com/sports/new-england-patriots/2026/11/01/patriots-dolphins-takeaways-score-update-drake-maye-miami-rain-nfl/"
+      },
+      {
+        "name": "Patriots.com",
+        "url": "https://www.patriots.com/news/game-observations-8-takeaways-from-the-patriots-comeback-win-over-the-dolphins-in-week-8"
+      },
+      {
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/breaking-news/article/patriots-avert-disaster-vs-dolphins-with-big-second-half-from-drake-maye-to-keep-pace-in-stacked-afc-playoff-race-003301569.html"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "Drake Maye",
+      "line": "16-20 · 199 YDS · 2 TD · 1 RUSH TD",
+      "note": "Had 53 passing yards at halftime, then went 9-of-10 for 146 yards after it; his fifth straight game with at least three touchdowns."
+    },
+    {
+      "name": "Rhamondre Stevenson",
+      "line": "19 CAR · 82 YDS",
+      "note": "Recovered the onside kick and picked up the clinching first down."
+    },
+    {
+      "name": "DeMario Douglas",
+      "line": "3 REC · 76 YDS · 1 TD",
+      "note": "Caught every target, including the 48-yard catch-and-run that made it a two-score game."
+    }
+  ],
+  "oppLine": "Malik Willis was 21-of-32 for 211 yards and two touchdowns with an interception and was sacked five times; Ollie Gordon ran for 69 yards on 19 carries.",
+  "id": "2026-11-01-patriots-mia",
+  "date": "2026-11-01"
+}

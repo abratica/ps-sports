@@ -1,6 +1,34 @@
 {
   "games": [
     {
+      "id": "2026-11-01-patriots-mia",
+      "team": "patriots",
+      "date": "2026-11-01",
+      "home": false,
+      "opp": "Dolphins",
+      "oppAbbr": "MIA",
+      "bos": 24,
+      "oppScore": 19,
+      "result": "W",
+      "record": "5–3",
+      "headline": "Maye's three second-half touchdowns rally Patriots past Miami",
+      "ot": false
+    },
+    {
+      "id": "2026-11-01-celtics-orl",
+      "team": "celtics",
+      "date": "2026-11-01",
+      "home": false,
+      "opp": "Magic",
+      "oppAbbr": "ORL",
+      "bos": 108,
+      "oppScore": 97,
+      "result": "W",
+      "record": "5–1",
+      "headline": "Tatum's 32 and George's late three push the streak to five",
+      "ot": false
+    },
+    {
       "id": "2026-10-31-bruins-chi",
       "team": "bruins",
       "date": "2026-10-31",
