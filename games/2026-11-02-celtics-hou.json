@@ -1,0 +1,103 @@
+{
+  "teamKey": "celtics",
+  "sport": "NBA",
+  "headline": "Sengun and Houston end Boston's five-game streak",
+  "home": false,
+  "boston": {
+    "abbr": "BOS",
+    "score": 93
+  },
+  "opp": {
+    "abbr": "HOU",
+    "name": "Rockets",
+    "score": 109,
+    "record": "7–1"
+  },
+  "result": "L",
+  "record": "5–2",
+  "takeaway": "Houston never trailed, and Alperen Sengun went 12-of-15 for 26 points as the Rockets beat a Celtics team resting Paul George on the second night of a back-to-back. Boston shot 12-of-42 from three, and its five-game win streak is over.",
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "boston": [
+      29,
+      21,
+      23,
+      20
+    ],
+    "opp": [
+      29,
+      28,
+      25,
+      27
+    ],
+    "sections": [
+      {
+        "label": "1st quarter",
+        "score": "BOS 29, HOU 29",
+        "text": "An even opening quarter. Tari Eason hit two early threes off the Houston bench, and Luka Garza answered with threes of his own as the backup center."
+      },
+      {
+        "label": "2nd quarter",
+        "score": "HOU 57, BOS 50",
+        "text": "Houston won the quarter 28–21. Sengun had 12 first-half points on 6-of-8 shooting, and Mitchell Robinson briefly left with a sprained left thumb before returning. Boston closed the half on an 8–4 run capped by a Jayson Tatum three; Tatum had 11 points on 3-of-9 at the break."
+      },
+      {
+        "label": "3rd quarter",
+        "score": "HOU 82, BOS 73",
+        "text": "Robinson replaced Hugo González in the starting lineup for the second half, and Neemias Queta scored Boston's first 7 points of the quarter. Tatum then picked up two quick offensive fouls, both on charges drawn by Marcus Smart, and sat late in the quarter with four fouls as Boston went 6:17 without a field goal."
+      },
+      {
+        "label": "4th quarter",
+        "score": "Final: HOU 109, BOS 93",
+        "text": "Houston pulled away, with Smart hitting two late threes and Reed Sheppard scoring 8 in the quarter. Boston trailed by as many as 18, its largest deficit of the season, and was down 15 when Tatum checked out with 2:29 left. The Rockets outscored Boston 50–34 in the paint and 18–2 on fast breaks."
+      }
+    ],
+    "sources": [
+      {
+        "name": "ESPN",
+        "url": "https://www.espn.com/nba/recap?gameId=401909916"
+      },
+      {
+        "name": "Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/11/02/sports/nba-celtics-rockets-game-score/"
+      },
+      {
+        "name": "WEEI",
+        "url": "https://www.audacy.com/weei/sports/celtics/3-takeaways-as-celtics-5-game-win-streak-ends-in-houston"
+      },
+      {
+        "name": "Celtics On SI",
+        "url": "https://www.si.com/nba/celtics/onsi/celtics-vs-rockets-4-things-the-box-score-won-t-tell-you-about-boston-s-109-93-loss-01m6fwcbb1a3"
+      },
+      {
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/articles/rockets-snap-celtics-five-game-040557925.html"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "Jayson Tatum",
+      "line": "19 PTS · 6 REB · 9 AST · 5-16 FG · 1-7 3PT · 8-8 FT",
+      "note": "Scored or assisted on 43% of Boston's baskets, but had five turnovers and spent part of the third in foul trouble."
+    },
+    {
+      "name": "Neemias Queta",
+      "line": "16 PTS",
+      "note": "Opened the second half with Boston's first 7 points to keep it within reach."
+    },
+    {
+      "name": "Luka Garza",
+      "line": "14 PTS · 4-7 3PT",
+      "note": "He and Baylor Scheierman went 7-of-13 from three; the rest of the team went 5-of-29."
+    }
+  ],
+  "oppLine": "Alperen Sengun had 26 points on 12-of-15 shooting, 10 assists and 7 rebounds; Jabari Smith Jr. and Amen Thompson scored 14 each, and Kevin Durant had 12 on 5-of-6.",
+  "id": "2026-11-02-celtics-hou",
+  "date": "2026-11-02"
+}

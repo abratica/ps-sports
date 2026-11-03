@@ -1,0 +1,685 @@
+{
+  "teamKey": "bruins",
+  "sport": "NHL",
+  "headline": "Pastrnak's shootout winner holds off Vegas",
+  "home": true,
+  "boston": {
+    "abbr": "BOS",
+    "score": 3
+  },
+  "opp": {
+    "abbr": "VGK",
+    "name": "Golden Knights",
+    "score": 2,
+    "record": "9–5–2"
+  },
+  "result": "W",
+  "record": "11–4–1",
+  "takeaway": "David Pastrnak scored the only goal of the shootout after Vegas came back from 2–0 down, and Jeremy Swayman stopped all three Golden Knights shooters. Boston has won six straight at home and sits second in the East with 23 points.",
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3",
+      "OT",
+      "SO"
+    ],
+    "boston": [
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    "opp": [
+      0,
+      1,
+      1,
+      0,
+      0
+    ],
+    "sections": [
+      {
+        "label": "1st period",
+        "score": "BOS 1, VGK 0",
+        "text": "At 7:23, seconds after Carter Hart stopped Nikita Zadorov in the slot, Elias Lindholm collected the puck behind the net and fed James Hagens for his sixth goal, the most among NHL rookies. Boston has scored first in six of its last seven games."
+      },
+      {
+        "label": "2nd period",
+        "score": "BOS 2, VGK 1",
+        "text": "Braeden Bowman got a five-minute major and a game misconduct at 2:49 for an elbow to Matthew Poitras's face, and Morgan Geekie scored 33 seconds into the major, from Pavel Zacha and Pastrnak, to end Boston's 0-for-10 power-play skid. Poitras returned to the bench but never took another shift. Mark Stone cut it to 2–1 on a power play at 14:58, putting in the rebound of a Tomas Hertl shot; Charlie McAvoy, who took three penalties, was also called for arguing with the officials after the goal."
+      },
+      {
+        "label": "3rd period",
+        "score": "BOS 2, VGK 2",
+        "text": "Trevor Connelly tied it at 7:23, banking Noah Hanifin's feed from behind the net off Swayman."
+      },
+      {
+        "label": "Overtime",
+        "score": "BOS 2, VGK 2",
+        "text": "No goals in overtime, sending Boston to its first shootout of the season."
+      },
+      {
+        "label": "Shootout",
+        "score": "Final: BOS 3, VGK 2 (SO)",
+        "text": "Swayman stopped Connelly, Jack Eichel and Mitch Marner, and Pastrnak beat Hart in the third round for the only goal."
+      }
+    ],
+    "sources": [
+      {
+        "name": "NHL.com",
+        "url": "https://www.nhl.com/news/vegas-golden-knights-boston-bruins-game-recap-november-2-2026"
+      },
+      {
+        "name": "NESN",
+        "url": "https://nesn.com/boston-bruins/news/bruins-golden-knights-takeaways-pastrnak-swayman-shootout-win/0de37426c42a3c2596e139af"
+      },
+      {
+        "name": "Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/11/02/sports/bruins-golden-knights-david-pastrnak/"
+      },
+      {
+        "name": "WEEI",
+        "url": "https://audacy.com/weei/sports/bruins/4-takeaways-as-james-hagens-stays-hot-in-bruins-win-over-vegas"
+      },
+      {
+        "name": "Boston Hockey Now",
+        "url": "https://bostonhockeynow.com/2026-11-02-boston-bruins-vegas-golden-knights-game-16-recap/"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "David Pastrnak",
+      "line": "1 A · 7 SOG · SO winner",
+      "note": "Led all skaters with seven shots, set up Geekie's power-play goal and scored the only shootout goal."
+    },
+    {
+      "name": "Jeremy Swayman",
+      "line": "21 SV · .913 SV% · 3-for-3 in SO",
+      "note": "Gave up two goals in a lead Boston let slip, then stopped all three Vegas shooters."
+    },
+    {
+      "name": "James Hagens",
+      "line": "1 G · 3 SOG · 17:27 TOI",
+      "note": "His sixth goal leads NHL rookies, and he turns 20 today."
+    }
+  ],
+  "oppLine": "Mitch Marner had two assists, extending his point streak to 10 games; Mark Stone and Trevor Connelly scored, and Carter Hart made 25 saves.",
+  "box": {
+    "source": {
+      "name": "ESPN",
+      "url": "https://www.espn.com/nhl/boxscore/_/gameId/401892629"
+    },
+    "boston": {
+      "name": "Bruins",
+      "groups": [
+        {
+          "label": "Skaters",
+          "columns": [
+            "G",
+            "A",
+            "PTS",
+            "+/-",
+            "SOG",
+            "HIT",
+            "BLK",
+            "TOI"
+          ],
+          "rows": [
+            {
+              "name": "Charlie McAvoy",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                1,
+                0,
+                1,
+                "25:36"
+              ]
+            },
+            {
+              "name": "Elias Lindholm",
+              "values": [
+                0,
+                1,
+                1,
+                "+1",
+                0,
+                0,
+                1,
+                "22:07"
+              ]
+            },
+            {
+              "name": "Pavel Zacha",
+              "values": [
+                0,
+                1,
+                1,
+                "-1",
+                1,
+                1,
+                0,
+                "21:43"
+              ]
+            },
+            {
+              "name": "David Pastrnak",
+              "values": [
+                0,
+                1,
+                1,
+                "0",
+                7,
+                0,
+                2,
+                "21:31"
+              ]
+            },
+            {
+              "name": "Hampus Lindholm",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                2,
+                0,
+                1,
+                "20:35"
+              ]
+            },
+            {
+              "name": "Nikita Zadorov",
+              "values": [
+                0,
+                1,
+                1,
+                "+1",
+                1,
+                0,
+                1,
+                "19:54"
+              ]
+            },
+            {
+              "name": "Fraser Minten",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                1,
+                1,
+                1,
+                "19:46"
+              ]
+            },
+            {
+              "name": "JJ Peterka",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                0,
+                1,
+                1,
+                "19:24"
+              ]
+            },
+            {
+              "name": "Will Borgen",
+              "values": [
+                0,
+                0,
+                0,
+                "+1",
+                2,
+                1,
+                0,
+                "18:58"
+              ]
+            },
+            {
+              "name": "Mason Lohrei",
+              "values": [
+                0,
+                0,
+                0,
+                "-1",
+                2,
+                0,
+                0,
+                "17:57"
+              ]
+            },
+            {
+              "name": "Casey Mittelstadt",
+              "values": [
+                0,
+                0,
+                0,
+                "+1",
+                2,
+                0,
+                0,
+                "17:53"
+              ]
+            },
+            {
+              "name": "James Hagens",
+              "values": [
+                1,
+                0,
+                1,
+                "+1",
+                3,
+                0,
+                1,
+                "17:27"
+              ]
+            },
+            {
+              "name": "Morgan Geekie",
+              "values": [
+                1,
+                0,
+                1,
+                "-1",
+                2,
+                0,
+                0,
+                "16:57"
+              ]
+            },
+            {
+              "name": "Marat Khusnutdinov",
+              "values": [
+                0,
+                0,
+                0,
+                "-1",
+                1,
+                1,
+                1,
+                "15:05"
+              ]
+            },
+            {
+              "name": "Jonathan Aspirot",
+              "values": [
+                0,
+                0,
+                0,
+                "-1",
+                2,
+                2,
+                1,
+                "14:08"
+              ]
+            },
+            {
+              "name": "Tanner Jeannot",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                0,
+                4,
+                1,
+                "9:36"
+              ]
+            },
+            {
+              "name": "Mark Kastelic",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                0,
+                3,
+                1,
+                "9:02"
+              ]
+            },
+            {
+              "name": "Matthew Poitras",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                0,
+                0,
+                0,
+                "3:13"
+              ]
+            }
+          ],
+          "totals": [
+            2,
+            4,
+            6,
+            "",
+            27,
+            14,
+            13,
+            ""
+          ]
+        },
+        {
+          "label": "Goalies",
+          "columns": [
+            "SA",
+            "SV",
+            "SV%",
+            "TOI"
+          ],
+          "rows": [
+            {
+              "name": "Jeremy Swayman",
+              "values": [
+                23,
+                21,
+                ".913",
+                "65:00"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "opp": {
+      "name": "Golden Knights",
+      "groups": [
+        {
+          "label": "Skaters",
+          "columns": [
+            "G",
+            "A",
+            "PTS",
+            "+/-",
+            "SOG",
+            "HIT",
+            "BLK",
+            "TOI"
+          ],
+          "rows": [
+            {
+              "name": "Jack Eichel",
+              "values": [
+                0,
+                0,
+                0,
+                "-1",
+                1,
+                0,
+                0,
+                "24:57"
+              ]
+            },
+            {
+              "name": "Mitch Marner",
+              "values": [
+                0,
+                2,
+                2,
+                "+1",
+                1,
+                1,
+                2,
+                "24:25"
+              ]
+            },
+            {
+              "name": "Shea Theodore",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                0,
+                0,
+                0,
+                "23:46"
+              ]
+            },
+            {
+              "name": "Noah Hanifin",
+              "values": [
+                0,
+                1,
+                1,
+                "0",
+                5,
+                0,
+                2,
+                "23:44"
+              ]
+            },
+            {
+              "name": "Rasmus Andersson",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                2,
+                0,
+                1,
+                "21:54"
+              ]
+            },
+            {
+              "name": "Mark Stone",
+              "values": [
+                1,
+                0,
+                1,
+                "-1",
+                2,
+                1,
+                3,
+                "21:35"
+              ]
+            },
+            {
+              "name": "Brayden McNabb",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                1,
+                1,
+                0,
+                "21:05"
+              ]
+            },
+            {
+              "name": "William Karlsson",
+              "values": [
+                0,
+                0,
+                0,
+                "+1",
+                1,
+                2,
+                0,
+                "19:26"
+              ]
+            },
+            {
+              "name": "Jeremy Lauzon",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                0,
+                5,
+                2,
+                "18:18"
+              ]
+            },
+            {
+              "name": "Brett Howden",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                2,
+                1,
+                0,
+                "15:59"
+              ]
+            },
+            {
+              "name": "Ivan Barbashev",
+              "values": [
+                0,
+                0,
+                0,
+                "-1",
+                1,
+                4,
+                2,
+                "15:16"
+              ]
+            },
+            {
+              "name": "Trevor Connelly",
+              "values": [
+                1,
+                0,
+                1,
+                "+1",
+                1,
+                0,
+                1,
+                "14:17"
+              ]
+            },
+            {
+              "name": "Tomas Hertl",
+              "values": [
+                0,
+                1,
+                1,
+                "0",
+                4,
+                5,
+                1,
+                "13:48"
+              ]
+            },
+            {
+              "name": "Dylan Coghlan",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                2,
+                0,
+                0,
+                "12:06"
+              ]
+            },
+            {
+              "name": "Jonas Rondbjerg",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                0,
+                0,
+                0,
+                "11:02"
+              ]
+            },
+            {
+              "name": "Nic Dowd",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                0,
+                3,
+                1,
+                "9:43"
+              ]
+            },
+            {
+              "name": "Marc Gatcomb",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                0,
+                5,
+                0,
+                "9:19"
+              ]
+            },
+            {
+              "name": "Braeden Bowman",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                0,
+                0,
+                0,
+                "5:20"
+              ]
+            }
+          ],
+          "totals": [
+            2,
+            4,
+            6,
+            "",
+            23,
+            28,
+            15,
+            ""
+          ]
+        },
+        {
+          "label": "Goalies",
+          "columns": [
+            "SA",
+            "SV",
+            "SV%",
+            "TOI"
+          ],
+          "rows": [
+            {
+              "name": "Carter Hart",
+              "values": [
+                27,
+                25,
+                ".926",
+                "65:00"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "id": "2026-11-02-bruins-vgk",
+  "date": "2026-11-02"
+}

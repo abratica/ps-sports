@@ -1,6 +1,34 @@
 {
   "games": [
     {
+      "id": "2026-11-02-celtics-hou",
+      "team": "celtics",
+      "date": "2026-11-02",
+      "home": false,
+      "opp": "Rockets",
+      "oppAbbr": "HOU",
+      "bos": 93,
+      "oppScore": 109,
+      "result": "L",
+      "record": "5–2",
+      "headline": "Sengun and Houston end Boston's five-game streak",
+      "ot": false
+    },
+    {
+      "id": "2026-11-02-bruins-vgk",
+      "team": "bruins",
+      "date": "2026-11-02",
+      "home": true,
+      "opp": "Golden Knights",
+      "oppAbbr": "VGK",
+      "bos": 3,
+      "oppScore": 2,
+      "result": "W",
+      "record": "11–4–1",
+      "headline": "Pastrnak's shootout winner holds off Vegas",
+      "ot": true
+    },
+    {
       "id": "2026-11-01-patriots-mia",
       "team": "patriots",
       "date": "2026-11-01",
