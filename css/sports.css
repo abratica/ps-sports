@@ -732,7 +732,6 @@ body.view-sports .sb-venue { font: 600 12.5px var(--serif); color: rgba(247, 244
 body.view-sports .sb-digits { display: flex; gap: 6px; }
 body.view-sports .sb-dg { font: 700 40px/1 var(--display); background: #000; border-radius: 8px; padding: 6px 4px 4px; width: 70px; text-align: center;
   color: #F7F4EE; box-shadow: inset 0 0 0 1px #2a2a2a; font-variant-numeric: tabular-nums; }
-body.view-sports .sb-dg.lose { color: rgba(247, 244, 238, .42); }
 body.view-sports .sb-clock { margin-top: 7px; font: 700 15px var(--display); letter-spacing: .06em; color: #F7F4EE; text-align: center; white-space: nowrap; }
 body.view-sports .board-row.sb.is-live .sb-clock { color: #FF5A50; }
 body.view-sports .sb-tv { justify-content: center; margin-top: 10px; }
@@ -901,7 +900,6 @@ html[data-theme="dark"] .lv-score { border: 1px solid #2C2B29; }
 .lv-score .tm { display: flex; align-items: center; gap: 8px; font: 700 22px var(--display); min-width: 0; }
 .lv-score .tm.r { justify-content: flex-end; }
 .lv-score .tm .n { font: 700 30px var(--display); margin: 0 4px; }
-.lv-score .tm.lose .n { color: rgba(247, 244, 238, .45); }
 .lv-mark { width: 24px; height: 24px; flex: none; display: inline-flex; border-radius: 50%; }
 .lv-mark.nologo { background: var(--c); }
 .lv-mark .lv-logo { width: 100%; height: 100%; object-fit: contain; }
