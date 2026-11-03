@@ -680,6 +680,14 @@
       ]
     }
   },
+  "videos": [
+    {
+      "id": "W0dN5kHv2-M",
+      "title": "Golden Knights at Bruins: game highlights",
+      "channel": "Sportsnet",
+      "kind": "full"
+    }
+  ],
   "id": "2026-11-02-bruins-vgk",
   "date": "2026-11-02"
 }
