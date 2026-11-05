@@ -1,4 +1,14 @@
 {
-  "issue": "2026-11-04",
-  "games": {}
+  "issue": "2026-11-05",
+  "games": {
+    "celtics": {
+      "box": "added",
+      "video_notes": [
+        "feeds: found tTHB5rEPkWA",
+        "search '\"Bucks at Celtics\" full game highlights November 4, 2026': 19 results",
+        "search hit ie77OeeANhg [NBA]: BUCKS at CELTICS | FULL GAME HIGHLIGHTS | November 4, 2026"
+      ],
+      "video": "added ie77OeeANhg (NBA)"
+    }
+  }
 }
