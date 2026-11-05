@@ -1,0 +1,80 @@
+{
+  "teamKey": "celtics",
+  "sport": "NBA",
+  "headline": "George and White hold off Milwaukee without Tatum",
+  "home": true,
+  "boston": {
+    "abbr": "BOS",
+    "score": 109
+  },
+  "opp": {
+    "abbr": "MIL",
+    "name": "Bucks",
+    "score": 102,
+    "record": "1–7"
+  },
+  "result": "W",
+  "record": "6–2",
+  "takeaway": "Boston blew a 21-point halftime lead and trailed 92–91 in the fourth, then Derrick White's and-one keyed a 7–0 run that held off Milwaukee. Without a resting Jayson Tatum, the Celtics stayed perfect at home at 5–0.",
+  "report": {
+    "sections": [
+      {
+        "label": "1st quarter",
+        "score": "BOS 28, MIL 14",
+        "text": "Sam Hauser hit threes on Boston's first two shots, and Paul George played the whole quarter for 10 points and 3 steals. Mitchell Robinson grabbed 6 rebounds in five minutes off the bench."
+      },
+      {
+        "label": "2nd quarter",
+        "score": "BOS 62, MIL 41",
+        "text": "Boston led by as many as 22. The Celtics went 10-of-17 from three in the half, with the bench 5-for-5, including Luka Garza 3-for-3. Payton Pritchard briefly left with a cut on his nose and returned."
+      },
+      {
+        "label": "3rd quarter",
+        "text": "Milwaukee opened on a 24–12 run to get within 74–65 with 6:02 left, with Tyler Herro scoring 18 of his 25 in the quarter as the Bucks went 6-of-8 from three. Baylor Scheierman's back-to-back threes pushed the lead back to 13, and Boston took an eight-point lead into the fourth. Pritchard left with a right eye abrasion and did not return."
+      },
+      {
+        "label": "4th quarter",
+        "score": "Final: BOS 109, MIL 102",
+        "text": "The Bucks opened on a 10–4 run, Ryan Rollins's dunks made it 91–89 with 8:17 left, and Nate Ament's layup and free throw gave Milwaukee its first lead, 92–91. White's and-one made it 102–97 with 2:22 left, his five points capped a 7–0 run to 104–97, and George's three restored an eight-point lead. White's free throws sealed it."
+      }
+    ],
+    "sources": [
+      {
+        "name": "AP (Boston.com)",
+        "url": "https://www.boston.com/sports/boston-celtics/2026/11/04/paul-george-and-derrick-white-leads-celtics-past-bucks-109-102/"
+      },
+      {
+        "name": "CelticsBlog (Yahoo Sports)",
+        "url": "https://sports.yahoo.com/articles/celtics-survive-stampede-bucks-win-030756676.html"
+      },
+      {
+        "name": "Celtics On SI",
+        "url": "https://si.com/nba/celtics/onsi/celtics-hold-off-bucks-without-tatum-5-things-the-box-score-won-t-tell-you-01m6mz8b1a4d"
+      },
+      {
+        "name": "NBC Sports Boston",
+        "url": "https://www.nbcsportsboston.com/nba/boston-celtics/live-updates-jayson-tatum-out-paul-george/811573/"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "Paul George",
+      "line": "25 PTS · 5 AST · 4 STL · 5 3PT",
+      "note": "Back from a night off, he scored 9 in the fourth, though he also missed two free throws in a tie game and turned it over out of a timeout."
+    },
+    {
+      "name": "Derrick White",
+      "line": "24 PTS · 7 AST · 4 REB",
+      "note": "Scored 11 in the fourth, including the and-one and the free throws that closed it out."
+    },
+    {
+      "name": "Baylor Scheierman",
+      "line": "9 PTS · 11 REB · 3-4 3PT",
+      "note": "His back-to-back threes stopped Milwaukee's third-quarter run, and he was a team-best plus-11."
+    }
+  ],
+  "oppLine": "Tyler Herro had 25 points, 18 of them in the third quarter; Jaime Jaquez Jr. added 18 and Ryan Rollins 13.",
+  "id": "2026-11-04-celtics-mil",
+  "date": "2026-11-04"
+}
