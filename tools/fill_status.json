@@ -2,11 +2,8 @@
   "issue": "2026-11-06",
   "games": {
     "bruins": {
-      "box": "added",
-      "video_notes": [
-        "feeds: found o28U_zQAGIM"
-      ],
-      "video": "added o28U_zQAGIM (Sportsnet)"
+      "box": "ok",
+      "video": "ok"
     }
   }
 }
