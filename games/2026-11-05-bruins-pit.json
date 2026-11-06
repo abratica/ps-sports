@@ -1,0 +1,91 @@
+{
+  "teamKey": "bruins",
+  "sport": "NHL",
+  "headline": "Zacha scores twice as Bruins roll in Pittsburgh",
+  "home": false,
+  "boston": {
+    "abbr": "BOS",
+    "score": 6
+  },
+  "opp": {
+    "abbr": "PIT",
+    "name": "Penguins",
+    "score": 2,
+    "record": "5–9–2"
+  },
+  "result": "W",
+  "record": "12–4–1",
+  "takeaway": "Boston answered Pittsburgh's early goal with three in the first period, and Pavel Zacha scored twice in a 6–2 win, the Bruins' third straight. Rookie James Hagens left after a cross-check to the back and did not return.",
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3"
+    ],
+    "boston": [
+      3,
+      2,
+      1
+    ],
+    "opp": [
+      1,
+      1,
+      0
+    ],
+    "sections": [
+      {
+        "label": "1st period",
+        "score": "BOS 3, PIT 1",
+        "text": "Justin Brazeau put Pittsburgh ahead on its first shot at 9:04. Zacha tied it 1–1 at 12:07, Mark Kastelic redirected Frederic Brunet's point shot for a 2–1 lead at 15:04, and Elias Lindholm picked off an Erik Karlsson clearing pass and scored at 18:57."
+      },
+      {
+        "label": "2nd period",
+        "score": "BOS 5, PIT 2",
+        "text": "Nick Robertson redirected Kaedan Korczak's shot to make it 3–2 at 7:57. Zacha answered at 14:24 for a 4–2 lead, and Morgan Geekie scored on a breakaway set up by Hampus Lindholm at 16:57, then hit the post about 20 seconds later."
+      },
+      {
+        "label": "3rd period",
+        "score": "Final: BOS 6, PIT 2",
+        "text": "Fraser Minten scored on a stretch pass from Geekie at 8:39. Hagens left early in the period after Samuel Girard cross-checked him in the lower back. All six Boston goals came at even strength, a season high."
+      }
+    ],
+    "sources": [
+      {
+        "name": "NHL.com",
+        "url": "https://www.nhl.com/news/boston-bruins-pittsburgh-penguins-game-recap-november-5-2026"
+      },
+      {
+        "name": "WEEI",
+        "url": "https://www.audacy.com/weei/sports/bruins/5-takeaways-as-bruins-crush-penguins-for-third-straight-win"
+      },
+      {
+        "name": "Boston.com",
+        "url": "https://www.boston.com/sports/boston-bruins/2026/11/05/james-hagens-injury-boston-bruins-nhl-hockey-penguins/"
+      },
+      {
+        "name": "NESN",
+        "url": "https://nesn.com/boston-bruins/news/bruins-penguins-takeaways-win-zacha-geekie-dipietro/d90a79b7ec7faf4bfb6bbd02"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "Pavel Zacha",
+      "line": "2 G · +2",
+      "note": "Tied it in the first and restored a two-goal lead right after Pittsburgh got within 3–2."
+    },
+    {
+      "name": "Morgan Geekie",
+      "line": "1 G · 1 A",
+      "note": "Scored for a third straight game and set up Minten's goal in the third."
+    },
+    {
+      "name": "Michael DiPietro",
+      "line": "16 SV · 18 SA",
+      "note": "Improved to 4–1–0 as Pittsburgh managed only 18 shots."
+    }
+  ],
+  "oppLine": "Justin Brazeau and Nick Robertson scored, Kaedan Korczak had two assists, and Arturs Silovs made 18 saves.",
+  "id": "2026-11-05-bruins-pit",
+  "date": "2026-11-05"
+}

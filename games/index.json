@@ -1,6 +1,20 @@
 {
   "games": [
     {
+      "id": "2026-11-05-bruins-pit",
+      "team": "bruins",
+      "date": "2026-11-05",
+      "home": false,
+      "opp": "Penguins",
+      "oppAbbr": "PIT",
+      "bos": 6,
+      "oppScore": 2,
+      "result": "W",
+      "record": "12–4–1",
+      "headline": "Zacha scores twice as Bruins roll in Pittsburgh",
+      "ot": false
+    },
+    {
       "id": "2026-11-04-celtics-mil",
       "team": "celtics",
       "date": "2026-11-04",
