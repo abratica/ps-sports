@@ -86,6 +86,588 @@
     }
   ],
   "oppLine": "Justin Brazeau and Nick Robertson scored, Kaedan Korczak had two assists, and Arturs Silovs made 18 saves.",
+  "box": {
+    "source": {
+      "name": "ESPN",
+      "url": "https://www.espn.com/nhl/boxscore/_/gameId/401892654"
+    },
+    "boston": {
+      "name": "Bruins",
+      "groups": [
+        {
+          "label": "Skaters",
+          "columns": [
+            "G",
+            "A",
+            "PTS",
+            "+/-",
+            "SOG",
+            "HIT",
+            "BLK",
+            "TOI"
+          ],
+          "rows": [
+            {
+              "name": "Nikita Zadorov",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                0,
+                4,
+                2,
+                "21:25"
+              ]
+            },
+            {
+              "name": "Will Borgen",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                0,
+                3,
+                4,
+                "21:02"
+              ]
+            },
+            {
+              "name": "David Pastrnak",
+              "values": [
+                0,
+                2,
+                2,
+                "1",
+                4,
+                1,
+                0,
+                "20:23"
+              ]
+            },
+            {
+              "name": "Hampus Lindholm",
+              "values": [
+                0,
+                1,
+                1,
+                "4",
+                1,
+                2,
+                3,
+                "20:13"
+              ]
+            },
+            {
+              "name": "Charlie McAvoy",
+              "values": [
+                0,
+                0,
+                0,
+                "3",
+                1,
+                0,
+                2,
+                "20:02"
+              ]
+            },
+            {
+              "name": "Mason Lohrei",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                0,
+                1,
+                2,
+                "19:10"
+              ]
+            },
+            {
+              "name": "Pavel Zacha",
+              "values": [
+                2,
+                0,
+                2,
+                "2",
+                2,
+                1,
+                1,
+                "18:37"
+              ]
+            },
+            {
+              "name": "JJ Peterka",
+              "values": [
+                0,
+                2,
+                2,
+                "2",
+                1,
+                0,
+                1,
+                "18:25"
+              ]
+            },
+            {
+              "name": "Frederic Brunet",
+              "values": [
+                0,
+                1,
+                1,
+                "1",
+                0,
+                0,
+                2,
+                "16:21"
+              ]
+            },
+            {
+              "name": "Sean Kuraly",
+              "values": [
+                0,
+                0,
+                0,
+                "2",
+                2,
+                2,
+                0,
+                "14:47"
+              ]
+            },
+            {
+              "name": "Elias Lindholm",
+              "values": [
+                1,
+                0,
+                1,
+                "-1",
+                3,
+                0,
+                1,
+                "14:40"
+              ]
+            },
+            {
+              "name": "Marat Khusnutdinov",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                1,
+                1,
+                0,
+                "14:00"
+              ]
+            },
+            {
+              "name": "Fraser Minten",
+              "values": [
+                1,
+                0,
+                1,
+                "1",
+                1,
+                2,
+                1,
+                "13:54"
+              ]
+            },
+            {
+              "name": "Morgan Geekie",
+              "values": [
+                1,
+                1,
+                2,
+                "2",
+                2,
+                0,
+                1,
+                "13:44"
+              ]
+            },
+            {
+              "name": "Tanner Jeannot",
+              "values": [
+                0,
+                1,
+                1,
+                "2",
+                1,
+                4,
+                0,
+                "13:16"
+              ]
+            },
+            {
+              "name": "Mark Kastelic",
+              "values": [
+                1,
+                0,
+                1,
+                "1",
+                1,
+                2,
+                2,
+                "13:11"
+              ]
+            },
+            {
+              "name": "Casey Mittelstadt",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                0,
+                0,
+                0,
+                "12:53"
+              ]
+            },
+            {
+              "name": "James Hagens",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                4,
+                1,
+                0,
+                "11:57"
+              ]
+            }
+          ],
+          "totals": [
+            6,
+            8,
+            14,
+            "",
+            24,
+            24,
+            22,
+            ""
+          ]
+        },
+        {
+          "label": "Goalies",
+          "columns": [
+            "SA",
+            "SV",
+            "SV%",
+            "TOI"
+          ],
+          "rows": [
+            {
+              "name": "Michael DiPietro",
+              "values": [
+                18,
+                16,
+                ".889",
+                "60:00"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "opp": {
+      "name": "Penguins",
+      "groups": [
+        {
+          "label": "Skaters",
+          "columns": [
+            "G",
+            "A",
+            "PTS",
+            "+/-",
+            "SOG",
+            "HIT",
+            "BLK",
+            "TOI"
+          ],
+          "rows": [
+            {
+              "name": "Erik Karlsson",
+              "values": [
+                0,
+                0,
+                0,
+                "-4",
+                0,
+                0,
+                0,
+                "21:05"
+              ]
+            },
+            {
+              "name": "Kris Letang",
+              "values": [
+                0,
+                0,
+                0,
+                "-2",
+                0,
+                3,
+                0,
+                "20:27"
+              ]
+            },
+            {
+              "name": "Spencer Stastney",
+              "values": [
+                0,
+                0,
+                0,
+                "-1",
+                2,
+                1,
+                0,
+                "20:15"
+              ]
+            },
+            {
+              "name": "Samuel Girard",
+              "values": [
+                0,
+                0,
+                0,
+                "-2",
+                3,
+                0,
+                2,
+                "20:08"
+              ]
+            },
+            {
+              "name": "Kaedan Korczak",
+              "values": [
+                0,
+                2,
+                2,
+                "1",
+                0,
+                1,
+                2,
+                "19:28"
+              ]
+            },
+            {
+              "name": "Ben Kindel",
+              "values": [
+                0,
+                0,
+                0,
+                "-3",
+                0,
+                1,
+                0,
+                "18:07"
+              ]
+            },
+            {
+              "name": "Sidney Crosby",
+              "values": [
+                0,
+                0,
+                0,
+                "-1",
+                0,
+                2,
+                0,
+                "17:15"
+              ]
+            },
+            {
+              "name": "Rickard Rakell",
+              "values": [
+                0,
+                0,
+                0,
+                "-3",
+                3,
+                0,
+                0,
+                "17:15"
+              ]
+            },
+            {
+              "name": "Declan Carlile",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                1,
+                0,
+                2,
+                "17:14"
+              ]
+            },
+            {
+              "name": "Tommy Novak",
+              "values": [
+                0,
+                0,
+                0,
+                "-2",
+                0,
+                0,
+                0,
+                "17:06"
+              ]
+            },
+            {
+              "name": "Connor Dewar",
+              "values": [
+                0,
+                0,
+                0,
+                "1",
+                1,
+                2,
+                0,
+                "16:14"
+              ]
+            },
+            {
+              "name": "Evgeni Malkin",
+              "values": [
+                0,
+                0,
+                0,
+                "-1",
+                1,
+                0,
+                0,
+                "16:11"
+              ]
+            },
+            {
+              "name": "Egor Chinakhov",
+              "values": [
+                0,
+                0,
+                0,
+                "-1",
+                1,
+                0,
+                0,
+                "15:42"
+              ]
+            },
+            {
+              "name": "Nick Robertson",
+              "values": [
+                1,
+                0,
+                1,
+                "1",
+                2,
+                2,
+                0,
+                "14:57"
+              ]
+            },
+            {
+              "name": "Blake Lizotte",
+              "values": [
+                0,
+                1,
+                1,
+                "1",
+                0,
+                1,
+                0,
+                "13:29"
+              ]
+            },
+            {
+              "name": "Hendrix Lapierre",
+              "values": [
+                0,
+                1,
+                1,
+                "-1",
+                0,
+                5,
+                0,
+                "12:21"
+              ]
+            },
+            {
+              "name": "Justin Brazeau",
+              "values": [
+                1,
+                0,
+                1,
+                "-2",
+                4,
+                0,
+                1,
+                "11:49"
+              ]
+            },
+            {
+              "name": "Ville Koivunen",
+              "values": [
+                0,
+                0,
+                0,
+                "-1",
+                0,
+                0,
+                0,
+                "8:57"
+              ]
+            }
+          ],
+          "totals": [
+            2,
+            4,
+            6,
+            "",
+            18,
+            18,
+            7,
+            ""
+          ]
+        },
+        {
+          "label": "Goalies",
+          "columns": [
+            "SA",
+            "SV",
+            "SV%",
+            "TOI"
+          ],
+          "rows": [
+            {
+              "name": "Arturs Silovs",
+              "values": [
+                24,
+                18,
+                ".750",
+                "60:00"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "videos": [
+    {
+      "id": "o28U_zQAGIM",
+      "title": "Bruins at Penguins: game highlights",
+      "channel": "Sportsnet",
+      "kind": "full"
+    }
+  ],
   "id": "2026-11-05-bruins-pit",
   "date": "2026-11-05"
 }
