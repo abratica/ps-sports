@@ -1,0 +1,103 @@
+{
+  "teamKey": "celtics",
+  "sport": "NBA",
+  "headline": "Tatum's 34 leads a record night from three in Charlotte",
+  "home": false,
+  "boston": {
+    "abbr": "BOS",
+    "score": 119
+  },
+  "opp": {
+    "abbr": "CHA",
+    "name": "Hornets",
+    "score": 80,
+    "record": "3–7"
+  },
+  "result": "W",
+  "record": "7–2",
+  "takeaway": "Jayson Tatum scored 18 of his 34 points in the first quarter and Boston made an NBA Cup-record 24 threes in a 119–80 rout. The Celtics are 2–0 in Cup play at plus-53 and have won seven of eight.",
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "boston": [
+      40,
+      30,
+      26,
+      23
+    ],
+    "opp": [
+      20,
+      19,
+      18,
+      23
+    ],
+    "sections": [
+      {
+        "label": "1st quarter",
+        "score": "BOS 40, CHA 20",
+        "text": "Tatum and Paul George opened with back-to-back threes, and Boston led 16–4 early. Tatum had 18 points with three threes, tying his career high for an opening quarter, and Boston went 9-of-17 from deep while Charlotte made 2 of 14."
+      },
+      {
+        "label": "2nd quarter",
+        "score": "BOS 70, CHA 39",
+        "text": "Boston led 53–25 with 6:34 left and 62–31 later in the quarter. Brandon Miller left with right groin soreness after scoring 8 on 3-of-10 shooting and did not return. The Celtics made 17 of 31 threes in the half, tying a franchise record, and Derrick White had all 18 of his points by the break."
+      },
+      {
+        "label": "3rd quarter",
+        "score": "BOS 96, CHA 57",
+        "text": "Neemias Queta scored on a hook and a one-handed alley-oop from Tatum, and Jordan Walsh finished an and-one dunk off a Tatum pass. Tatum sat for good in the final minute of the quarter after 29 minutes."
+      },
+      {
+        "label": "4th quarter",
+        "score": "Final: BOS 119, CHA 80",
+        "text": "Payton Pritchard hit threes in the fourth on the way to 12 points. Boston finished 24-of-44 from three; Charlotte shot 29.3% and lost its sixth straight."
+      }
+    ],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://abcnews.com/Sports/wireStory/jayson-tatum-scores-34-celtics-demolish-hornets-119-137933370"
+      },
+      {
+        "name": "ESPN",
+        "url": "https://www.espn.com/nba/recap?gameId=401909288"
+      },
+      {
+        "name": "NBA.com",
+        "url": "https://www.nba.com/celtics/news/game-recap-keys-20261106-boscha"
+      },
+      {
+        "name": "NBC Sports Boston",
+        "url": "https://www.nbcsportsboston.com/nba/boston-celtics/live-updates-hornets-nba-cup-highlights-score/812009/"
+      },
+      {
+        "name": "SB Nation (Yahoo Sports)",
+        "url": "https://sports.yahoo.com/articles/celtics-brutalize-injury-riddled-hornets-022601551.html"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "Jayson Tatum",
+      "line": "34 PTS · 8 REB · 9 AST · 5-8 3PT · 11-11 FT",
+      "note": "Back from a night of rest, he had 24 by halftime and a game-best plus-36 in 29 minutes."
+    },
+    {
+      "name": "Derrick White",
+      "line": "18 PTS · 5 AST",
+      "note": "Scored all 18 in the first half, 10 of them in the first quarter, as Boston pulled away."
+    },
+    {
+      "name": "Payton Pritchard",
+      "line": "12 PTS",
+      "note": "Cleared after Wednesday's eye abrasion, he hit threes in the first and fourth quarters off the bench."
+    }
+  ],
+  "oppLine": "Naz Reid had 14 points on 6-of-17 shooting, Tidjane Salaun added 13 and Sion James 11 off the bench; Brandon Miller left in the second quarter.",
+  "id": "2026-11-06-celtics-cha",
+  "date": "2026-11-06"
+}

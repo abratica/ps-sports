@@ -1,6 +1,20 @@
 {
   "games": [
     {
+      "id": "2026-11-06-celtics-cha",
+      "team": "celtics",
+      "date": "2026-11-06",
+      "home": false,
+      "opp": "Hornets",
+      "oppAbbr": "CHA",
+      "bos": 119,
+      "oppScore": 80,
+      "result": "W",
+      "record": "7–2",
+      "headline": "Tatum's 34 leads a record night from three in Charlotte",
+      "ot": false
+    },
+    {
       "id": "2026-11-05-bruins-pit",
       "team": "bruins",
       "date": "2026-11-05",
