@@ -98,6 +98,478 @@
     }
   ],
   "oppLine": "Naz Reid had 14 points on 6-of-17 shooting, Tidjane Salaun added 13 and Sion James 11 off the bench; Brandon Miller left in the second quarter.",
+  "box": {
+    "source": {
+      "name": "ESPN",
+      "url": "https://www.espn.com/nba/boxscore/_/gameId/401909288"
+    },
+    "boston": {
+      "name": "Celtics",
+      "groups": [
+        {
+          "label": "",
+          "columns": [
+            "MIN",
+            "PTS",
+            "REB",
+            "AST",
+            "FG",
+            "3PT",
+            "FT",
+            "STL",
+            "BLK",
+            "TO",
+            "+/-"
+          ],
+          "rows": [
+            {
+              "name": "Paul George",
+              "values": [
+                22,
+                8,
+                5,
+                1,
+                "3-11",
+                "2-5",
+                "0-0",
+                1,
+                2,
+                3,
+                "+23"
+              ]
+            },
+            {
+              "name": "Jayson Tatum",
+              "values": [
+                29,
+                34,
+                8,
+                9,
+                "9-16",
+                "5-8",
+                "11-11",
+                1,
+                1,
+                4,
+                "+36"
+              ]
+            },
+            {
+              "name": "Neemias Queta",
+              "values": [
+                15,
+                4,
+                3,
+                1,
+                "2-5",
+                "0-0",
+                "0-0",
+                0,
+                1,
+                1,
+                "+15"
+              ]
+            },
+            {
+              "name": "Derrick White",
+              "values": [
+                25,
+                18,
+                4,
+                5,
+                "6-10",
+                "4-6",
+                "2-3",
+                1,
+                0,
+                2,
+                "+23"
+              ]
+            },
+            {
+              "name": "Jordan Walsh",
+              "values": [
+                22,
+                6,
+                3,
+                0,
+                "2-4",
+                "1-3",
+                "1-1",
+                0,
+                0,
+                1,
+                "+14"
+              ]
+            },
+            {
+              "name": "Payton Pritchard",
+              "values": [
+                23,
+                12,
+                6,
+                5,
+                "4-10",
+                "4-6",
+                "0-0",
+                1,
+                0,
+                2,
+                "+27"
+              ]
+            },
+            {
+              "name": "Luka Garza",
+              "values": [
+                19,
+                6,
+                7,
+                4,
+                "2-7",
+                "2-3",
+                "0-2",
+                0,
+                2,
+                2,
+                "+16"
+              ]
+            },
+            {
+              "name": "Sam Hauser",
+              "values": [
+                17,
+                9,
+                3,
+                3,
+                "3-5",
+                "3-5",
+                "0-0",
+                0,
+                1,
+                0,
+                "+24"
+              ]
+            },
+            {
+              "name": "Mitchell Robinson",
+              "values": [
+                15,
+                6,
+                7,
+                0,
+                "3-5",
+                "0-0",
+                "0-0",
+                0,
+                1,
+                0,
+                "+6"
+              ]
+            },
+            {
+              "name": "Baylor Scheierman",
+              "values": [
+                15,
+                5,
+                4,
+                2,
+                "1-2",
+                "1-2",
+                "2-2",
+                0,
+                0,
+                0,
+                "+11"
+              ]
+            },
+            {
+              "name": "Hugo Gonzalez",
+              "values": [
+                15,
+                8,
+                1,
+                0,
+                "2-5",
+                "1-4",
+                "3-4",
+                0,
+                0,
+                2,
+                "-3"
+              ]
+            },
+            {
+              "name": "Mike Conley",
+              "values": [
+                11,
+                0,
+                0,
+                1,
+                "0-1",
+                "0-1",
+                "0-0",
+                0,
+                0,
+                0,
+                "+5"
+              ]
+            },
+            {
+              "name": "Ron Harper Jr.",
+              "values": [
+                10,
+                3,
+                0,
+                2,
+                "1-2",
+                "1-1",
+                "0-0",
+                0,
+                0,
+                1,
+                "-2"
+              ]
+            }
+          ],
+          "totals": [
+            "",
+            119,
+            51,
+            33,
+            "38-83",
+            "24-44",
+            "19-23",
+            4,
+            8,
+            18,
+            ""
+          ],
+          "starters": 5
+        }
+      ]
+    },
+    "opp": {
+      "name": "Hornets",
+      "groups": [
+        {
+          "label": "",
+          "columns": [
+            "MIN",
+            "PTS",
+            "REB",
+            "AST",
+            "FG",
+            "3PT",
+            "FT",
+            "STL",
+            "BLK",
+            "TO",
+            "+/-"
+          ],
+          "rows": [
+            {
+              "name": "Brandon Miller",
+              "values": [
+                14,
+                8,
+                2,
+                1,
+                "3-10",
+                "0-3",
+                "2-2",
+                1,
+                1,
+                0,
+                "-17"
+              ]
+            },
+            {
+              "name": "Naz Reid",
+              "values": [
+                26,
+                14,
+                6,
+                2,
+                "6-17",
+                "2-5",
+                "0-0",
+                1,
+                0,
+                2,
+                "-30"
+              ]
+            },
+            {
+              "name": "Ryan Kalkbrenner",
+              "values": [
+                21,
+                4,
+                5,
+                0,
+                "1-1",
+                "0-0",
+                "2-2",
+                0,
+                0,
+                2,
+                "-15"
+              ]
+            },
+            {
+              "name": "Grayson Allen",
+              "values": [
+                22,
+                0,
+                2,
+                3,
+                "0-5",
+                "0-4",
+                "0-0",
+                1,
+                0,
+                0,
+                "-24"
+              ]
+            },
+            {
+              "name": "Coby White",
+              "values": [
+                16,
+                7,
+                1,
+                1,
+                "1-8",
+                "1-6",
+                "4-4",
+                0,
+                0,
+                3,
+                "-23"
+              ]
+            },
+            {
+              "name": "Hannes Steinbach",
+              "values": [
+                27,
+                4,
+                11,
+                1,
+                "2-5",
+                "0-0",
+                "0-0",
+                0,
+                3,
+                1,
+                "-24"
+              ]
+            },
+            {
+              "name": "Royce O'Neale",
+              "values": [
+                26,
+                7,
+                4,
+                2,
+                "2-6",
+                "2-6",
+                "1-1",
+                2,
+                0,
+                1,
+                "-13"
+              ]
+            },
+            {
+              "name": "Christian Anderson",
+              "values": [
+                25,
+                4,
+                3,
+                5,
+                "2-10",
+                "0-7",
+                "0-0",
+                0,
+                0,
+                4,
+                "-6"
+              ]
+            },
+            {
+              "name": "Tidjane Salaun",
+              "values": [
+                23,
+                13,
+                4,
+                0,
+                "3-11",
+                "2-8",
+                "5-6",
+                0,
+                0,
+                1,
+                "-12"
+              ]
+            },
+            {
+              "name": "Sion James",
+              "values": [
+                21,
+                11,
+                3,
+                0,
+                "4-8",
+                "3-5",
+                "0-0",
+                0,
+                0,
+                0,
+                "-18"
+              ]
+            },
+            {
+              "name": "Liam McNeeley",
+              "values": [
+                19,
+                8,
+                2,
+                3,
+                "3-11",
+                "1-6",
+                "1-2",
+                1,
+                0,
+                1,
+                "-13"
+              ]
+            }
+          ],
+          "totals": [
+            "",
+            80,
+            43,
+            18,
+            "27-92",
+            "11-50",
+            "15-17",
+            6,
+            3,
+            15,
+            ""
+          ],
+          "starters": 5
+        }
+      ]
+    }
+  },
+  "videos": [
+    {
+      "id": "V0JGW8-fCAw",
+      "title": "Celtics at Hornets: full game highlights",
+      "channel": "NBA",
+      "kind": "full"
+    }
+  ],
   "id": "2026-11-06-celtics-cha",
   "date": "2026-11-06"
 }

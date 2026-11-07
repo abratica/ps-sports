@@ -1,9 +1,14 @@
 {
-  "issue": "2026-11-06",
+  "issue": "2026-11-07",
   "games": {
-    "bruins": {
-      "box": "ok",
-      "video": "ok"
+    "celtics": {
+      "box": "added",
+      "video_notes": [
+        "feeds: nothing",
+        "search '\"Celtics at Hornets\" full game highlights November 6, 2026': 17 results",
+        "search hit V0JGW8-fCAw [NBA]: CELTICS at HORNETS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 6, 2026"
+      ],
+      "video": "added V0JGW8-fCAw (NBA)"
     }
   }
 }
