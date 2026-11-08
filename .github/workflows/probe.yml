@@ -14,28 +14,28 @@ jobs:
         run: |
           python3 - <<'PY'
           import json, urllib.request, os
-          def get(u):
-              with urllib.request.urlopen(urllib.request.Request(u, headers={'User-Agent':'Mozilla/5.0'}), timeout=30) as r: return json.load(r)
-          os.makedirs('probe', exist_ok=True)
-          out={}
-          try:
-              base='https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/'
-              sb=get(base+'scoreboard?dates=20261108')
-              ev=[e for e in sb['events'] if any(c['team']['abbreviation']=='BOS' for c in e['competitions'][0]['competitors'])][0]
-              s=get(base+'summary?event='+ev['id'])
-              out['espn_keys']=list(s.keys()); out['espn_videos']=s.get('videos')
-              out['espn_sb_videos']=[c.get('highlights') for c in ev['competitions']]
-          except Exception as e: out['espn_err']=str(e)
-          try:
-              sc=get('https://api-web.nhle.com/v1/score/2026-11-08')
-              g=[x for x in sc['games'] if 'BOS' in (x['awayTeam']['abbrev'],x['homeTeam']['abbrev'])][0]
-              out['nhl_score_game']=g
-              out['nhl_landing']=get(f"https://api-web.nhle.com/v1/gamecenter/{g['id']}/landing")
-          except Exception as e: out['nhl_err']=str(e)
-          json.dump(out, open('probe/nhl_clips.json','w'))
-          print('ok')
+          H={'User-Agent':'Mozilla/5.0'}
+          def raw(u,extra=None):
+              with urllib.request.urlopen(urllib.request.Request(u, headers={**H,**(extra or {})}), timeout=30) as r: return r.read(), r.headers
+          def get(u): return json.loads(raw(u)[0])
+          os.makedirs('probe/th', exist_ok=True)
+          base='https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/'
+          sb=get(base+'scoreboard?dates=20261108'); json.dump(sb, open('probe/sb_nhl_20261108.json','w'))
+          ev=[e for e in sb['events'] if any(c['team']['abbreviation']=='BOS' for c in e['competitions'][0]['competitors'])][0]
+          s=get(base+'summary?event='+ev['id']); json.dump(s, open('probe/sum_nhl_20261108.json','w'))
+          rep=[]
+          for i,v in enumerate(s.get('videos',[])):
+              try:
+                  b,_=raw(v['thumbnail']); open(f'probe/th/{v["id"]}.jpg','wb').write(b)
+              except Exception as e: rep.append(('thumb',v['id'],str(e)))
+          v=s['videos'][0]; mp4=v['links']['source']['href']
+          for ref in (None,'https://abratica.github.io/'):
+              try:
+                  b,h=raw(mp4,{'Range':'bytes=0-1023',**({'Referer':ref} if ref else {})}); rep.append(('mp4',ref,h.get('Content-Type'),h.get('Content-Range'),h.get('Access-Control-Allow-Origin')))
+              except Exception as e: rep.append(('mp4',ref,str(e)))
+          json.dump(rep, open('probe/report.json','w')); print(rep)
           PY
       - name: Commit
         run: |
           git config user.name "probe" && git config user.email "probe@users.noreply.github.com"
-          git add probe && git commit -qm "probe nhl clips" && git push -q origin HEAD:probe-espn
+          git add probe && git commit -qm "probe nhl clips 2" && git push -q origin HEAD:probe-espn
