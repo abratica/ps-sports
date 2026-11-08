@@ -36,6 +36,7 @@
   const SPORTS_HUB = { name: "98.5 The Sports Hub", url: "https://985thesportshub.com/listen",
     stream: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBZFMAAC.aac" };
   const RADIO = { patriots: SPORTS_HUB, celtics: SPORTS_HUB, bruins: SPORTS_HUB };
+  const CL_PLAY = `<svg width="12" height="12" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4.5v15l13-7.5z" fill="currentColor"/></svg>`;
   const STAT_ICON = `<svg class="ic-stat" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 20V11M12 20V5M19 20v-6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>`;
   const RADIO_ICON = `<svg class="ic-radio" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="8" width="18" height="12" rx="2.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M7 8l10-4.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><circle cx="15.5" cy="14" r="2.6" fill="none" stroke="currentColor" stroke-width="2"/><path d="M6.5 12.5h4M6.5 15.5h4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>`;
   const PAUSE_ICON = `<svg class="ic-pause" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><rect x="6" y="5" width="4" height="14" rx="1.2" fill="currentColor"/><rect x="14" y="5" width="4" height="14" rx="1.2" fill="currentColor"/></svg>`;
@@ -437,7 +438,7 @@
     const key = `${g.teamKey}|${g.date || ""}|${g.opp.abbr}`;
     RC[key] = g;
     return `<button type="button" class="rc-statbtn" data-rc="${esc(key)}" data-league="${esc(lg)}" data-ev="${esc(id)}">${STAT_ICON.replace('width="16" height="16"', 'width="18" height="18"')}
-      <span class="t">Stats<span class="s">Box score · Plays · Team stats</span></span>${chevronRight.replace("ta-chev", "rcs-chev")}</button>`;
+      <span class="t">Stats<span class="s">Box score · Plays · Clips</span></span>${chevronRight.replace("ta-chev", "rcs-chev")}</button>`;
   }
   function game(g, open) {
     const pli = (p) => `
@@ -1386,7 +1387,30 @@
             per: (p.period || {}).number || 0, scoring: !!p.scoringPlay, type: ((p.type || {}).text) || "" })).reverse() };
       }).reverse();
     }
-    return { lg, away, home, status, state, box, stats, plays, playsNote, drives, id: ((j.header || {}).id) || "" };
+    // Clips: ESPN's short videos for this game (goals, big plays), newest first.
+    // Hockey clips are matched to their goal by the scorer's last name, so they show the period and time.
+    const goals = lg === "nhl" ? all.filter((p) => (p.type || {}).text === "Goal") : [];
+    const usedGoal = new Set(), seenClip = new Set();
+    const clips = (j.videos || []).map((v) => {
+      const L = v.links || {}, src = L.source || {};
+      return { id: String(v.id || ""), title: v.headline || v.description || "", thumb: v.thumbnail || "", dur: +v.duration || 0,
+        pub: v.originalPublishDate || v.lastModified || "", mp4: (src.HD || {}).href || src.href || (L.mobile && L.mobile.source && L.mobile.source.href) || "", hls: (src.HLS || {}).href || "" };
+    }).filter((c) => c.id && c.title && (c.mp4 || c.hls))
+      .sort((a, b) => String(a.pub).localeCompare(String(b.pub)))
+      .filter((c) => {
+        if (seenClip.has(c.title)) return false;
+        seenClip.add(c.title);
+        const g = goals.find((p) => { const last = lvLast(String(p.text || "").split(" Goal")[0]); return last && c.title.includes(last); });
+        if (g) {
+          const key = `${(g.period || {}).number}|${(g.clock || {}).displayValue}`;
+          if (usedGoal.has(key)) return false;   // a second angle of the same goal
+          usedGoal.add(key);
+          const n = (g.period || {}).number || 1;
+          c.when = `${n <= 3 ? ord(n) : n === 4 ? "OT" : "Shootout"} · ${(g.clock || {}).displayValue || ""}`;
+        }
+        return true;
+      }).reverse();
+    return { lg, away, home, status, state, box, stats, plays, playsNote, drives, clips, id: ((j.header || {}).id) || "" };
   }
   function lvPeriod(lg, n) {
     if (lg === "nhl") return n <= 3 ? `${ord(n)} period` : n === 4 ? "Overtime" : n === 5 ? "Shootout" : `${n - 3}OT`;
@@ -1437,6 +1461,24 @@
             ${p.score ? `<span class="lp-sc">${esc(p.score)}</span>` : "<span></span>"}</li>`;
         }).join("") + "</ul>";
       }
+    } else if (tab === "clips") {
+      const list = d.clips || [];
+      const sub = (c) => c.when || (c.pub ? `Posted ${new Date(c.pub).toLocaleTimeString([], { hour: "numeric", minute: "2-digit" })}` : "");
+      const dur = (s) => (s ? `${Math.floor(s / 60)}:${String(Math.round(s % 60)).padStart(2, "0")}` : "");
+      const cur = list.find((c) => c.id === d.playing);
+      const stage = `<div class="cl-stage">${cur ? `<div class="cl-player" data-clip="${esc(cur.id)}">
+          <video controls playsinline autoplay preload="metadata"${cur.thumb ? ` poster="${esc(safeUrl(cur.thumb))}"` : ""}>
+            ${cur.hls ? `<source src="${esc(safeUrl(cur.hls))}" type="application/x-mpegURL">` : ""}${cur.mp4 ? `<source src="${esc(safeUrl(cur.mp4))}" type="video/mp4">` : ""}
+          </video>
+          <div class="cap"><b>${esc(cur.title)}</b><small>${esc(sub(cur))}</small></div></div>` : ""}</div>`;
+      body = list.length ? `${stage}<div class="cl-wrap"><p class="cl-note">Newest first · from ESPN</p><ul class="cl-list">${list.map((c) => `
+          <li><button type="button" class="cl-row${c.id === d.playing ? " on" : ""}" data-clip="${esc(c.id)}">
+            <span class="cl-th">${c.thumb ? `<img src="${esc(safeUrl(c.thumb))}" alt="" loading="lazy" referrerpolicy="no-referrer">` : ""}
+              <span class="pl" aria-hidden="true"><span>${CL_PLAY}</span></span>${c.dur ? `<span class="d">${dur(c.dur)}</span>` : ""}</span>
+            <span class="cl-txt"><b>${esc(c.title)}</b><small>${esc(sub(c))}</small></span></button></li>`).join("")}</ul></div>`
+        : `<p class="lv-empty">${d.offline ? "Clips couldn't load from ESPN right now."
+          : d.state === "pre" ? "Clips show up once the game starts."
+          : `No clips yet. ESPN usually posts ${d.lg === "nhl" ? "goals" : "big plays"} a few minutes after they happen.`}</p>`;
     } else {
       const n = (v) => { const t = String(v); if (/^\d+:\d+$/.test(t)) return t.split(":").reduce((a, x) => a * 60 + +x, 0); const m = t.match(/-?\d+(\.\d+)?/); return m ? Math.max(0, +m[0]) : 0; };
       body = d.stats.length ? `<div class="ts-hd"><span>${esc(d.away.abbr)}</span><span>${esc(d.home.abbr)}</span></div><div class="ts">${d.stats.map((x) => {
@@ -1494,6 +1536,7 @@
         <button type="button" data-lv="box" aria-selected="${tab === "box"}">Box score</button>
         <button type="button" data-lv="plays" aria-selected="${tab === "plays"}">Plays</button>
         <button type="button" data-lv="stats" aria-selected="${tab === "stats"}">Team stats</button>
+        <button type="button" data-lv="clips" aria-selected="${tab === "clips"}">Clips</button>
       </div>
       <div class="st-body"></div>
     </div>`;
@@ -1505,7 +1548,23 @@
       const id = x.dataset.dv;
       if (x.open) { dvOpen.add(id); dvOpen.delete("closed:" + id); } else { dvOpen.delete(id); dvOpen.add("closed:" + id); }
     }, true);
-    const render = (keepScroll) => { const top = body.scrollTop; d.open = dvOpen; body.innerHTML = lvBody(d, tab, bxTab); body.scrollTop = keepScroll ? top : 0; el.querySelector(".st-head h2").textContent = title(); };
+    let playing = "";
+    const render = (keepScroll) => {
+      const top = body.scrollTop; d.open = dvOpen; d.playing = playing;
+      const html = lvBody(d, tab, bxTab);
+      const stage = keepScroll && tab === "clips" ? body.querySelector(".cl-stage") : null;
+      if (stage && stage.querySelector("video")) {
+        // A clip is playing: refresh everything around it without touching the video.
+        const t = document.createElement("div"); t.innerHTML = html;
+        const ns = t.querySelector(".cl-stage");
+        [...body.children].forEach((c) => { if (c !== stage) c.remove(); });
+        const kids = [...t.childNodes], i = kids.indexOf(ns);
+        stage.before(...kids.slice(0, i));
+        body.append(...kids.slice(i + 1));
+        body.querySelectorAll(".cl-row").forEach((b) => b.classList.toggle("on", b.dataset.clip === playing));
+      } else body.innerHTML = html;
+      body.scrollTop = keepScroll ? top : 0; el.querySelector(".st-head h2").textContent = title();
+    };
     document.body.appendChild(el);
     document.body.style.overflow = "hidden";
     render(false);
@@ -1531,6 +1590,14 @@
         try { sessionStorage.setItem("bs-lvtab", tab); } catch { /* fine */ }
         el.querySelectorAll(".lv-seg button").forEach((x) => x.setAttribute("aria-selected", String(x === seg)));
         return render(false);
+      }
+      const cl = e.target.closest(".cl-row");
+      if (cl) {
+        playing = cl.dataset.clip;
+        render(false);
+        const v = body.querySelector(".cl-player video");
+        if (v) { const p = v.play(); if (p && p.catch) p.catch(() => {}); }
+        return;
       }
       const bt = e.target.closest(".lv-box .bx-tab");
       if (bt) bxTab = +bt.dataset.bx;   // remembered across refreshes (the shared handler flips the panes)

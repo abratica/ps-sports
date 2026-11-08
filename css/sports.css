@@ -1089,3 +1089,25 @@ body.view-sports .sb-team.has-ball .sb-ab::after {
 body.view-sports .sb-down { margin-top: 3px; font: 700 12px var(--display); letter-spacing: .04em; color: rgba(247, 244, 238, .8); text-align: center; white-space: nowrap; }
 body.view-sports .sb-down[hidden] { display: none; }
 body.view-sports .sb-down.rz { color: #FF5A50; }
+
+/* Live sheet: Clips tab (ESPN's short videos, played in the sheet) */
+.lv-seg { grid-template-columns: repeat(4, 1fr); }
+.lv-seg button { min-width: 0; font-size: 14px; white-space: nowrap; }
+.cl-note { font: 500 12.5px var(--serif); color: var(--muted); margin: 2px 2px 8px; }
+.cl-list { list-style: none; margin: 2px 0 6px; padding: 0; background: var(--card); border: 1px solid var(--rule); border-radius: 12px; overflow: hidden; }
+.cl-list li + li { border-top: 1px solid var(--rule); }
+.cl-row { display: grid; grid-template-columns: 128px 1fr; gap: 12px; align-items: center; width: 100%; padding: 10px 12px; background: none; border: 0; text-align: left; color: inherit; cursor: pointer; font: inherit; }
+.cl-row.on { background: color-mix(in srgb, var(--ink) 6%, var(--card)); }
+.cl-th { position: relative; width: 128px; aspect-ratio: 16 / 9; border-radius: 8px; overflow: hidden; background: #222; }
+.cl-th img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.cl-th .pl { position: absolute; inset: 0; display: grid; place-items: center; }
+.cl-th .pl span { width: 30px; height: 30px; border-radius: 50%; background: rgba(0,0,0,.55); color: #fff; display: grid; place-items: center; padding-left: 2px; box-sizing: border-box; }
+.cl-th .d { position: absolute; right: 5px; bottom: 5px; background: rgba(0,0,0,.72); color: #fff; font: 700 11px var(--display); letter-spacing: .03em; padding: 1px 5px; border-radius: 4px; }
+.cl-txt { min-width: 0; }
+.cl-txt b { display: block; font: 600 15px/1.25 var(--serif); color: var(--ink); }
+.cl-txt small { display: block; margin-top: 4px; font: 500 12.5px var(--serif); color: var(--muted); }
+.cl-player { margin: 2px 0 12px; border-radius: 12px; overflow: hidden; background: #000; }
+.cl-player video { width: 100%; aspect-ratio: 16 / 9; display: block; background: #000; }
+.cl-player .cap { display: flex; justify-content: space-between; gap: 10px; align-items: baseline; padding: 9px 12px 11px; background: var(--card); border: 1px solid var(--rule); border-top: 0; border-radius: 0 0 12px 12px; }
+.cl-player .cap b { font: 600 15px/1.25 var(--serif); color: var(--ink); }
+.cl-player .cap small { font: 500 12.5px var(--serif); color: var(--muted); white-space: nowrap; }
