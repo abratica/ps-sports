@@ -1,0 +1,87 @@
+{
+  "teamKey": "bruins",
+  "sport": "NHL",
+  "headline": "Swayman stops 40 as Bruins win a brawl for four straight",
+  "home": true,
+  "boston": {
+    "abbr": "BOS",
+    "score": 4
+  },
+  "opp": {
+    "abbr": "FLA",
+    "name": "Panthers",
+    "score": 1,
+    "record": "9–7–2"
+  },
+  "result": "W",
+  "record": "13–4–1",
+  "takeaway": "Elias Lindholm, Mikey Eyssimont and Morgan Geekie scored in the first period and Jeremy Swayman made a season-high 40 saves in a fight-filled 4–1 win. The Bruins have won four straight and lead the Atlantic with 27 points.",
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3"
+    ],
+    "boston": [
+      3,
+      0,
+      1
+    ],
+    "opp": [
+      1,
+      0,
+      0
+    ],
+    "sections": [
+      {
+        "label": "1st period",
+        "score": "BOS 3, FLA 1",
+        "text": "Nikita Zadorov fought Brady Tkachuk off the opening faceoff. Lindholm's shot off Jacob Markstrom at 4:50 was ruled no goal, then counted on review, and Eyssimont poked in a loose puck at 6:11 in his season debut for 2–0. Geekie's one-timer on a 5-on-3 made it 3–0, his goal in a fourth straight game, before Carter Verhaeghe scored on a power play. Swayman made 17 saves in the period."
+      },
+      {
+        "label": "2nd period",
+        "score": "BOS 3, FLA 1",
+        "text": "No goals. Charlie McAvoy was checked for a concussion after a late hit but was cleared for the third. Four 10-minute misconducts were handed out in eight seconds at the end of the period, including to Zadorov and Hampus Lindholm, leaving Boston with four defensemen for half the third."
+      },
+      {
+        "label": "3rd period",
+        "score": "Final: BOS 4, FLA 1",
+        "text": "JJ Peterka scored 58 seconds in, set up by David Pastrnak, for 4–1. The game finished with 126 penalty minutes and seven misconducts."
+      }
+    ],
+    "sources": [
+      {
+        "name": "NHL.com",
+        "url": "https://www.nhl.com/news/florida-panthers-boston-bruins-game-recap-november-8-2026"
+      },
+      {
+        "name": "ESPN",
+        "url": "https://www.espn.com/nhl/recap/_/gameId/401892674"
+      },
+      {
+        "name": "WEEI",
+        "url": "https://www.audacy.com/weei/sports/bruins/5-takeaways-from-bruins-wild-statement-win-over-panthers"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "Jeremy Swayman",
+      "line": "40 SV · 41 SA · .976 SV%",
+      "note": "A season high in saves, 17 of them in the first period, and 12-for-12 on high-danger shots."
+    },
+    {
+      "name": "Mikey Eyssimont",
+      "line": "1 G",
+      "note": "Called up from Providence after James Hagens went on IR, he scored 6:11 into his season debut."
+    },
+    {
+      "name": "Morgan Geekie",
+      "line": "1 G · 5 SOG",
+      "note": "His 5-on-3 one-timer made it 3–0 and extended his goal streak to four games."
+    }
+  ],
+  "oppLine": "Carter Verhaeghe scored Florida's only goal on a first-period power play, set up by Brady Tkachuk; Jacob Markstrom made 32 saves.",
+  "id": "2026-11-08-bruins-fla",
+  "date": "2026-11-08"
+}

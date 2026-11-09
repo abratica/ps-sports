@@ -1,0 +1,575 @@
+{
+  "teamKey": "celtics",
+  "sport": "NBA",
+  "headline": "George scores 27 as an 18–0 run buries Milwaukee",
+  "home": false,
+  "boston": {
+    "abbr": "BOS",
+    "score": 117
+  },
+  "opp": {
+    "abbr": "MIL",
+    "name": "Bucks",
+    "score": 97,
+    "record": "1–9"
+  },
+  "result": "W",
+  "record": "8–2",
+  "takeaway": "Down 27–15 early, Boston answered with an 18–0 run led by Jayson Tatum and Paul George, and George finished with 27 in a 117–97 win. The Celtics have won eight of nine and beat Milwaukee twice in five days.",
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "boston": [
+      25,
+      33,
+      33,
+      26
+    ],
+    "opp": [
+      27,
+      18,
+      29,
+      23
+    ],
+    "sections": [
+      {
+        "label": "1st quarter",
+        "score": "MIL 27, BOS 25",
+        "text": "Kyle Kuzma scored 14 points in the first five minutes, hitting 4 of 5 threes, and Milwaukee led 20–6. His basket with 4:17 left made it 27–15, and the Bucks didn't score again in the quarter. Mitchell Robinson came in for Neemias Queta and Tatum made 4 of 6 threes in the quarter."
+      },
+      {
+        "label": "2nd quarter",
+        "score": "BOS 58, MIL 45",
+        "text": "The run reached 18–0 for a 33–27 lead as Milwaukee went 6:29 without a point. George scored 16 on 6-of-9 shooting in the quarter, his best stretch since the opener."
+      },
+      {
+        "label": "3rd quarter",
+        "score": "BOS 91, MIL 74",
+        "text": "Mike Conley's three made it 70–47. Robinson made three straight shots, and Sam Hauser's runner at the buzzer ended the quarter."
+      },
+      {
+        "label": "4th quarter",
+        "score": "Final: BOS 117, MIL 97",
+        "text": "Payton Pritchard hit three straight threes to open the quarter, and Tatum sat the whole fourth."
+      }
+    ],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://abcnews.com/Sports/wireStory/paul-george-jayson-tatum-lead-celtics-117-97-137964894"
+      },
+      {
+        "name": "Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/11/08/sports/celtics-bucks-game-score/"
+      },
+      {
+        "name": "ESPN",
+        "url": "https://www.espn.com/nba/boxscore/_/gameId/401909949"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "Paul George",
+      "line": "27 PTS · 3 REB · 11-18 FG · 5-10 3PT · 2 STL",
+      "note": "Scored 16 in the second quarter as Boston turned a 12-point hole into a 13-point halftime lead."
+    },
+    {
+      "name": "Jayson Tatum",
+      "line": "21 PTS · 4 REB · 6 AST · 5-11 3PT",
+      "note": "Made four threes in the first quarter to start the comeback, though he shot 6-of-19, and rested the entire fourth."
+    },
+    {
+      "name": "Mitchell Robinson",
+      "line": "12 PTS · 7 REB · 4 STL · 6-6 FG",
+      "note": "Listed as questionable with an illness, he had his best game of the season off the bench and was plus-19."
+    }
+  ],
+  "oppLine": "Kyle Kuzma had 27 points with six threes, 14 of them in the first five minutes; Tyler Herro and Brayden Burries added 13 each.",
+  "box": {
+    "source": {
+      "name": "ESPN",
+      "url": "https://www.espn.com/nba/boxscore/_/gameId/401909949"
+    },
+    "boston": {
+      "name": "Celtics",
+      "groups": [
+        {
+          "label": "",
+          "columns": [
+            "MIN",
+            "PTS",
+            "REB",
+            "AST",
+            "FG",
+            "3PT",
+            "FT",
+            "STL",
+            "BLK",
+            "TO",
+            "+/-"
+          ],
+          "starters": 5,
+          "rows": [
+            {
+              "name": "Paul George",
+              "values": [
+                28,
+                27,
+                3,
+                1,
+                "11-18",
+                "5-10",
+                "0-0",
+                2,
+                0,
+                2,
+                "+16"
+              ]
+            },
+            {
+              "name": "Jayson Tatum",
+              "values": [
+                29,
+                21,
+                4,
+                6,
+                "6-19",
+                "5-11",
+                "4-4",
+                1,
+                1,
+                1,
+                "+5"
+              ]
+            },
+            {
+              "name": "Neemias Queta",
+              "values": [
+                22,
+                13,
+                9,
+                4,
+                "6-11",
+                "0-0",
+                "1-2",
+                0,
+                0,
+                1,
+                "0"
+              ]
+            },
+            {
+              "name": "Mike Conley",
+              "values": [
+                10,
+                3,
+                3,
+                1,
+                "1-2",
+                "1-2",
+                "0-0",
+                0,
+                0,
+                1,
+                "-11"
+              ]
+            },
+            {
+              "name": "Derrick White",
+              "values": [
+                27,
+                9,
+                3,
+                7,
+                "4-10",
+                "1-5",
+                "0-0",
+                2,
+                2,
+                1,
+                "+7"
+              ]
+            },
+            {
+              "name": "Payton Pritchard",
+              "values": [
+                29,
+                12,
+                5,
+                4,
+                "4-12",
+                "4-11",
+                "0-0",
+                1,
+                0,
+                0,
+                "+29"
+              ]
+            },
+            {
+              "name": "Sam Hauser",
+              "values": [
+                23,
+                7,
+                3,
+                1,
+                "3-5",
+                "1-3",
+                "0-0",
+                0,
+                0,
+                1,
+                "+15"
+              ]
+            },
+            {
+              "name": "Baylor Scheierman",
+              "values": [
+                19,
+                7,
+                1,
+                0,
+                "2-6",
+                "1-4",
+                "2-2",
+                2,
+                0,
+                1,
+                "+15"
+              ]
+            },
+            {
+              "name": "Mitchell Robinson",
+              "values": [
+                18,
+                12,
+                7,
+                2,
+                "6-6",
+                "0-0",
+                "0-2",
+                4,
+                1,
+                0,
+                "+19"
+              ]
+            },
+            {
+              "name": "Jordan Walsh",
+              "values": [
+                11,
+                0,
+                3,
+                0,
+                "0-2",
+                "0-1",
+                "0-0",
+                0,
+                0,
+                1,
+                "+3"
+              ]
+            },
+            {
+              "name": "Hugo Gonzalez",
+              "values": [
+                10,
+                0,
+                2,
+                1,
+                "0-1",
+                "0-1",
+                "0-0",
+                0,
+                0,
+                0,
+                "0"
+              ]
+            },
+            {
+              "name": "Luka Garza",
+              "values": [
+                9,
+                4,
+                5,
+                0,
+                "1-2",
+                "0-0",
+                "2-4",
+                0,
+                1,
+                0,
+                "+3"
+              ]
+            },
+            {
+              "name": "Ron Harper Jr.",
+              "values": [
+                4,
+                2,
+                0,
+                0,
+                "1-1",
+                "0-0",
+                "0-0",
+                0,
+                0,
+                1,
+                "-1"
+              ]
+            }
+          ],
+          "totals": [
+            "",
+            117,
+            48,
+            27,
+            "45-95",
+            "18-48",
+            "9-14",
+            12,
+            5,
+            10,
+            ""
+          ]
+        }
+      ]
+    },
+    "opp": {
+      "name": "Bucks",
+      "groups": [
+        {
+          "label": "",
+          "columns": [
+            "MIN",
+            "PTS",
+            "REB",
+            "AST",
+            "FG",
+            "3PT",
+            "FT",
+            "STL",
+            "BLK",
+            "TO",
+            "+/-"
+          ],
+          "starters": 5,
+          "rows": [
+            {
+              "name": "Kyle Kuzma",
+              "values": [
+                31,
+                27,
+                4,
+                0,
+                "10-17",
+                "6-13",
+                "1-2",
+                1,
+                2,
+                1,
+                "-4"
+              ]
+            },
+            {
+              "name": "Jaime Jaquez Jr.",
+              "values": [
+                23,
+                4,
+                2,
+                2,
+                "1-3",
+                "0-2",
+                "2-2",
+                1,
+                0,
+                0,
+                "-6"
+              ]
+            },
+            {
+              "name": "Myles Turner",
+              "values": [
+                24,
+                3,
+                5,
+                7,
+                "1-8",
+                "0-3",
+                "1-1",
+                0,
+                1,
+                2,
+                "-3"
+              ]
+            },
+            {
+              "name": "Tyler Herro",
+              "values": [
+                27,
+                13,
+                1,
+                2,
+                "5-12",
+                "1-5",
+                "2-2",
+                0,
+                0,
+                1,
+                "-3"
+              ]
+            },
+            {
+              "name": "Brayden Burries",
+              "values": [
+                29,
+                13,
+                8,
+                4,
+                "5-11",
+                "1-4",
+                "2-2",
+                0,
+                1,
+                1,
+                "-12"
+              ]
+            },
+            {
+              "name": "Nate Ament",
+              "values": [
+                23,
+                12,
+                5,
+                1,
+                "5-9",
+                "2-4",
+                "0-0",
+                1,
+                0,
+                1,
+                "-14"
+              ]
+            },
+            {
+              "name": "Ryan Rollins",
+              "values": [
+                20,
+                7,
+                5,
+                6,
+                "2-4",
+                "2-3",
+                "1-1",
+                1,
+                0,
+                3,
+                "-7"
+              ]
+            },
+            {
+              "name": "AJ Green",
+              "values": [
+                18,
+                5,
+                1,
+                1,
+                "2-6",
+                "1-5",
+                "0-0",
+                0,
+                1,
+                1,
+                "-21"
+              ]
+            },
+            {
+              "name": "Ousmane Dieng",
+              "values": [
+                15,
+                10,
+                1,
+                0,
+                "3-3",
+                "2-2",
+                "2-2",
+                0,
+                0,
+                0,
+                "-2"
+              ]
+            },
+            {
+              "name": "Jericho Sims",
+              "values": [
+                15,
+                2,
+                2,
+                0,
+                "1-3",
+                "0-1",
+                "0-0",
+                0,
+                0,
+                1,
+                "-2"
+              ]
+            },
+            {
+              "name": "Kel'el Ware",
+              "values": [
+                9,
+                0,
+                0,
+                1,
+                "0-2",
+                "0-0",
+                "0-0",
+                1,
+                0,
+                1,
+                "-15"
+              ]
+            },
+            {
+              "name": "Kasparas Jakucionis",
+              "values": [
+                7,
+                1,
+                2,
+                0,
+                "0-1",
+                "0-1",
+                "1-2",
+                0,
+                0,
+                2,
+                "-11"
+              ]
+            }
+          ],
+          "totals": [
+            "",
+            97,
+            36,
+            24,
+            "35-79",
+            "15-43",
+            "12-14",
+            5,
+            5,
+            14,
+            ""
+          ]
+        }
+      ]
+    }
+  },
+  "id": "2026-11-08-celtics-mil",
+  "date": "2026-11-08"
+}

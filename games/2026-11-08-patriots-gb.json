@@ -1,0 +1,99 @@
+{
+  "teamKey": "patriots",
+  "sport": "NFL",
+  "headline": "Maye's three picks open the door as Packers torch Patriots",
+  "home": true,
+  "boston": {
+    "abbr": "NE",
+    "score": 27
+  },
+  "opp": {
+    "abbr": "GB",
+    "name": "Packers",
+    "score": 45,
+    "record": "6–3"
+  },
+  "result": "L",
+  "record": "5–4",
+  "takeaway": "Drake Maye threw three first-half interceptions, the first on his opening pass, and Green Bay piled up 478 yards in a 45–27 rout at Gillette. It's the most points New England has allowed in a regular-season game since 1993.",
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "boston": [
+      0,
+      14,
+      7,
+      6
+    ],
+    "opp": [
+      14,
+      10,
+      18,
+      3
+    ],
+    "sections": [
+      {
+        "label": "1st quarter",
+        "score": "GB 14, NE 0",
+        "text": "Xavier McKinney intercepted Maye's first pass and returned it to the New England 14, and two plays later Jordan Love scrambled in from 13 yards for a 7–0 lead. Love hit Matthew Golden for a 5-yard touchdown at 7:59 to make it 14–0. Green Bay lost Josh Jacobs (broken finger) and Ty'Ron Hopper (chest) in the quarter."
+      },
+      {
+        "label": "2nd quarter",
+        "score": "GB 24, NE 14",
+        "text": "Trey Smack's 41-yard field goal made it 17–0 before Maye found Rhamondre Stevenson on a 30-yard touchdown. Maye threw two more interceptions in the quarter, and Kaleb Johnson's 2-yard run made it 24–7 before Efton Chism III caught an 8-yard touchdown with 2:37 left. Carlton Davis III and Ben Brown left with knee injuries."
+      },
+      {
+        "label": "3rd quarter",
+        "score": "GB 42, NE 21",
+        "text": "Green Bay scored 18 straight: Love to Savion Williams for 10 yards (31–14), a 51-yard Smack field goal (34–14), then a 39-yard Love strike to Christian Watson after Isaiah McDuffie forced a Stevenson fumble, with Love running in the two-point try for 42–14. Stevenson left with a knee injury, and Maye hit Mack Hollins for a 22-yard score with 1:11 left."
+      },
+      {
+        "label": "4th quarter",
+        "score": "Final: GB 45, NE 27",
+        "text": "Smack added a 38-yard field goal for 45–21, and Corey Kiner ran in from 4 yards with 3:54 left; the two-point try failed. Will Campbell left with a knee injury."
+      }
+    ],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://abcnews.com/Sports/wireStory/jordan-love-accounts-4-touchdowns-packers-force-4-137962391"
+      },
+      {
+        "name": "ESPN",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401873049/packers-patriots"
+      },
+      {
+        "name": "Patriots.com",
+        "url": "https://www.patriots.com/news/game-observations-8-takeaways-from-the-patriots-loss-to-the-packers-in-week-9"
+      },
+      {
+        "name": "Packers.com",
+        "url": "https://packers.com/news/game-recap-5-takeaways-from-packers-victory-over-patriots-week-9-2026"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "Drake Maye",
+      "line": "21-38 · 299 YDS · 3 TD · 3 INT",
+      "note": "All three interceptions came before halftime, and he is now tied for the NFL lead with 11; he said he 'wasn't good today.'"
+    },
+    {
+      "name": "DeMario Douglas",
+      "line": "5 REC · 102 YDS",
+      "note": "Led the team in catches and posted the second 100-yard game of his career."
+    },
+    {
+      "name": "Corey Kiner",
+      "line": "8 CAR · 55 YDS · 1 TD",
+      "note": "Took over the backfield after Stevenson's knee injury, with TreVeyon Henderson already out ill."
+    }
+  ],
+  "oppLine": "Jordan Love threw for 372 yards and three touchdowns and ran for another; Christian Watson had 171 receiving yards and Matthew Golden 164, each with a touchdown.",
+  "id": "2026-11-08-patriots-gb",
+  "date": "2026-11-08"
+}

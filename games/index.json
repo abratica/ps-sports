@@ -1,6 +1,48 @@
 {
   "games": [
     {
+      "id": "2026-11-08-patriots-gb",
+      "team": "patriots",
+      "date": "2026-11-08",
+      "home": true,
+      "opp": "Packers",
+      "oppAbbr": "GB",
+      "bos": 27,
+      "oppScore": 45,
+      "result": "L",
+      "record": "5–4",
+      "headline": "Maye's three picks open the door as Packers torch Patriots",
+      "ot": false
+    },
+    {
+      "id": "2026-11-08-celtics-mil",
+      "team": "celtics",
+      "date": "2026-11-08",
+      "home": false,
+      "opp": "Bucks",
+      "oppAbbr": "MIL",
+      "bos": 117,
+      "oppScore": 97,
+      "result": "W",
+      "record": "8–2",
+      "headline": "George scores 27 as an 18–0 run buries Milwaukee",
+      "ot": false
+    },
+    {
+      "id": "2026-11-08-bruins-fla",
+      "team": "bruins",
+      "date": "2026-11-08",
+      "home": true,
+      "opp": "Panthers",
+      "oppAbbr": "FLA",
+      "bos": 4,
+      "oppScore": 1,
+      "result": "W",
+      "record": "13–4–1",
+      "headline": "Swayman stops 40 as Bruins win a brawl for four straight",
+      "ot": false
+    },
+    {
       "id": "2026-11-06-celtics-cha",
       "team": "celtics",
       "date": "2026-11-06",
