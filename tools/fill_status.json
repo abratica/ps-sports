@@ -2,25 +2,16 @@
   "issue": "2026-11-09",
   "games": {
     "patriots": {
-      "box": "added",
-      "video_notes": [
-        "feeds: found 5VQ8ooYGCA0"
-      ],
-      "video": "added 5VQ8ooYGCA0 (New England Patriots)"
+      "box": "ok",
+      "video": "ok"
     },
     "bruins": {
-      "box": "added",
-      "video_notes": [
-        "feeds: found Dl2mjtdTO4I"
-      ],
-      "video": "added Dl2mjtdTO4I (Sportsnet)"
+      "box": "ok",
+      "video": "ok"
     },
     "celtics": {
       "box": "ok",
-      "video_notes": [
-        "feeds: found Axe6ICibvU4"
-      ],
-      "video": "added Axe6ICibvU4 (NBA)"
+      "video": "ok"
     }
   }
 }
