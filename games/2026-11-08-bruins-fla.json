@@ -82,6 +82,588 @@
     }
   ],
   "oppLine": "Carter Verhaeghe scored Florida's only goal on a first-period power play, set up by Brady Tkachuk; Jacob Markstrom made 32 saves.",
+  "box": {
+    "source": {
+      "name": "ESPN",
+      "url": "https://www.espn.com/nhl/boxscore/_/gameId/401892674"
+    },
+    "boston": {
+      "name": "Bruins",
+      "groups": [
+        {
+          "label": "Skaters",
+          "columns": [
+            "G",
+            "A",
+            "PTS",
+            "+/-",
+            "SOG",
+            "HIT",
+            "BLK",
+            "TOI"
+          ],
+          "rows": [
+            {
+              "name": "Will Borgen",
+              "values": [
+                0,
+                0,
+                0,
+                "2",
+                1,
+                1,
+                1,
+                "22:14"
+              ]
+            },
+            {
+              "name": "Pavel Zacha",
+              "values": [
+                0,
+                2,
+                2,
+                "1",
+                1,
+                0,
+                0,
+                "21:51"
+              ]
+            },
+            {
+              "name": "David Pastrnak",
+              "values": [
+                0,
+                2,
+                2,
+                "1",
+                3,
+                1,
+                0,
+                "21:16"
+              ]
+            },
+            {
+              "name": "Charlie McAvoy",
+              "values": [
+                0,
+                1,
+                1,
+                "1",
+                2,
+                2,
+                0,
+                "21:08"
+              ]
+            },
+            {
+              "name": "Elias Lindholm",
+              "values": [
+                1,
+                0,
+                1,
+                "1",
+                4,
+                1,
+                0,
+                "18:58"
+              ]
+            },
+            {
+              "name": "Mason Lohrei",
+              "values": [
+                0,
+                0,
+                0,
+                "2",
+                1,
+                1,
+                0,
+                "17:28"
+              ]
+            },
+            {
+              "name": "JJ Peterka",
+              "values": [
+                1,
+                0,
+                1,
+                "1",
+                7,
+                0,
+                0,
+                "16:54"
+              ]
+            },
+            {
+              "name": "Casey Mittelstadt",
+              "values": [
+                0,
+                1,
+                1,
+                "1",
+                1,
+                0,
+                0,
+                "16:53"
+              ]
+            },
+            {
+              "name": "Fraser Minten",
+              "values": [
+                0,
+                1,
+                1,
+                "1",
+                1,
+                2,
+                0,
+                "16:42"
+              ]
+            },
+            {
+              "name": "Nikita Zadorov",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                0,
+                2,
+                0,
+                "16:33"
+              ]
+            },
+            {
+              "name": "Frederic Brunet",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                1,
+                0,
+                2,
+                "15:36"
+              ]
+            },
+            {
+              "name": "Morgan Geekie",
+              "values": [
+                1,
+                0,
+                1,
+                "1",
+                5,
+                1,
+                0,
+                "14:49"
+              ]
+            },
+            {
+              "name": "Hampus Lindholm",
+              "values": [
+                0,
+                0,
+                0,
+                "1",
+                0,
+                0,
+                1,
+                "14:28"
+              ]
+            },
+            {
+              "name": "Marat Khusnutdinov",
+              "values": [
+                0,
+                0,
+                0,
+                "1",
+                2,
+                0,
+                1,
+                "14:21"
+              ]
+            },
+            {
+              "name": "Tanner Jeannot",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                1,
+                1,
+                0,
+                "13:02"
+              ]
+            },
+            {
+              "name": "Matthew Poitras",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                1,
+                0,
+                1,
+                "11:25"
+              ]
+            },
+            {
+              "name": "Michael Eyssimont",
+              "values": [
+                1,
+                0,
+                1,
+                "1",
+                3,
+                0,
+                0,
+                "8:14"
+              ]
+            },
+            {
+              "name": "Mark Kastelic",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                2,
+                1,
+                1,
+                "7:15"
+              ]
+            }
+          ],
+          "totals": [
+            4,
+            7,
+            11,
+            "",
+            36,
+            13,
+            7,
+            ""
+          ]
+        },
+        {
+          "label": "Goalies",
+          "columns": [
+            "SA",
+            "SV",
+            "SV%",
+            "TOI"
+          ],
+          "rows": [
+            {
+              "name": "Jeremy Swayman",
+              "values": [
+                41,
+                40,
+                ".976",
+                "59:48"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "opp": {
+      "name": "Panthers",
+      "groups": [
+        {
+          "label": "Skaters",
+          "columns": [
+            "G",
+            "A",
+            "PTS",
+            "+/-",
+            "SOG",
+            "HIT",
+            "BLK",
+            "TOI"
+          ],
+          "rows": [
+            {
+              "name": "Seth Jones",
+              "values": [
+                0,
+                0,
+                0,
+                "-3",
+                3,
+                1,
+                2,
+                "25:33"
+              ]
+            },
+            {
+              "name": "Gustav Forsling",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                1,
+                2,
+                1,
+                "21:51"
+              ]
+            },
+            {
+              "name": "Aaron Ekblad",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                1,
+                0,
+                0,
+                "21:35"
+              ]
+            },
+            {
+              "name": "Sam Reinhart",
+              "values": [
+                0,
+                0,
+                0,
+                "-2",
+                3,
+                2,
+                0,
+                "18:34"
+              ]
+            },
+            {
+              "name": "Niko Mikkola",
+              "values": [
+                0,
+                0,
+                0,
+                "-3",
+                0,
+                3,
+                0,
+                "18:19"
+              ]
+            },
+            {
+              "name": "Sam Bennett",
+              "values": [
+                0,
+                0,
+                0,
+                "-1",
+                2,
+                5,
+                0,
+                "18:07"
+              ]
+            },
+            {
+              "name": "Matthew Tkachuk",
+              "values": [
+                0,
+                1,
+                1,
+                "-1",
+                5,
+                5,
+                0,
+                "17:39"
+              ]
+            },
+            {
+              "name": "Carter Verhaeghe",
+              "values": [
+                1,
+                0,
+                1,
+                "-1",
+                2,
+                1,
+                0,
+                "17:31"
+              ]
+            },
+            {
+              "name": "Lars Eller",
+              "values": [
+                0,
+                0,
+                0,
+                "-1",
+                1,
+                1,
+                0,
+                "17:15"
+              ]
+            },
+            {
+              "name": "Anton Lundell",
+              "values": [
+                0,
+                0,
+                0,
+                "-1",
+                5,
+                1,
+                1,
+                "16:33"
+              ]
+            },
+            {
+              "name": "Radko Gudas",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                1,
+                1,
+                0,
+                "13:14"
+              ]
+            },
+            {
+              "name": "Brady Tkachuk",
+              "values": [
+                0,
+                1,
+                1,
+                "0",
+                8,
+                1,
+                0,
+                "13:12"
+              ]
+            },
+            {
+              "name": "Garnet Hathaway",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                2,
+                7,
+                0,
+                "12:56"
+              ]
+            },
+            {
+              "name": "Uvis Balinskis",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                4,
+                1,
+                0,
+                "11:55"
+              ]
+            },
+            {
+              "name": "Eetu Luostarinen",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                0,
+                0,
+                2,
+                "11:21"
+              ]
+            },
+            {
+              "name": "Cole Reinhardt",
+              "values": [
+                0,
+                0,
+                0,
+                "-2",
+                1,
+                5,
+                0,
+                "9:09"
+              ]
+            },
+            {
+              "name": "Cole Schwindt",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                1,
+                0,
+                0,
+                "8:43"
+              ]
+            },
+            {
+              "name": "Bokondji Imama",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                1,
+                2,
+                0,
+                "8:32"
+              ]
+            }
+          ],
+          "totals": [
+            1,
+            2,
+            3,
+            "",
+            41,
+            38,
+            6,
+            ""
+          ]
+        },
+        {
+          "label": "Goalies",
+          "columns": [
+            "SA",
+            "SV",
+            "SV%",
+            "TOI"
+          ],
+          "rows": [
+            {
+              "name": "Jacob Markstrom",
+              "values": [
+                36,
+                32,
+                ".889",
+                "59:04"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "videos": [
+    {
+      "id": "Dl2mjtdTO4I",
+      "title": "Panthers at Bruins: game highlights",
+      "channel": "Sportsnet",
+      "kind": "full"
+    }
+  ],
   "id": "2026-11-08-bruins-fla",
   "date": "2026-11-08"
 }

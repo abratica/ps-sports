@@ -570,6 +570,14 @@
       ]
     }
   },
+  "videos": [
+    {
+      "id": "Axe6ICibvU4",
+      "title": "Celtics at Bucks: full game highlights",
+      "channel": "NBA",
+      "kind": "full"
+    }
+  ],
   "id": "2026-11-08-celtics-mil",
   "date": "2026-11-08"
 }
