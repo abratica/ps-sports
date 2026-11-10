@@ -1,17 +1,4 @@
 {
-  "issue": "2026-11-09",
-  "games": {
-    "patriots": {
-      "box": "ok",
-      "video": "ok"
-    },
-    "bruins": {
-      "box": "ok",
-      "video": "ok"
-    },
-    "celtics": {
-      "box": "ok",
-      "video": "ok"
-    }
-  }
+  "issue": "2026-11-10",
+  "games": {}
 }
