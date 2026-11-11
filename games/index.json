@@ -1,6 +1,20 @@
 {
   "games": [
     {
+      "id": "2026-11-10-celtics-phi",
+      "team": "celtics",
+      "date": "2026-11-10",
+      "home": false,
+      "opp": "76ers",
+      "oppAbbr": "PHI",
+      "bos": 123,
+      "oppScore": 101,
+      "result": "W",
+      "record": "9–2",
+      "headline": "Paul George's 36 sinks Jaylen Brown and the 76ers",
+      "ot": false
+    },
+    {
       "id": "2026-11-08-patriots-gb",
       "team": "patriots",
       "date": "2026-11-08",

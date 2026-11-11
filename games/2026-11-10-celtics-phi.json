@@ -1,0 +1,567 @@
+{
+  "teamKey": "celtics",
+  "sport": "NBA",
+  "headline": "Paul George's 36 sinks Jaylen Brown and the 76ers",
+  "home": false,
+  "boston": {
+    "abbr": "BOS",
+    "score": 123
+  },
+  "opp": {
+    "abbr": "PHI",
+    "name": "76ers",
+    "score": 101,
+    "record": "9–3"
+  },
+  "result": "W",
+  "record": "9–2",
+  "takeaway": "Paul George scored 36, 14 of them in the fourth, as Boston opened the final quarter on a 9–0 run and pulled away from Philadelphia 123–101. The Celtics have won four straight and now have the East's best record.",
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "boston": [
+      30,
+      32,
+      29,
+      32
+    ],
+    "opp": [
+      23,
+      28,
+      31,
+      19
+    ],
+    "sections": [
+      {
+        "label": "1st quarter",
+        "score": "BOS 30, PHI 23",
+        "text": "Jaylen Brown, who barely acknowledged Jayson Tatum's pregame greeting, picked up two fouls in the quarter. Tatum had 9 points on 3-of-5 shooting and Tyrese Maxey 8 on 3-of-3 as Boston took a seven-point lead."
+      },
+      {
+        "label": "2nd quarter",
+        "score": "BOS 62, PHI 51",
+        "text": "Paul George closed the half with a three off a Derrick White pass and had 17 points on 7-of-11 shooting at the break. Tatum had 13 and Maxey 12."
+      },
+      {
+        "label": "3rd quarter",
+        "score": "BOS 91, PHI 82",
+        "text": "Philadelphia outscored Boston 25–14 to open the half and tied it 76–76 with 3:50 left, with Joel Embiid getting 11 of his 16 points at the line. Brown picked up his fourth foul early in the quarter. Boston closed on a 15–6 run and made seven threes in the period, two each from Tatum and Payton Pritchard."
+      },
+      {
+        "label": "4th quarter",
+        "score": "Final: BOS 123, PHI 101",
+        "text": "Pritchard hit back-to-back threes and George added another in a 9–0 opening run that made it 100–82 and forced a Philadelphia timeout. George's three and an and-one pushed it to 105–82 with 8:08 left, and Boston won the quarter 32–19."
+      }
+    ],
+    "sources": [
+      {
+        "name": "NBC Sports Boston",
+        "url": "https://www.nbcsportsboston.com/nba/boston-celtics/live-updates-jaylen-brown-jayson-tatum-sixers-celtic/812871/"
+      },
+      {
+        "name": "ESPN",
+        "url": "https://www.espn.com/nba/game/_/gameId/401909961/celtics-76ers"
+      },
+      {
+        "name": "NESN",
+        "url": "https://nesn.com/boston-celtics/news/paul-george-jaylen-brown-celtics-76ers-trade/db0d65232eb0d8cecfc58061"
+      },
+      {
+        "name": "VAVEL",
+        "url": "https://www.vavel.com/en-us/nba/2026/11/10/1278774-76ers-vs-celtics-live-score-updates-play-by-play-nba.html"
+      },
+      {
+        "name": "Field Level Media",
+        "url": "https://www.thesportsleader.com/2026/11/10/nba-roundup-in-reunion-with-jaylen-brown-celtics-thump-sixers/"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "Paul George",
+      "line": "36 PTS · 14-22 FG · 6-11 3PT · 5 REB",
+      "note": "Scored 14 in the fourth in his first game back in Philadelphia since the trade that sent Brown the other way, and finished plus-17."
+    },
+    {
+      "name": "Payton Pritchard",
+      "line": "18 PTS · 4-8 3PT · 6 REB · 5 AST",
+      "note": "His back-to-back threes opened the fourth-quarter run, and he was a game-best plus-26 off the bench."
+    },
+    {
+      "name": "Jayson Tatum",
+      "line": "21 PTS · 6 REB · 4 AST · 2 BLK",
+      "note": "Steadied Boston through the third-quarter tie; Joe Mazzulla said afterward that Tatum \"doesn't get enough credit for his emotional stability.\""
+    }
+  ],
+  "oppLine": "Tyrese Maxey scored 24 on 8-of-12 shooting and Anfernee Simons added 17 off the bench; Jaylen Brown had 13 points and four turnovers, and Joel Embiid shot 2-of-9.",
+  "box": {
+    "source": {
+      "name": "ESPN",
+      "url": "https://www.espn.com/nba/boxscore/_/gameId/401909961"
+    },
+    "boston": {
+      "name": "Celtics",
+      "groups": [
+        {
+          "label": "",
+          "columns": [
+            "MIN",
+            "PTS",
+            "REB",
+            "AST",
+            "FG",
+            "3PT",
+            "FT",
+            "STL",
+            "BLK",
+            "TO",
+            "+/-"
+          ],
+          "starters": 5,
+          "rows": [
+            {
+              "name": "Paul George",
+              "values": [
+                30,
+                36,
+                5,
+                1,
+                "14-22",
+                "6-11",
+                "2-2",
+                0,
+                0,
+                1,
+                "+17"
+              ]
+            },
+            {
+              "name": "Jayson Tatum",
+              "values": [
+                32,
+                21,
+                6,
+                4,
+                "8-17",
+                "3-7",
+                "2-2",
+                0,
+                2,
+                3,
+                "+6"
+              ]
+            },
+            {
+              "name": "Neemias Queta",
+              "values": [
+                22,
+                4,
+                6,
+                3,
+                "2-4",
+                "0-0",
+                "0-0",
+                0,
+                0,
+                1,
+                "+16"
+              ]
+            },
+            {
+              "name": "Derrick White",
+              "values": [
+                22,
+                5,
+                1,
+                3,
+                "2-6",
+                "1-4",
+                "0-0",
+                0,
+                0,
+                1,
+                "+6"
+              ]
+            },
+            {
+              "name": "Jordan Walsh",
+              "values": [
+                19,
+                8,
+                2,
+                2,
+                "3-7",
+                "1-5",
+                "1-1",
+                1,
+                0,
+                0,
+                "-6"
+              ]
+            },
+            {
+              "name": "Payton Pritchard",
+              "values": [
+                30,
+                18,
+                6,
+                5,
+                "7-15",
+                "4-8",
+                "0-0",
+                1,
+                0,
+                0,
+                "+26"
+              ]
+            },
+            {
+              "name": "Hugo Gonzalez",
+              "values": [
+                19,
+                10,
+                2,
+                2,
+                "4-6",
+                "2-4",
+                "0-0",
+                3,
+                1,
+                1,
+                "+17"
+              ]
+            },
+            {
+              "name": "Sam Hauser",
+              "values": [
+                18,
+                12,
+                5,
+                2,
+                "4-6",
+                "4-6",
+                "0-0",
+                0,
+                0,
+                0,
+                "+24"
+              ]
+            },
+            {
+              "name": "Baylor Scheierman",
+              "values": [
+                18,
+                5,
+                3,
+                2,
+                "2-3",
+                "1-1",
+                "0-0",
+                0,
+                0,
+                0,
+                "+3"
+              ]
+            },
+            {
+              "name": "Mitchell Robinson",
+              "values": [
+                17,
+                2,
+                6,
+                2,
+                "1-5",
+                "0-0",
+                "0-0",
+                1,
+                1,
+                0,
+                "+8"
+              ]
+            },
+            {
+              "name": "Luka Garza",
+              "values": [
+                9,
+                2,
+                0,
+                2,
+                "1-2",
+                "0-1",
+                "0-0",
+                0,
+                0,
+                0,
+                "-2"
+              ]
+            },
+            {
+              "name": "Ron Harper Jr.",
+              "values": [
+                4,
+                0,
+                1,
+                0,
+                "0-2",
+                "0-2",
+                "0-0",
+                0,
+                0,
+                1,
+                "-5"
+              ]
+            }
+          ],
+          "totals": [
+            "",
+            123,
+            43,
+            28,
+            "48-95",
+            "22-49",
+            "5-5",
+            6,
+            4,
+            8,
+            ""
+          ]
+        }
+      ]
+    },
+    "opp": {
+      "name": "76ers",
+      "groups": [
+        {
+          "label": "",
+          "columns": [
+            "MIN",
+            "PTS",
+            "REB",
+            "AST",
+            "FG",
+            "3PT",
+            "FT",
+            "STL",
+            "BLK",
+            "TO",
+            "+/-"
+          ],
+          "starters": 5,
+          "rows": [
+            {
+              "name": "LeBron James",
+              "values": [
+                29,
+                11,
+                8,
+                5,
+                "4-12",
+                "1-6",
+                "2-2",
+                0,
+                0,
+                1,
+                "-17"
+              ]
+            },
+            {
+              "name": "Joel Embiid",
+              "values": [
+                31,
+                16,
+                6,
+                1,
+                "2-9",
+                "1-3",
+                "11-13",
+                0,
+                0,
+                2,
+                "-8"
+              ]
+            },
+            {
+              "name": "Jaylen Brown",
+              "values": [
+                26,
+                13,
+                5,
+                2,
+                "4-9",
+                "1-4",
+                "4-6",
+                2,
+                1,
+                4,
+                "-27"
+              ]
+            },
+            {
+              "name": "Tyrese Maxey",
+              "values": [
+                34,
+                24,
+                1,
+                4,
+                "8-12",
+                "3-4",
+                "5-5",
+                0,
+                0,
+                2,
+                "-11"
+              ]
+            },
+            {
+              "name": "VJ Edgecombe",
+              "values": [
+                32,
+                8,
+                4,
+                5,
+                "4-11",
+                "0-4",
+                "0-0",
+                1,
+                1,
+                1,
+                "-13"
+              ]
+            },
+            {
+              "name": "Dean Wade",
+              "values": [
+                23,
+                8,
+                9,
+                0,
+                "3-5",
+                "2-4",
+                "0-0",
+                0,
+                0,
+                0,
+                "-10"
+              ]
+            },
+            {
+              "name": "Anfernee Simons",
+              "values": [
+                18,
+                17,
+                3,
+                0,
+                "7-13",
+                "3-7",
+                "0-0",
+                0,
+                0,
+                0,
+                "-10"
+              ]
+            },
+            {
+              "name": "Kentavious Caldwell-Pope",
+              "values": [
+                16,
+                0,
+                0,
+                2,
+                "0-2",
+                "0-2",
+                "0-0",
+                0,
+                1,
+                0,
+                "-15"
+              ]
+            },
+            {
+              "name": "Jabari Walker",
+              "values": [
+                15,
+                2,
+                4,
+                0,
+                "1-3",
+                "0-1",
+                "0-0",
+                0,
+                0,
+                1,
+                "-5"
+              ]
+            },
+            {
+              "name": "Justin Edwards",
+              "values": [
+                6,
+                0,
+                0,
+                0,
+                "0-0",
+                "0-0",
+                "0-0",
+                0,
+                0,
+                1,
+                "+2"
+              ]
+            },
+            {
+              "name": "Labaron Philon Jr.",
+              "values": [
+                6,
+                2,
+                1,
+                3,
+                "0-1",
+                "0-0",
+                "2-2",
+                0,
+                0,
+                1,
+                "+2"
+              ]
+            },
+            {
+              "name": "Rayan Rupert",
+              "values": [
+                6,
+                0,
+                1,
+                1,
+                "0-2",
+                "0-2",
+                "0-0",
+                1,
+                0,
+                0,
+                "+2"
+              ]
+            }
+          ],
+          "totals": [
+            "",
+            101,
+            42,
+            23,
+            "33-79",
+            "11-37",
+            "24-28",
+            4,
+            3,
+            13,
+            ""
+          ]
+        }
+      ]
+    }
+  },
+  "id": "2026-11-10-celtics-phi",
+  "date": "2026-11-10"
+}
