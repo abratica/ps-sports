@@ -623,7 +623,15 @@
             }
           ]
         }
-      }
+      },
+      "videos": [
+        {
+          "id": "FuNJ6VVVQxY",
+          "title": "Celtics at 76ers: full game highlights",
+          "channel": "NBA",
+          "kind": "full"
+        }
+      ]
     }
   ],
   "teamNews": {

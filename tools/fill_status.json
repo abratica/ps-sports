@@ -1,4 +1,12 @@
 {
-  "issue": "2026-11-10",
-  "games": {}
+  "issue": "2026-11-11",
+  "games": {
+    "celtics": {
+      "box": "ok",
+      "video_notes": [
+        "feeds: found FuNJ6VVVQxY"
+      ],
+      "video": "added FuNJ6VVVQxY (NBA)"
+    }
+  }
 }
