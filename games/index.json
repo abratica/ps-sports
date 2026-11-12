@@ -1,6 +1,20 @@
 {
   "games": [
     {
+      "id": "2026-11-11-celtics-tor",
+      "team": "celtics",
+      "date": "2026-11-11",
+      "home": false,
+      "opp": "Raptors",
+      "oppAbbr": "TOR",
+      "bos": 98,
+      "oppScore": 93,
+      "result": "W",
+      "record": "10–2",
+      "headline": "Tatum's late free throws finish a 22-point comeback in Toronto",
+      "ot": false
+    },
+    {
       "id": "2026-11-10-celtics-phi",
       "team": "celtics",
       "date": "2026-11-10",

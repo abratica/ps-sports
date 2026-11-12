@@ -1,0 +1,99 @@
+{
+  "teamKey": "celtics",
+  "sport": "NBA",
+  "headline": "Tatum's late free throws finish a 22-point comeback in Toronto",
+  "home": false,
+  "boston": {
+    "abbr": "BOS",
+    "score": 98
+  },
+  "opp": {
+    "abbr": "TOR",
+    "name": "Raptors",
+    "score": 93,
+    "record": "5–6"
+  },
+  "result": "W",
+  "record": "10–2",
+  "takeaway": "Down 59–37 in the second quarter and playing without Paul George, Boston rallied to win 98–93 as Jayson Tatum's free throws with 25 seconds left put it ahead for good. The Celtics have won five straight and went 4–0 on the road trip.",
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "boston": [
+      29,
+      25,
+      21,
+      23
+    ],
+    "opp": [
+      38,
+      23,
+      19,
+      13
+    ],
+    "sections": [
+      {
+        "label": "1st quarter",
+        "score": "TOR 38, BOS 29",
+        "text": "Toronto went 10-of-18 from three, tying a franchise record for a quarter, and Ja'Kobe Walter scored all 12 of his first-quarter points on threes. Fifteen of the Raptors' first 19 shots were threes."
+      },
+      {
+        "label": "2nd quarter",
+        "score": "TOR 61, BOS 54",
+        "text": "Immanuel Quickley's three made it 46–32 with 9:40 left, and Toronto led 59–37 with 5:24 to go. Boston answered with 16 straight points, the first 10 from Jayson Tatum, including a seven-point trip: Tatum's four-point play after a flagrant foul on Collin Murray-Boyles, then a Baylor Scheierman three. Tatum had 19 at the half."
+      },
+      {
+        "label": "3rd quarter",
+        "score": "TOR 80, BOS 75",
+        "text": "Jordan Walsh's layup with 7:09 left gave Boston its first lead, 66–65, after it had trailed by 22. Tatum didn't score in the quarter, and Toronto closed it on an 8–0 run."
+      },
+      {
+        "label": "4th quarter",
+        "score": "Final: BOS 98, TOR 93",
+        "text": "Tatum's turnaround jumper made it 90–89 with 1:55 left, but RJ Barrett's runner and dunk put Toronto up 93–90 with 1:14 to go. Neemias Queta's dunk cut it to one, Tatum made two free throws for a 94–93 lead with 25.2 seconds left, and Queta and Sam Hauser each made two more, Hauser's after a steal. Toronto scored 13 in the quarter."
+      }
+    ],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://www.pressherald.com/2026/11/11/celtics-storm-back-to-beat-raptors-for-5th-straight-win/"
+      },
+      {
+        "name": "Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/11/11/sports/celtics-raptors-nba-basketball-toronto/"
+      },
+      {
+        "name": "Boston.com",
+        "url": "https://www.boston.com/sports/boston-celtics/2026/11/11/jayson-tatum-celtics-pull-out-gritty-win-vs-raptors-to-close-road-trip-7-takeaways/"
+      },
+      {
+        "name": "CBS Sports",
+        "url": "https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261111_BOS@TOR/"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "Jayson Tatum",
+      "line": "24 PTS · 7 REB · 8 AST · 6-21 FG · 10-12 FT",
+      "note": "Scored the first 10 points of the 16–0 second-quarter run and made the go-ahead free throws, despite going 2-of-11 from three."
+    },
+    {
+      "name": "Derrick White",
+      "line": "19 PTS · 7 AST · 4 BLK · 7-15 FG · 3-7 3PT",
+      "note": "Boston's second scorer with George out, and a plus-18 in 38 minutes."
+    },
+    {
+      "name": "Neemias Queta",
+      "line": "11 PTS · 13 REB · 3 BLK · 6-8 FT",
+      "note": "A game-best plus-27; his late dunk, two free throws and block on Quickley with four seconds left closed it out, though he had five turnovers."
+    }
+  ],
+  "oppLine": "Ja'Kobe Walter scored 17 on five threes and Allen Graves added a career-high 13; RJ Barrett had 12 points and 7 assists on 5-of-16 shooting.",
+  "id": "2026-11-11-celtics-tor",
+  "date": "2026-11-11"
+}
