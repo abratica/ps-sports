@@ -1,6 +1,20 @@
 {
   "games": [
     {
+      "id": "2026-11-12-bruins-mtl",
+      "team": "bruins",
+      "date": "2026-11-12",
+      "home": true,
+      "opp": "Canadiens",
+      "oppAbbr": "MTL",
+      "bos": 2,
+      "oppScore": 5,
+      "result": "L",
+      "record": "13–5–1",
+      "headline": "Canadiens chase Swayman, take the Atlantic lead",
+      "ot": false
+    },
+    {
       "id": "2026-11-11-celtics-tor",
       "team": "celtics",
       "date": "2026-11-11",
