@@ -1,9 +1,12 @@
 {
-  "issue": "2026-11-12",
+  "issue": "2026-11-13",
   "games": {
-    "celtics": {
+    "bruins": {
       "box": "ok",
-      "video": "ok"
+      "video_notes": [
+        "feeds: found rYNKd7VPshs"
+      ],
+      "video": "added rYNKd7VPshs (Sportsnet)"
     }
   }
 }

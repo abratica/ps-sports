@@ -669,6 +669,14 @@
       ]
     }
   },
+  "videos": [
+    {
+      "id": "rYNKd7VPshs",
+      "title": "Canadiens at Bruins: game highlights",
+      "channel": "Sportsnet",
+      "kind": "full"
+    }
+  ],
   "id": "2026-11-12-bruins-mtl",
   "date": "2026-11-12"
 }

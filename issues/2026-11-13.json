@@ -723,7 +723,15 @@
             }
           ]
         }
-      }
+      },
+      "videos": [
+        {
+          "id": "rYNKd7VPshs",
+          "title": "Canadiens at Bruins: game highlights",
+          "channel": "Sportsnet",
+          "kind": "full"
+        }
+      ]
     }
   ],
   "teamNews": {
