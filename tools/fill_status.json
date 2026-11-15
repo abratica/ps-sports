@@ -1,4 +1,12 @@
 {
-  "issue": "2026-11-14",
-  "games": {}
+  "issue": "2026-11-15",
+  "games": {
+    "bruins": {
+      "box": "not yet: shots don't match goalies: (32, 24) vs (25, 32)",
+      "video_notes": [
+        "feeds: found pSWSb8rluV4"
+      ],
+      "video": "added pSWSb8rluV4 (Sportsnet)"
+    }
+  }
 }
