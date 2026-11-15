@@ -1,0 +1,95 @@
+{
+  "teamKey": "bruins",
+  "sport": "NHL",
+  "headline": "Wild jump out 3–0, hand Bruins a second straight home loss",
+  "home": true,
+  "boston": {
+    "abbr": "BOS",
+    "score": 2
+  },
+  "opp": {
+    "abbr": "MIN",
+    "name": "Wild",
+    "score": 6,
+    "record": "15–3–4"
+  },
+  "result": "L",
+  "record": "13–6–1",
+  "takeaway": "Minnesota built a 3–0 lead 2:00 into the second period and never let Boston closer than two in a 6–2 win at TD Garden. The Bruins have lost two straight at home after winning their first seven there.",
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3"
+    ],
+    "boston": [
+      0,
+      1,
+      1
+    ],
+    "opp": [
+      1,
+      3,
+      2
+    ],
+    "sections": [
+      {
+        "label": "1st period",
+        "score": "MIN 1, BOS 0",
+        "text": "Ryan Hartman scored from the left circle at 6:54, finishing a give-and-go with Blake Coleman. Jesper Wallstedt stopped David Pastrnak early, and the period ended 4-on-4."
+      },
+      {
+        "label": "2nd period",
+        "score": "MIN 4, BOS 1",
+        "text": "Quinn Hughes scored from the high slot 53 seconds in, and Coleman's point shot went in off Nikita Zadorov at 2:00 for 3–0. Fraser Minten cut it to 3–1 on a power play at 8:45, set up by Pastrnak from behind the net, and Tanner Jeannot fought Marcus Foligno right after. Hartman restored the three-goal lead on a 3-on-2 at 10:00."
+      },
+      {
+        "label": "3rd period",
+        "score": "Final: MIN 6, BOS 2",
+        "text": "Pastrnak's snap shot off a Zadorov feed made it 4–2 at 4:45, ending his four-game goal drought, but Danila Yurov answered at 6:15 off a Boston pinch. Yurov added an empty-netter at 15:21. Boston outshot Minnesota 32–25."
+      }
+    ],
+    "sources": [
+      {
+        "name": "NHL.com",
+        "url": "https://www.nhl.com/bruins/news/minnesota-wild-boston-bruins-game-recap-november-14-2026-x4576"
+      },
+      {
+        "name": "AP",
+        "url": "https://sports.yahoo.com/articles/wild-beat-bruins-6-2-070331445.html"
+      },
+      {
+        "name": "Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/11/14/sports/bruins-wild-game-score/"
+      },
+      {
+        "name": "NESN",
+        "url": "https://nesn.com/boston-bruins/news/bruins-wild-takeaways-pastrnak-minten-swayman-loss/cd7354d3d795de38877d2edb"
+      },
+      {
+        "name": "Boston Hockey Now",
+        "url": "https://bostonhockeynow.com/2026-11-14-boston-bruins-minnesota-wild-game-20-recap/"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "David Pastrnak",
+      "line": "1 G · 1 A",
+      "note": "Scored his ninth goal of the season in the third and set up Minten's power-play goal."
+    },
+    {
+      "name": "Fraser Minten",
+      "line": "1 G (PP)",
+      "note": "His seventh of the season cut it to 3–1, but Minnesota scored again 75 seconds later."
+    },
+    {
+      "name": "Jeremy Swayman",
+      "line": "19 SV · 24 SA",
+      "note": "Allowed five goals two days after being pulled against Montreal; he has given up nine in two games."
+    }
+  ],
+  "oppLine": "Ryan Hartman and Danila Yurov scored twice each; Blake Coleman had a goal and two assists, Kirill Kaprizov two assists, and Jesper Wallstedt made 30 saves.",
+  "id": "2026-11-14-bruins-min",
+  "date": "2026-11-14"
+}

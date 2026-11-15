@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "teams": {
   "celtics": {
    "season": "2026–27",
@@ -103,7 +103,8 @@
      "time": "6:00 PM",
      "home": true,
      "opp": "Mavericks",
-     "oppAbbr": "DAL"
+     "oppAbbr": "DAL",
+     "tv": "NBC Sports Boston"
     },
     {
      "date": "2026-11-16",

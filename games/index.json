@@ -1,6 +1,20 @@
 {
   "games": [
     {
+      "id": "2026-11-14-bruins-min",
+      "team": "bruins",
+      "date": "2026-11-14",
+      "home": true,
+      "opp": "Wild",
+      "oppAbbr": "MIN",
+      "bos": 2,
+      "oppScore": 6,
+      "result": "L",
+      "record": "13–6–1",
+      "headline": "Wild jump out 3–0, hand Bruins a second straight home loss",
+      "ot": false
+    },
+    {
       "id": "2026-11-12-bruins-mtl",
       "team": "bruins",
       "date": "2026-11-12",
