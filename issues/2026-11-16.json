@@ -161,7 +161,520 @@
           "note": "Led the team in tackles and picked off Goff in the end zone before halftime."
         }
       ],
-      "oppLine": "Jahmyr Gibbs ran for 153 yards and two touchdowns and caught seven passes for 99 yards; Jared Goff threw for 303 yards and three touchdowns, two to Amon-Ra St. Brown."
+      "oppLine": "Jahmyr Gibbs ran for 153 yards and two touchdowns and caught seven passes for 99 yards; Jared Goff threw for 303 yards and three touchdowns, two to Amon-Ra St. Brown.",
+      "box": {
+        "source": {
+          "name": "ESPN",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873053"
+        },
+        "boston": {
+          "name": "Patriots",
+          "groups": [
+            {
+              "label": "Passing",
+              "columns": [
+                "C/ATT",
+                "YDS",
+                "TD",
+                "INT"
+              ],
+              "rows": [
+                {
+                  "name": "Tommy DeVito",
+                  "values": [
+                    "12/24",
+                    81,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "name": "Drake Maye",
+                  "values": [
+                    "3/4",
+                    48,
+                    0,
+                    0
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Rushing",
+              "columns": [
+                "CAR",
+                "YDS",
+                "TD",
+                "LONG"
+              ],
+              "rows": [
+                {
+                  "name": "Corey Kiner",
+                  "values": [
+                    10,
+                    25,
+                    0,
+                    7
+                  ]
+                },
+                {
+                  "name": "Tommy DeVito",
+                  "values": [
+                    4,
+                    19,
+                    0,
+                    11
+                  ]
+                },
+                {
+                  "name": "Drake Maye",
+                  "values": [
+                    1,
+                    11,
+                    0,
+                    11
+                  ]
+                },
+                {
+                  "name": "Rhamondre Stevenson",
+                  "values": [
+                    6,
+                    4,
+                    0,
+                    4
+                  ]
+                },
+                {
+                  "name": "Lan Larison",
+                  "values": [
+                    1,
+                    2,
+                    0,
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Receiving",
+              "columns": [
+                "REC",
+                "YDS",
+                "TD",
+                "TGT"
+              ],
+              "rows": [
+                {
+                  "name": "Mack Hollins",
+                  "values": [
+                    5,
+                    48,
+                    0,
+                    6
+                  ]
+                },
+                {
+                  "name": "A.J. Brown",
+                  "values": [
+                    2,
+                    27,
+                    0,
+                    6
+                  ]
+                },
+                {
+                  "name": "Hunter Henry",
+                  "values": [
+                    2,
+                    22,
+                    0,
+                    3
+                  ]
+                },
+                {
+                  "name": "Lan Larison",
+                  "values": [
+                    2,
+                    15,
+                    1,
+                    3
+                  ]
+                },
+                {
+                  "name": "Reggie Gilliam",
+                  "values": [
+                    1,
+                    6,
+                    0,
+                    1
+                  ]
+                },
+                {
+                  "name": "Eli Raridon",
+                  "values": [
+                    1,
+                    6,
+                    0,
+                    1
+                  ]
+                },
+                {
+                  "name": "DeMario Douglas",
+                  "values": [
+                    1,
+                    4,
+                    0,
+                    3
+                  ]
+                },
+                {
+                  "name": "Rhamondre Stevenson",
+                  "values": [
+                    1,
+                    1,
+                    0,
+                    1
+                  ]
+                },
+                {
+                  "name": "Kyle Williams",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    1
+                  ]
+                },
+                {
+                  "name": "Efton Chism III",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    1
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Defense",
+              "columns": [
+                "TCKL",
+                "SACK",
+                "TFL",
+                "INT",
+                "FF"
+              ],
+              "rows": [
+                {
+                  "name": "Kevin Byard",
+                  "values": [
+                    10,
+                    0,
+                    0,
+                    1,
+                    ""
+                  ]
+                },
+                {
+                  "name": "Christian Elliss",
+                  "values": [
+                    10,
+                    0,
+                    0,
+                    0,
+                    ""
+                  ]
+                },
+                {
+                  "name": "Robert Spillane",
+                  "values": [
+                    6,
+                    "0.5",
+                    0,
+                    0,
+                    ""
+                  ]
+                },
+                {
+                  "name": "Darius Muasau",
+                  "values": [
+                    5,
+                    0,
+                    0,
+                    0,
+                    ""
+                  ]
+                },
+                {
+                  "name": "Elijah Ponder",
+                  "values": [
+                    5,
+                    0,
+                    0,
+                    0,
+                    ""
+                  ]
+                },
+                {
+                  "name": "Marcus Jones",
+                  "values": [
+                    4,
+                    0,
+                    0,
+                    0,
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "opp": {
+          "name": "Lions",
+          "groups": [
+            {
+              "label": "Passing",
+              "columns": [
+                "C/ATT",
+                "YDS",
+                "TD",
+                "INT"
+              ],
+              "rows": [
+                {
+                  "name": "Jared Goff",
+                  "values": [
+                    "20/31",
+                    303,
+                    3,
+                    2
+                  ]
+                },
+                {
+                  "name": "Joshua Dobbs",
+                  "values": [
+                    "1/1",
+                    7,
+                    0,
+                    0
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Rushing",
+              "columns": [
+                "CAR",
+                "YDS",
+                "TD",
+                "LONG"
+              ],
+              "rows": [
+                {
+                  "name": "Jahmyr Gibbs",
+                  "values": [
+                    22,
+                    153,
+                    2,
+                    28
+                  ]
+                },
+                {
+                  "name": "Sione Vaki",
+                  "values": [
+                    6,
+                    28,
+                    0,
+                    8
+                  ]
+                },
+                {
+                  "name": "Jacob Saylors",
+                  "values": [
+                    2,
+                    9,
+                    0,
+                    6
+                  ]
+                },
+                {
+                  "name": "Jared Goff",
+                  "values": [
+                    1,
+                    3,
+                    0,
+                    3
+                  ]
+                },
+                {
+                  "name": "Joshua Dobbs",
+                  "values": [
+                    3,
+                    -2,
+                    0,
+                    0
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Receiving",
+              "columns": [
+                "REC",
+                "YDS",
+                "TD",
+                "TGT"
+              ],
+              "rows": [
+                {
+                  "name": "Jahmyr Gibbs",
+                  "values": [
+                    7,
+                    99,
+                    0,
+                    8
+                  ]
+                },
+                {
+                  "name": "Amon-Ra St. Brown",
+                  "values": [
+                    4,
+                    98,
+                    2,
+                    5
+                  ]
+                },
+                {
+                  "name": "Jameson Williams",
+                  "values": [
+                    4,
+                    50,
+                    0,
+                    7
+                  ]
+                },
+                {
+                  "name": "Isaac TeSlaa",
+                  "values": [
+                    2,
+                    19,
+                    1,
+                    5
+                  ]
+                },
+                {
+                  "name": "Sione Vaki",
+                  "values": [
+                    1,
+                    17,
+                    0,
+                    1
+                  ]
+                },
+                {
+                  "name": "Sam LaPorta",
+                  "values": [
+                    1,
+                    16,
+                    0,
+                    4
+                  ]
+                },
+                {
+                  "name": "Brock Wright",
+                  "values": [
+                    2,
+                    11,
+                    0,
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Defense",
+              "columns": [
+                "TCKL",
+                "SACK",
+                "TFL",
+                "INT",
+                "FF"
+              ],
+              "rows": [
+                {
+                  "name": "Derrick Barnes",
+                  "values": [
+                    7,
+                    0,
+                    1,
+                    0,
+                    ""
+                  ]
+                },
+                {
+                  "name": "Roger McCreary",
+                  "values": [
+                    6,
+                    0,
+                    0,
+                    1,
+                    ""
+                  ]
+                },
+                {
+                  "name": "Malcolm Rodriguez",
+                  "values": [
+                    6,
+                    0,
+                    0,
+                    0,
+                    ""
+                  ]
+                },
+                {
+                  "name": "K.J. Britt",
+                  "values": [
+                    5,
+                    0,
+                    0,
+                    0,
+                    ""
+                  ]
+                },
+                {
+                  "name": "DJ Wonnum",
+                  "values": [
+                    5,
+                    1,
+                    2,
+                    0,
+                    ""
+                  ]
+                },
+                {
+                  "name": "Brian Branch",
+                  "values": [
+                    5,
+                    0,
+                    1,
+                    0,
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "R0bF5z-qYe8",
+          "title": "Patriots at Lions: game highlights",
+          "channel": "New England Patriots",
+          "kind": "full"
+        }
+      ]
     },
     {
       "teamKey": "celtics",
@@ -258,7 +771,511 @@
           "note": "Scored 8 in the first quarter, including a three-point play off a Tatum pass."
         }
       ],
-      "oppLine": "Zaccharie Risacher scored 18 points, Cooper Flagg had 17 on 5-of-15 shooting with 4 assists, and Naji Marshall added 13; Kyrie Irving sat out (left knee management)."
+      "oppLine": "Zaccharie Risacher scored 18 points, Cooper Flagg had 17 on 5-of-15 shooting with 4 assists, and Naji Marshall added 13; Kyrie Irving sat out (left knee management).",
+      "box": {
+        "source": {
+          "name": "ESPN",
+          "url": "https://www.espn.com/nba/boxscore/_/gameId/401909989"
+        },
+        "boston": {
+          "name": "Celtics",
+          "groups": [
+            {
+              "label": "",
+              "columns": [
+                "MIN",
+                "PTS",
+                "REB",
+                "AST",
+                "FG",
+                "3PT",
+                "FT",
+                "STL",
+                "BLK",
+                "TO",
+                "+/-"
+              ],
+              "rows": [
+                {
+                  "name": "Paul George",
+                  "values": [
+                    25,
+                    7,
+                    7,
+                    6,
+                    "3-11",
+                    "1-4",
+                    "0-0",
+                    2,
+                    0,
+                    2,
+                    "+33"
+                  ]
+                },
+                {
+                  "name": "Jayson Tatum",
+                  "values": [
+                    30,
+                    32,
+                    6,
+                    6,
+                    "11-18",
+                    "5-8",
+                    "5-6",
+                    0,
+                    0,
+                    2,
+                    "+31"
+                  ]
+                },
+                {
+                  "name": "Neemias Queta",
+                  "values": [
+                    15,
+                    8,
+                    6,
+                    2,
+                    "3-3",
+                    "1-1",
+                    "1-2",
+                    0,
+                    1,
+                    0,
+                    "+31"
+                  ]
+                },
+                {
+                  "name": "Derrick White",
+                  "values": [
+                    23,
+                    16,
+                    4,
+                    2,
+                    "6-11",
+                    "4-9",
+                    "0-0",
+                    2,
+                    0,
+                    0,
+                    "+30"
+                  ]
+                },
+                {
+                  "name": "Jordan Walsh",
+                  "values": [
+                    21,
+                    11,
+                    1,
+                    0,
+                    "4-9",
+                    "2-5",
+                    "1-2",
+                    1,
+                    0,
+                    0,
+                    "+13"
+                  ]
+                },
+                {
+                  "name": "Payton Pritchard",
+                  "values": [
+                    19,
+                    10,
+                    1,
+                    6,
+                    "4-9",
+                    "2-6",
+                    "0-0",
+                    1,
+                    0,
+                    0,
+                    "+5"
+                  ]
+                },
+                {
+                  "name": "Baylor Scheierman",
+                  "values": [
+                    18,
+                    12,
+                    5,
+                    3,
+                    "3-6",
+                    "2-5",
+                    "4-4",
+                    2,
+                    0,
+                    1,
+                    "+14"
+                  ]
+                },
+                {
+                  "name": "Hugo Gonzalez",
+                  "values": [
+                    18,
+                    9,
+                    5,
+                    2,
+                    "3-6",
+                    "2-4",
+                    "1-2",
+                    1,
+                    0,
+                    4,
+                    "+6"
+                  ]
+                },
+                {
+                  "name": "Mitchell Robinson",
+                  "values": [
+                    15,
+                    0,
+                    7,
+                    1,
+                    "0-0",
+                    "0-0",
+                    "0-0",
+                    0,
+                    3,
+                    1,
+                    "0"
+                  ]
+                },
+                {
+                  "name": "Luka Garza",
+                  "values": [
+                    14,
+                    2,
+                    3,
+                    5,
+                    "1-5",
+                    "0-3",
+                    "0-0",
+                    0,
+                    1,
+                    0,
+                    "+7"
+                  ]
+                },
+                {
+                  "name": "Ron Harper Jr.",
+                  "values": [
+                    12,
+                    10,
+                    1,
+                    0,
+                    "4-6",
+                    "2-4",
+                    "0-0",
+                    0,
+                    0,
+                    0,
+                    "+4"
+                  ]
+                },
+                {
+                  "name": "Devin Carter",
+                  "values": [
+                    12,
+                    0,
+                    2,
+                    1,
+                    "0-2",
+                    "0-1",
+                    "0-0",
+                    0,
+                    0,
+                    2,
+                    "+4"
+                  ]
+                },
+                {
+                  "name": "Sam Hauser",
+                  "values": [
+                    11,
+                    8,
+                    1,
+                    0,
+                    "3-4",
+                    "2-3",
+                    "0-0",
+                    2,
+                    0,
+                    0,
+                    "+6"
+                  ]
+                },
+                {
+                  "name": "Chris Cenac Jr.",
+                  "values": [
+                    7,
+                    6,
+                    3,
+                    0,
+                    "3-5",
+                    "0-2",
+                    "0-0",
+                    0,
+                    0,
+                    0,
+                    "+1"
+                  ]
+                }
+              ],
+              "totals": [
+                "",
+                131,
+                52,
+                34,
+                "48-95",
+                "23-55",
+                "12-16",
+                11,
+                5,
+                12,
+                ""
+              ],
+              "starters": 5
+            }
+          ]
+        },
+        "opp": {
+          "name": "Mavericks",
+          "groups": [
+            {
+              "label": "",
+              "columns": [
+                "MIN",
+                "PTS",
+                "REB",
+                "AST",
+                "FG",
+                "3PT",
+                "FT",
+                "STL",
+                "BLK",
+                "TO",
+                "+/-"
+              ],
+              "rows": [
+                {
+                  "name": "Caleb Martin",
+                  "values": [
+                    34,
+                    12,
+                    5,
+                    5,
+                    "4-8",
+                    "4-5",
+                    "0-0",
+                    2,
+                    0,
+                    1,
+                    "-23"
+                  ]
+                },
+                {
+                  "name": "Daniel Gafford",
+                  "values": [
+                    19,
+                    3,
+                    4,
+                    2,
+                    "1-2",
+                    "0-0",
+                    "1-1",
+                    0,
+                    3,
+                    2,
+                    "-16"
+                  ]
+                },
+                {
+                  "name": "P.J. Washington",
+                  "values": [
+                    25,
+                    8,
+                    5,
+                    4,
+                    "3-11",
+                    "0-6",
+                    "2-3",
+                    0,
+                    1,
+                    3,
+                    "-19"
+                  ]
+                },
+                {
+                  "name": "Naji Marshall",
+                  "values": [
+                    23,
+                    13,
+                    2,
+                    2,
+                    "4-10",
+                    "3-5",
+                    "2-2",
+                    1,
+                    0,
+                    3,
+                    "-25"
+                  ]
+                },
+                {
+                  "name": "Cooper Flagg",
+                  "values": [
+                    27,
+                    17,
+                    3,
+                    4,
+                    "5-15",
+                    "2-6",
+                    "5-5",
+                    1,
+                    1,
+                    3,
+                    "-30"
+                  ]
+                },
+                {
+                  "name": "Zaccharie Risacher",
+                  "values": [
+                    27,
+                    18,
+                    5,
+                    0,
+                    "8-9",
+                    "1-2",
+                    "1-2",
+                    0,
+                    0,
+                    1,
+                    "-14"
+                  ]
+                },
+                {
+                  "name": "Morez Johnson Jr.",
+                  "values": [
+                    26,
+                    2,
+                    6,
+                    4,
+                    "1-10",
+                    "0-4",
+                    "0-0",
+                    1,
+                    1,
+                    1,
+                    "-23"
+                  ]
+                },
+                {
+                  "name": "Walter Clayton Jr.",
+                  "values": [
+                    23,
+                    13,
+                    4,
+                    3,
+                    "4-8",
+                    "3-5",
+                    "2-2",
+                    1,
+                    0,
+                    1,
+                    "-28"
+                  ]
+                },
+                {
+                  "name": "Marcus Sasser",
+                  "values": [
+                    18,
+                    5,
+                    1,
+                    2,
+                    "2-6",
+                    "1-5",
+                    "0-0",
+                    0,
+                    0,
+                    0,
+                    "-10"
+                  ]
+                },
+                {
+                  "name": "Tobi Lawal",
+                  "values": [
+                    9,
+                    2,
+                    2,
+                    0,
+                    "1-3",
+                    "0-2",
+                    "0-0",
+                    0,
+                    0,
+                    0,
+                    "+3"
+                  ]
+                },
+                {
+                  "name": "Jett Howard",
+                  "values": [
+                    7,
+                    0,
+                    0,
+                    1,
+                    "0-1",
+                    "0-1",
+                    "0-0",
+                    1,
+                    0,
+                    1,
+                    "-1"
+                  ]
+                },
+                {
+                  "name": "Moussa Cisse",
+                  "values": [
+                    4,
+                    1,
+                    1,
+                    0,
+                    "0-0",
+                    "0-0",
+                    "1-2",
+                    0,
+                    0,
+                    1,
+                    "+1"
+                  ]
+                }
+              ],
+              "totals": [
+                "",
+                94,
+                38,
+                27,
+                "33-83",
+                "14-41",
+                "14-17",
+                7,
+                6,
+                17,
+                ""
+              ],
+              "starters": 5
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "8IDrPqujvI8",
+          "title": "Mavericks at Celtics: full game highlights",
+          "channel": "NBA",
+          "kind": "full"
+        }
+      ]
     }
   ],
   "teamNews": {

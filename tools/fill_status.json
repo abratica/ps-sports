@@ -1,9 +1,21 @@
 {
-  "issue": "2026-11-15",
+  "issue": "2026-11-16",
   "games": {
-    "bruins": {
-      "box": "not yet: shots don't match goalies: (33, 24) vs (25, 33)",
-      "video": "ok"
+    "patriots": {
+      "box": "added",
+      "video_notes": [
+        "feeds: found R0bF5z-qYe8"
+      ],
+      "video": "added R0bF5z-qYe8 (New England Patriots)"
+    },
+    "celtics": {
+      "box": "added",
+      "video_notes": [
+        "feeds: nothing",
+        "search '\"Mavericks at Celtics\" full game highlights November 15, 2026': 18 results",
+        "search hit 8IDrPqujvI8 [NBA]: MAVERICKS at CELTICS | FULL GAME HIGHLIGHTS | November 15, 2026"
+      ],
+      "video": "added 8IDrPqujvI8 (NBA)"
     }
   }
 }
