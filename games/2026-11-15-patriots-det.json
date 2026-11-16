@@ -1,0 +1,103 @@
+{
+  "teamKey": "patriots",
+  "sport": "NFL",
+  "headline": "Maye hurt on the opening drive as Lions roll in Munich",
+  "home": false,
+  "boston": {
+    "abbr": "NE",
+    "score": 10
+  },
+  "opp": {
+    "abbr": "DET",
+    "name": "Lions",
+    "score": 35,
+    "record": "7–2"
+  },
+  "result": "L",
+  "record": "5–5",
+  "takeaway": "Drake Maye left on the opening drive with an ankle injury after Aidan Hutchinson sacked him, and Detroit scored 28 straight points in a 35–10 win in Munich. New England is 5–5 going into its bye, with Maye due for more tests.",
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "boston": [
+      3,
+      0,
+      0,
+      7
+    ],
+    "opp": [
+      7,
+      14,
+      7,
+      7
+    ],
+    "sections": [
+      {
+        "label": "1st quarter",
+        "score": "DET 7, NE 3",
+        "text": "Maye went 3-of-4 for 48 yards on the opening drive, including a 26-yard flea-flicker to Mack Hollins, but an offside penalty and a delay of game made it third-and-goal from the 14, and Hutchinson sacked him. Andy Borregales kicked a 33-yard field goal; Maye didn't return, and Tommy DeVito took over. Less than three minutes later, Amon-Ra St. Brown turned a short Jared Goff pass into a 56-yard touchdown."
+      },
+      {
+        "label": "2nd quarter",
+        "score": "DET 21, NE 3",
+        "text": "Goff hit Isaac TeSlaa for a 12-yard touchdown at 12:57 to finish a 97-yard drive, and Jahmyr Gibbs ran 5 yards for another with 2:06 left in the half. Christian Gonzalez and Kevin Byard intercepted Goff, Byard in the end zone just before halftime. DeVito was 4-of-9 for 16 yards in the half, with an interception and three sacks."
+      },
+      {
+        "label": "3rd quarter",
+        "score": "DET 28, NE 3",
+        "text": "St. Brown scored his second touchdown on a 28-yard screen at 8:16. Late in the quarter A.J. Brown hurt his hamstring on a catch-and-run and didn't return."
+      },
+      {
+        "label": "4th quarter",
+        "score": "Final: DET 35, NE 10",
+        "text": "DeVito found Lan Larison for a 10-yard touchdown at 12:40, ending a 13-play, 87-yard drive; it was Larison's first career touchdown and DeVito's first touchdown pass as a Patriot. Gibbs answered with a 28-yard touchdown run at 8:56. Detroit outgained New England 494 yards to 151."
+      }
+    ],
+    "sources": [
+      {
+        "name": "ESPN",
+        "url": "https://www.espn.com/nfl/story/_/id/50492387/patriots-qb-drake-maye-testing-ankle-injury"
+      },
+      {
+        "name": "Field Level Media (Yardbarker)",
+        "url": "https://www.yardbarker.com/nfl/articles/jahmyr_gibbs_lions_dominate_patriots_in_munich_win_fifth_straight/s1_17049_44565167"
+      },
+      {
+        "name": "DAZN",
+        "url": "https://www.dazn.com/en-GB/news/american-football/lions-patriots-35-10-recap-nfl-munich-st-brown-gibbs-maye/1wuxpm39ek9yc1kf4cx632mxgz"
+      },
+      {
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/articles/tommy-devito-throws-81-yards-175601326.html"
+      },
+      {
+        "name": "NBC Sports Boston",
+        "url": "https://www.nbcsportsboston.com/nfl/new-england-patriots/lions-live-updates-germany-drake-maye-jared-goff/813705/"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "Tommy DeVito",
+      "line": "12/24 · 81 YDS · 1 TD · 1 INT",
+      "note": "Played all but the opening drive and was sacked four times; his touchdown to Larison was his first as a Patriot."
+    },
+    {
+      "name": "Mack Hollins",
+      "line": "5 REC · 48 YDS",
+      "note": "Led the team in catches, including the 26-yard flea-flicker on the opening drive."
+    },
+    {
+      "name": "Kevin Byard",
+      "line": "10 TCKL · 1 INT",
+      "note": "Led the team in tackles and picked off Goff in the end zone before halftime."
+    }
+  ],
+  "oppLine": "Jahmyr Gibbs ran for 153 yards and two touchdowns and caught seven passes for 99 yards; Jared Goff threw for 303 yards and three touchdowns, two to Amon-Ra St. Brown.",
+  "id": "2026-11-15-patriots-det",
+  "date": "2026-11-15"
+}

@@ -1,6 +1,34 @@
 {
   "games": [
     {
+      "id": "2026-11-15-patriots-det",
+      "team": "patriots",
+      "date": "2026-11-15",
+      "home": false,
+      "opp": "Lions",
+      "oppAbbr": "DET",
+      "bos": 10,
+      "oppScore": 35,
+      "result": "L",
+      "record": "5–5",
+      "headline": "Maye hurt on the opening drive as Lions roll in Munich",
+      "ot": false
+    },
+    {
+      "id": "2026-11-15-celtics-dal",
+      "team": "celtics",
+      "date": "2026-11-15",
+      "home": true,
+      "opp": "Mavericks",
+      "oppAbbr": "DAL",
+      "bos": 131,
+      "oppScore": 94,
+      "result": "W",
+      "record": "11–2",
+      "headline": "Celtics' record 42–9 first quarter buries Dallas",
+      "ot": false
+    },
+    {
       "id": "2026-11-14-bruins-min",
       "team": "bruins",
       "date": "2026-11-14",

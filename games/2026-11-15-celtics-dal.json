@@ -1,0 +1,99 @@
+{
+  "teamKey": "celtics",
+  "sport": "NBA",
+  "headline": "Celtics' record 42–9 first quarter buries Dallas",
+  "home": true,
+  "boston": {
+    "abbr": "BOS",
+    "score": 131
+  },
+  "opp": {
+    "abbr": "DAL",
+    "name": "Mavericks",
+    "score": 94,
+    "record": "7–7"
+  },
+  "result": "W",
+  "record": "11–2",
+  "takeaway": "Boston held Dallas to 2-of-18 shooting in the first quarter, led 42–9 after 12 minutes, a franchise record, and won 131–94 behind Jayson Tatum's 32 points. It's the Celtics' sixth straight win, with Orlando at home Monday.",
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "boston": [
+      42,
+      25,
+      37,
+      27
+    ],
+    "opp": [
+      9,
+      28,
+      34,
+      23
+    ],
+    "sections": [
+      {
+        "label": "1st quarter",
+        "score": "BOS 42, DAL 9",
+        "text": "Jordan Walsh scored 8 of his 11 points in the quarter, and it was 19–4 when Dallas called its first timeout at 7:14. Derrick White hit three straight threes and outscored the Mavericks by himself, 11–9. Dallas shot 2-of-18 (0-of-8 from three) with six turnovers, and Baylor Scheierman's steal and dunk with 45 seconds left made it 42–9."
+      },
+      {
+        "label": "2nd quarter",
+        "score": "BOS 67, DAL 37",
+        "text": "Dallas won the quarter by three and cut the lead to 24 during a 9–0 run. Cooper Flagg had a fouled jumper and a steal-and-dunk, and Hugo Gonzalez hit a three after grabbing two straight offensive rebounds."
+      },
+      {
+        "label": "3rd quarter",
+        "score": "BOS 104, DAL 71",
+        "text": "Tatum scored 21 in the quarter on 6-of-9 shooting with four threes, including Boston's last 13 points of the period."
+      },
+      {
+        "label": "4th quarter",
+        "score": "Final: BOS 131, DAL 94",
+        "text": "Boston's starters sat the whole quarter. Devin Carter played all 12 minutes in his season debut, and rookie Chris Cenac Jr. scored 6 points in the final seven minutes."
+      }
+    ],
+    "sources": [
+      {
+        "name": "ESPN (AP)",
+        "url": "https://www.espn.com/nba/recap?gameId=401909989"
+      },
+      {
+        "name": "Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/11/15/sports/celtics-mavericks-cooper-flagg/"
+      },
+      {
+        "name": "NBC Sports Boston",
+        "url": "https://www.nbcsportsboston.com/nba/boston-celtics/live-updates-mavericks-highlights-score-4/813933/"
+      },
+      {
+        "name": "Boston.com",
+        "url": "https://www.boston.com/sports/boston-celtics/2026/11/15/jayson-tatum-celtics-stifle-mavericks-in-dominant-performance-9-takeaways/"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "Jayson Tatum",
+      "line": "32 PTS · 6 AST · 30 MIN",
+      "note": "Scored 21 in the third quarter, including Boston's last 13 points of it, and sat the fourth."
+    },
+    {
+      "name": "Derrick White",
+      "line": "16 PTS · 4-9 3PT",
+      "note": "Made three straight threes in the first quarter, when his 11 points topped Dallas's nine."
+    },
+    {
+      "name": "Jordan Walsh",
+      "line": "11 PTS",
+      "note": "Scored 8 in the first quarter, including a three-point play off a Tatum pass."
+    }
+  ],
+  "oppLine": "Zaccharie Risacher scored 18 points, Cooper Flagg had 17 on 5-of-15 shooting with 4 assists, and Naji Marshall added 13; Kyrie Irving sat out (left knee management).",
+  "id": "2026-11-15-celtics-dal",
+  "date": "2026-11-15"
+}
