@@ -2,20 +2,12 @@
   "issue": "2026-11-16",
   "games": {
     "patriots": {
-      "box": "added",
-      "video_notes": [
-        "feeds: found R0bF5z-qYe8"
-      ],
-      "video": "added R0bF5z-qYe8 (New England Patriots)"
+      "box": "ok",
+      "video": "ok"
     },
     "celtics": {
-      "box": "added",
-      "video_notes": [
-        "feeds: nothing",
-        "search '\"Mavericks at Celtics\" full game highlights November 15, 2026': 18 results",
-        "search hit 8IDrPqujvI8 [NBA]: MAVERICKS at CELTICS | FULL GAME HIGHLIGHTS | November 15, 2026"
-      ],
-      "video": "added 8IDrPqujvI8 (NBA)"
+      "box": "ok",
+      "video": "ok"
     }
   }
 }
