@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "teams": {
   "celtics": {
    "season": "2026–27",
@@ -116,10 +116,11 @@
     },
     {
      "date": "2026-11-18",
-     "time": "9:00 PM",
+     "time": "9:30 PM",
      "home": false,
      "opp": "Nuggets",
-     "oppAbbr": "DEN"
+     "oppAbbr": "DEN",
+     "tv": "ESPN"
     },
     {
      "date": "2026-11-21",

@@ -1,0 +1,103 @@
+{
+  "teamKey": "celtics",
+  "sport": "NBA",
+  "headline": "Magic score 40 in the fourth, hand Celtics first home loss",
+  "home": true,
+  "boston": {
+    "abbr": "BOS",
+    "score": 105
+  },
+  "opp": {
+    "abbr": "ORL",
+    "name": "Magic",
+    "score": 115,
+    "record": "6–7"
+  },
+  "result": "L",
+  "record": "11–3",
+  "takeaway": "Boston led 77–75 after three quarters, but Orlando scored 40 in the fourth and won 115–105, ending the Celtics' six-game win streak and their unbeaten home start. Philadelphia moved ahead of Boston for first in the East.",
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "boston": [
+      17,
+      24,
+      36,
+      28
+    ],
+    "opp": [
+      20,
+      30,
+      25,
+      40
+    ],
+    "sections": [
+      {
+        "label": "1st quarter",
+        "score": "ORL 20, BOS 17",
+        "text": "A day after scoring 42 in the first quarter against Dallas, Boston shot 6-of-24. Paul George scored the Celtics' first 10 points while the rest of the team went 1-of-16, and Payton Pritchard's three at the buzzer kept it a three-point game."
+      },
+      {
+        "label": "2nd quarter",
+        "score": "ORL 50, BOS 41",
+        "text": "Orlando won the quarter 30–24. George had 15 points and 7 rebounds at the half; Jayson Tatum had 6 points on 3-of-11 shooting."
+      },
+      {
+        "label": "3rd quarter",
+        "score": "BOS 77, ORL 75",
+        "text": "Tatum scored 14 points with 7 rebounds in the quarter as Boston won it 36–25 to take the lead. Chris Cenac Jr., in his first real rotation minutes with Neemias Queta resting and Mitchell Robinson in foul trouble, finished two lobs."
+      },
+      {
+        "label": "4th quarter",
+        "score": "Final: ORL 115, BOS 105",
+        "text": "Orlando outscored Boston 40–28. Franz Wagner's alley-oop to Wendell Carter Jr. and a Desmond Bane jumper made it 110–99 with 1:33 left. The Magic finished with a 54–32 edge in the paint and won the rebounding battle 46–40."
+      }
+    ],
+    "sources": [
+      {
+        "name": "ESPN",
+        "url": "https://www.espn.com/nba/recap?gameId=401909994"
+      },
+      {
+        "name": "MassLive (Yahoo Sports)",
+        "url": "https://sports.yahoo.com/articles/4-takeaways-celtics-lose-magic-024429679.html"
+      },
+      {
+        "name": "Celtics Wire (Yahoo Sports)",
+        "url": "https://sports.yahoo.com/articles/celtics-star-jayson-tatum-downplays-065458489.html"
+      },
+      {
+        "name": "Roundtable Sports (Yahoo Sports)",
+        "url": "https://sports.yahoo.com/articles/boston-celtics-five-takeaways-discouraging-043039173.html"
+      },
+      {
+        "name": "VAVEL",
+        "url": "https://www.vavel.com/en-us/nba/2026/11/16/1279464-celtics-vs-magic-live-score-updates-and-play-by-play-nba.html"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "Jayson Tatum",
+      "line": "24 PTS · 12 REB · 4 AST · 9-23 FG",
+      "note": "Scored 14 in the third to put Boston ahead, but had 5 of the team's 11 turnovers."
+    },
+    {
+      "name": "Paul George",
+      "line": "22 PTS · 5-9 3PT · 8 REB",
+      "note": "Scored Boston's first 10 points and had 15 by halftime."
+    },
+    {
+      "name": "Payton Pritchard",
+      "line": "21 PTS",
+      "note": "Hit the first-quarter buzzer-beater and kept scoring late in the fourth."
+    }
+  ],
+  "oppLine": "Desmond Bane had 24 points and 8 rebounds, Franz Wagner had 21 points, 9 assists and 8 rebounds, and Anthony Black added 20 points and 7 assists.",
+  "id": "2026-11-16-celtics-orl",
+  "date": "2026-11-16"
+}

@@ -1,6 +1,20 @@
 {
   "games": [
     {
+      "id": "2026-11-16-celtics-orl",
+      "team": "celtics",
+      "date": "2026-11-16",
+      "home": true,
+      "opp": "Magic",
+      "oppAbbr": "ORL",
+      "bos": 105,
+      "oppScore": 115,
+      "result": "L",
+      "record": "11–3",
+      "headline": "Magic score 40 in the fourth, hand Celtics first home loss",
+      "ot": false
+    },
+    {
       "id": "2026-11-15-patriots-det",
       "team": "patriots",
       "date": "2026-11-15",
