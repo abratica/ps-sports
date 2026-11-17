@@ -1,13 +1,14 @@
 {
-  "issue": "2026-11-16",
+  "issue": "2026-11-17",
   "games": {
-    "patriots": {
-      "box": "ok",
-      "video": "ok"
-    },
     "celtics": {
-      "box": "ok",
-      "video": "ok"
+      "box": "added",
+      "video_notes": [
+        "feeds: found fP3QUDw2zGc",
+        "search '\"Magic at Celtics\" full game highlights November 16, 2026': 0 results",
+        "search 'Magic Celtics full game highlights': 0 results"
+      ],
+      "video": "not found yet"
     }
   }
 }
