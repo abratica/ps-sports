@@ -498,6 +498,14 @@
       ]
     }
   },
+  "videos": [
+    {
+      "id": "PZbSOMpMelI",
+      "title": "Magic at Celtics: full game highlights",
+      "channel": "NBA",
+      "kind": "full"
+    }
+  ],
   "id": "2026-11-16-celtics-orl",
   "date": "2026-11-16"
 }

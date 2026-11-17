@@ -560,7 +560,15 @@
             }
           ]
         }
-      }
+      },
+      "videos": [
+        {
+          "id": "PZbSOMpMelI",
+          "title": "Magic at Celtics: full game highlights",
+          "channel": "NBA",
+          "kind": "full"
+        }
+      ]
     }
   ],
   "teamNews": {
