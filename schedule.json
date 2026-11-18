@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "teams": {
   "celtics": {
    "season": "2026–27",
@@ -1371,11 +1371,12 @@
     },
     {
      "date": "2026-11-29",
-     "time": "8:20 PM",
+     "time": "4:05 PM",
      "home": false,
      "opp": "Chargers",
      "oppAbbr": "LAC",
-     "tv": "NBC"
+     "tv": "CBS",
+     "note": "Flexed from Sunday night"
     },
     {
      "date": "2026-12-06",

@@ -1,6 +1,20 @@
 {
   "games": [
     {
+      "id": "2026-11-17-bruins-la",
+      "team": "bruins",
+      "date": "2026-11-17",
+      "home": true,
+      "opp": "Kings",
+      "oppAbbr": "LA",
+      "bos": 0,
+      "oppScore": 3,
+      "result": "L",
+      "record": "13–7–1",
+      "headline": "Kuemper blanks Bruins as Boston drops a third straight",
+      "ot": false
+    },
+    {
       "id": "2026-11-16-celtics-orl",
       "team": "celtics",
       "date": "2026-11-16",
