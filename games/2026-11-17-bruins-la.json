@@ -664,6 +664,14 @@
       ]
     }
   },
+  "videos": [
+    {
+      "id": "eBPPoCNkDAk",
+      "title": "Kings at Bruins: game highlights",
+      "channel": "Sportsnet",
+      "kind": "full"
+    }
+  ],
   "id": "2026-11-17-bruins-la",
   "date": "2026-11-17"
 }

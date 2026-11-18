@@ -738,7 +738,15 @@
             }
           ]
         }
-      }
+      },
+      "videos": [
+        {
+          "id": "eBPPoCNkDAk",
+          "title": "Kings at Bruins: game highlights",
+          "channel": "Sportsnet",
+          "kind": "full"
+        }
+      ]
     }
   ],
   "teamNews": {
