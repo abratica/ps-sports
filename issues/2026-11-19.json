@@ -690,7 +690,581 @@
           "channel": "Sportsnet",
           "kind": "full"
         }
-      ]
+      ],
+      "box": {
+        "source": {
+          "name": "ESPN",
+          "url": "https://www.espn.com/nhl/boxscore/_/gameId/401892739"
+        },
+        "boston": {
+          "name": "Bruins",
+          "groups": [
+            {
+              "label": "Skaters",
+              "columns": [
+                "G",
+                "A",
+                "PTS",
+                "+/-",
+                "SOG",
+                "HIT",
+                "BLK",
+                "TOI"
+              ],
+              "rows": [
+                {
+                  "name": "Nikita Zadorov",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "1",
+                    1,
+                    2,
+                    2,
+                    "23:45"
+                  ]
+                },
+                {
+                  "name": "Will Borgen",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "1",
+                    1,
+                    5,
+                    5,
+                    "22:57"
+                  ]
+                },
+                {
+                  "name": "Hampus Lindholm",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "0",
+                    1,
+                    0,
+                    1,
+                    "22:11"
+                  ]
+                },
+                {
+                  "name": "Charlie McAvoy",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "1",
+                    0,
+                    2,
+                    2,
+                    "22:00"
+                  ]
+                },
+                {
+                  "name": "David Pastrnak",
+                  "values": [
+                    1,
+                    1,
+                    2,
+                    "0",
+                    6,
+                    3,
+                    1,
+                    "18:00"
+                  ]
+                },
+                {
+                  "name": "Morgan Geekie",
+                  "values": [
+                    0,
+                    2,
+                    2,
+                    "0",
+                    2,
+                    1,
+                    0,
+                    "17:25"
+                  ]
+                },
+                {
+                  "name": "Pavel Zacha",
+                  "values": [
+                    1,
+                    1,
+                    2,
+                    "2",
+                    3,
+                    1,
+                    0,
+                    "17:03"
+                  ]
+                },
+                {
+                  "name": "Elias Lindholm",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "0",
+                    2,
+                    0,
+                    0,
+                    "16:32"
+                  ]
+                },
+                {
+                  "name": "Connor Clifton",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "0",
+                    1,
+                    1,
+                    1,
+                    "14:50"
+                  ]
+                },
+                {
+                  "name": "Marat Khusnutdinov",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "0",
+                    1,
+                    0,
+                    0,
+                    "14:27"
+                  ]
+                },
+                {
+                  "name": "JJ Peterka",
+                  "values": [
+                    1,
+                    0,
+                    1,
+                    "2",
+                    2,
+                    0,
+                    1,
+                    "14:24"
+                  ]
+                },
+                {
+                  "name": "Mark Kastelic",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "0",
+                    0,
+                    3,
+                    3,
+                    "14:02"
+                  ]
+                },
+                {
+                  "name": "Fraser Minten",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "0",
+                    1,
+                    2,
+                    1,
+                    "13:56"
+                  ]
+                },
+                {
+                  "name": "Mason Lohrei",
+                  "values": [
+                    0,
+                    2,
+                    2,
+                    "1",
+                    0,
+                    0,
+                    1,
+                    "13:52"
+                  ]
+                },
+                {
+                  "name": "Sean Kuraly",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "0",
+                    2,
+                    2,
+                    1,
+                    "13:42"
+                  ]
+                },
+                {
+                  "name": "Casey Mittelstadt",
+                  "values": [
+                    1,
+                    1,
+                    2,
+                    "2",
+                    1,
+                    0,
+                    2,
+                    "13:25"
+                  ]
+                },
+                {
+                  "name": "Matthew Poitras",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "0",
+                    5,
+                    0,
+                    1,
+                    "12:54"
+                  ]
+                },
+                {
+                  "name": "Tanner Jeannot",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "0",
+                    2,
+                    5,
+                    1,
+                    "12:35"
+                  ]
+                }
+              ],
+              "totals": [
+                4,
+                7,
+                11,
+                "",
+                31,
+                27,
+                23,
+                ""
+              ]
+            },
+            {
+              "label": "Goalies",
+              "columns": [
+                "SA",
+                "SV",
+                "SV%",
+                "TOI"
+              ],
+              "rows": [
+                {
+                  "name": "Jeremy Swayman",
+                  "values": [
+                    21,
+                    20,
+                    ".952",
+                    "60:00"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "opp": {
+          "name": "Red Wings",
+          "groups": [
+            {
+              "label": "Skaters",
+              "columns": [
+                "G",
+                "A",
+                "PTS",
+                "+/-",
+                "SOG",
+                "HIT",
+                "BLK",
+                "TOI"
+              ],
+              "rows": [
+                {
+                  "name": "Moritz Seider",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "-3",
+                    0,
+                    0,
+                    2,
+                    "24:12"
+                  ]
+                },
+                {
+                  "name": "Justin Faulk",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "0",
+                    1,
+                    2,
+                    2,
+                    "23:00"
+                  ]
+                },
+                {
+                  "name": "Ben Chiarot",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "0",
+                    1,
+                    0,
+                    3,
+                    "22:21"
+                  ]
+                },
+                {
+                  "name": "Andrew Copp",
+                  "values": [
+                    0,
+                    1,
+                    1,
+                    "0",
+                    0,
+                    0,
+                    0,
+                    "21:04"
+                  ]
+                },
+                {
+                  "name": "Lucas Raymond",
+                  "values": [
+                    1,
+                    0,
+                    1,
+                    "0",
+                    1,
+                    1,
+                    0,
+                    "20:31"
+                  ]
+                },
+                {
+                  "name": "Alex DeBrincat",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "-2",
+                    5,
+                    0,
+                    2,
+                    "20:18"
+                  ]
+                },
+                {
+                  "name": "Emmitt Finnie",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "-2",
+                    2,
+                    0,
+                    0,
+                    "20:15"
+                  ]
+                },
+                {
+                  "name": "Viktor Arvidsson",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "-1",
+                    4,
+                    0,
+                    0,
+                    "18:54"
+                  ]
+                },
+                {
+                  "name": "Anton Johansson",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "-2",
+                    0,
+                    3,
+                    1,
+                    "18:48"
+                  ]
+                },
+                {
+                  "name": "Marco Kasper",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "0",
+                    4,
+                    1,
+                    0,
+                    "16:43"
+                  ]
+                },
+                {
+                  "name": "Michael Brandsegg-Nygard",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "-1",
+                    0,
+                    3,
+                    0,
+                    "15:03"
+                  ]
+                },
+                {
+                  "name": "Andreas Englund",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "1",
+                    0,
+                    1,
+                    1,
+                    "14:23"
+                  ]
+                },
+                {
+                  "name": "J.T. Compher",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "-1",
+                    2,
+                    0,
+                    0,
+                    "13:32"
+                  ]
+                },
+                {
+                  "name": "Jacob Bernard-Docker",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "1",
+                    0,
+                    0,
+                    1,
+                    "13:05"
+                  ]
+                },
+                {
+                  "name": "Carter Mazur",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "-1",
+                    0,
+                    2,
+                    0,
+                    "12:19"
+                  ]
+                },
+                {
+                  "name": "Keegan Kolesar",
+                  "values": [
+                    0,
+                    1,
+                    1,
+                    "0",
+                    0,
+                    3,
+                    1,
+                    "9:58"
+                  ]
+                },
+                {
+                  "name": "Sheldon Dries",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "0",
+                    0,
+                    1,
+                    0,
+                    "9:21"
+                  ]
+                },
+                {
+                  "name": "Michael Rasmussen",
+                  "values": [
+                    0,
+                    0,
+                    0,
+                    "0",
+                    1,
+                    1,
+                    0,
+                    "8:37"
+                  ]
+                }
+              ],
+              "totals": [
+                1,
+                2,
+                3,
+                "",
+                21,
+                18,
+                13,
+                ""
+              ]
+            },
+            {
+              "label": "Goalies",
+              "columns": [
+                "SA",
+                "SV",
+                "SV%",
+                "TOI"
+              ],
+              "rows": [
+                {
+                  "name": "Daniil Tarasov",
+                  "values": [
+                    30,
+                    27,
+                    ".900",
+                    "56:59"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
     }
   ],
   "teamNews": {
