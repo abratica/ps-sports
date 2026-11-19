@@ -2,18 +2,12 @@
   "issue": "2026-11-19",
   "games": {
     "celtics": {
-      "box": "added",
-      "video_notes": [
-        "feeds: found HX-mNTYf4x8"
-      ],
-      "video": "added HX-mNTYf4x8 (NBA)"
+      "box": "ok",
+      "video": "ok"
     },
     "bruins": {
-      "box": "not yet: shots don't match goalies: (31, 21) vs (21, 30)",
-      "video_notes": [
-        "feeds: found I2A0K-e2jdI"
-      ],
-      "video": "added I2A0K-e2jdI (Sportsnet)"
+      "box": "ok",
+      "video": "ok"
     }
   }
 }
