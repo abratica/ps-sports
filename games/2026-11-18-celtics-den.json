@@ -1,0 +1,103 @@
+{
+  "teamKey": "celtics",
+  "sport": "NBA",
+  "headline": "Celtics squander a 17-point lead and fall in Denver",
+  "home": false,
+  "boston": {
+    "abbr": "BOS",
+    "score": 101
+  },
+  "opp": {
+    "abbr": "DEN",
+    "name": "Nuggets",
+    "score": 105,
+    "record": "8–5"
+  },
+  "result": "L",
+  "record": "11–4",
+  "takeaway": "Boston led by 17 in the first half, but eight straight third-quarter turnovers fed a 12–0 Denver run, and Jamal Murray's jumper with 6.4 seconds left sealed a 105–101 Nuggets win. It is the Celtics' first losing streak of the season.",
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "boston": [
+      30,
+      31,
+      19,
+      21
+    ],
+    "opp": [
+      24,
+      25,
+      31,
+      25
+    ],
+    "sections": [
+      {
+        "label": "1st quarter",
+        "score": "BOS 30, DEN 24",
+        "text": "Boston opened with an 8–0 run in the first 74 seconds and went 6-of-15 from three in the quarter."
+      },
+      {
+        "label": "2nd quarter",
+        "score": "BOS 61, DEN 49",
+        "text": "The Celtics stretched the lead to as many as 17 in the first half, and Jayson Tatum had 20 points at the break, going 3-for-6 from three. Payton Pritchard was 3-for-4 from deep in the half. Luka Garza was hurt going for a defensive rebound early in the quarter."
+      },
+      {
+        "label": "3rd quarter",
+        "score": "DEN 80, BOS 80",
+        "text": "Boston committed four fouls in the first 66 seconds, putting Denver in the bonus. Neemias Queta's dunk made it 67–57 with 7:55 left, then Boston turned it over on eight straight possessions, four on bad passes by Tatum, as Denver ran off 12 straight to take its first lead, 69–67. Sam Hauser's three ended a 4:35 scoreless stretch."
+      },
+      {
+        "label": "4th quarter",
+        "score": "Final: DEN 105, BOS 101",
+        "text": "Paul George fouled out with 6:14 left. Queta's putback with 1:06 left put Boston up 101–100, but DeMar DeRozan answered with two free throws, Derrick White missed a three with 28 seconds left and Murray hit a jumper with 6.4 seconds left for a 104–101 lead. Tatum was called for a technical while Boston headed to a timeout, Murray made the free throw, and Pritchard missed a late three."
+      }
+    ],
+    "sources": [
+      {
+        "name": "Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/11/19/sports/celtics-nuggets-game-score/"
+      },
+      {
+        "name": "Sports Illustrated",
+        "url": "https://www.si.com/nba/celtics/onsi/tatum-vanishes-after-20-point-half-in-denver-6-things-the-box-score-won-t-tell-you-01m7s8vq74xq"
+      },
+      {
+        "name": "Denver Stiffs",
+        "url": "https://www.denverstiffs.com/recap-nuggets-storm-back-from-17-down-to-defeat-the-celtics-105-101/"
+      },
+      {
+        "name": "Celtics Wire (Yahoo Sports)",
+        "url": "https://sports.yahoo.com/articles/joe-mazzulla-shifts-blame-celtics-063957736.html"
+      },
+      {
+        "name": "ESPN",
+        "url": "https://www.espn.com/nba/game/_/gameId/401910015"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "Jayson Tatum",
+      "line": "24 PTS · 8 REB · 3 AST",
+      "note": "Scored 20 in the first half but only 4 after it, and his technical in the final seconds gave Denver a free throw."
+    },
+    {
+      "name": "Neemias Queta",
+      "line": "17 PTS · 10 REB · 7 OREB",
+      "note": "Double-double, with the putback that gave Boston a 101–100 lead with 1:06 left."
+    },
+    {
+      "name": "Paul George",
+      "line": "10 PTS · 3-12 FG · 1-7 3PT · 3 STL",
+      "note": "Struggled from the floor and fouled out with 6:14 to play."
+    }
+  ],
+  "oppLine": "Nikola Jokic had 24 points, 9 assists and 8 rebounds; Jamal Murray scored 21 with 7 rebounds and 4 steals, and DeMar DeRozan added 18 off the bench.",
+  "id": "2026-11-18-celtics-den",
+  "date": "2026-11-18"
+}

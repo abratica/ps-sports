@@ -1,0 +1,91 @@
+{
+  "teamKey": "bruins",
+  "sport": "NHL",
+  "headline": "Peterka, Zacha and Pastrnak lift Bruins past Detroit to end skid",
+  "home": false,
+  "boston": {
+    "abbr": "BOS",
+    "score": 4
+  },
+  "opp": {
+    "abbr": "DET",
+    "name": "Red Wings",
+    "score": 1,
+    "record": "8–11–3"
+  },
+  "result": "W",
+  "record": "14–7–1",
+  "takeaway": "Down 1–0 after one, Boston got goals from JJ Peterka and Pavel Zacha on the power play in the second and David Pastrnak's 10th in the third to beat Detroit 4–1, snapping a three-game skid. Jeremy Swayman made 20 saves.",
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3"
+    ],
+    "boston": [
+      0,
+      2,
+      2
+    ],
+    "opp": [
+      1,
+      0,
+      0
+    ],
+    "sections": [
+      {
+        "label": "1st period",
+        "score": "DET 1, BOS 0",
+        "text": "Boston carried much of the play, but Lucas Raymond finished a 2-on-1 with Andrew Copp at 16:58 after a Mason Lohrei pinch, and the Bruins trailed after the first for a fourth straight game."
+      },
+      {
+        "label": "2nd period",
+        "score": "BOS 2, DET 1",
+        "text": "JJ Peterka tied it at 2:49, his sixth, off a Lohrei stretch pass after Casey Mittelstadt won a board battle. Pavel Zacha put Boston ahead on the power play at 11:48, knocking in the rebound of a David Pastrnak shot, for the Bruins' first lead since Nov. 8."
+      },
+      {
+        "label": "3rd period",
+        "score": "Final: BOS 4, DET 1",
+        "text": "Pastrnak scored his 10th at 5:11 on an odd-man rush set up by Lohrei, and Mittelstadt hit the empty net with 55 seconds left."
+      }
+    ],
+    "sources": [
+      {
+        "name": "NHL.com",
+        "url": "https://www.nhl.com/news/boston-bruins-detroit-red-wings-game-recap-november-18-2026"
+      },
+      {
+        "name": "Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/11/18/sports/bruins-red-wings-nhl-hockey-detroit/"
+      },
+      {
+        "name": "Boston Hockey Now",
+        "url": "https://bostonhockeynow.com/2026-11-18-boston-bruins-detroit-red-wings-game-22-recap/"
+      },
+      {
+        "name": "ESPN",
+        "url": "https://www.espn.com/nhl/game/_/gameId/401892739"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "David Pastrnak",
+      "line": "1 G · 1 A",
+      "note": "Set up Zacha's power-play winner and scored his 10th goal for a two-goal cushion."
+    },
+    {
+      "name": "Mason Lohrei",
+      "line": "2 A",
+      "note": "Back from a healthy scratch, he had the primary assists on Peterka's and Pastrnak's goals, though his pinch led to Detroit's opener."
+    },
+    {
+      "name": "Jeremy Swayman",
+      "line": "20 SV · 21 SA · .952 SV%",
+      "note": "Stopped all seven high-danger chances for his 10th win of the season."
+    }
+  ],
+  "oppLine": "Lucas Raymond scored Detroit's only goal, from Andrew Copp; Daniil Tarasov made 27 saves.",
+  "id": "2026-11-18-bruins-det",
+  "date": "2026-11-18"
+}
