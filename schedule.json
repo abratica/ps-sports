@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "teams": {
   "celtics": {
    "season": "2026–27",
@@ -128,14 +128,15 @@
      "home": false,
      "opp": "Kings",
      "oppAbbr": "SAC",
-     "tv": "NBA TV"
+     "tv": "NBC Sports Boston · NBA TV"
     },
     {
      "date": "2026-11-22",
      "time": "8:30 PM",
      "home": false,
      "opp": "Warriors",
-     "oppAbbr": "GS"
+     "oppAbbr": "GS",
+     "tv": "NBC Sports Boston"
     },
     {
      "date": "2026-11-24",
@@ -143,14 +144,17 @@
      "home": false,
      "opp": "Wizards",
      "oppAbbr": "WSH",
-     "tv": "NBC"
+     "tv": "NBC",
+     "note": "NBA Cup"
     },
     {
      "date": "2026-11-27",
      "time": "8:00 PM",
      "home": true,
      "opp": "Hawks",
-     "oppAbbr": "ATL"
+     "oppAbbr": "ATL",
+     "tv": "NBC Sports Boston",
+     "note": "NBA Cup"
     },
     {
      "date": "2026-11-29",
@@ -158,21 +162,23 @@
      "home": false,
      "opp": "Spurs",
      "oppAbbr": "SA",
-     "tv": "NBA TV"
+     "tv": "NBC Sports Boston · NBA TV"
     },
     {
      "date": "2026-11-30",
      "time": "8:00 PM",
      "home": false,
      "opp": "Mavericks",
-     "oppAbbr": "DAL"
+     "oppAbbr": "DAL",
+     "tv": "NBC Sports Boston"
     },
     {
      "date": "2026-12-02",
      "time": "7:30 PM",
      "home": true,
      "opp": "Hornets",
-     "oppAbbr": "CHA"
+     "oppAbbr": "CHA",
+     "tv": "NBC Sports Boston"
     },
     {
      "date": "2026-12-13",
