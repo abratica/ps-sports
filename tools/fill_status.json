@@ -1,13 +1,4 @@
 {
-  "issue": "2026-11-19",
-  "games": {
-    "celtics": {
-      "box": "ok",
-      "video": "ok"
-    },
-    "bruins": {
-      "box": "ok",
-      "video": "ok"
-    }
-  }
+  "issue": "2026-11-20",
+  "games": {}
 }
