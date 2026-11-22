@@ -1,0 +1,103 @@
+{
+  "teamKey": "celtics",
+  "sport": "NBA",
+  "headline": "Murray's putback sinks shorthanded Celtics in Sacramento",
+  "home": false,
+  "boston": {
+    "abbr": "BOS",
+    "score": 96
+  },
+  "opp": {
+    "abbr": "SAC",
+    "name": "Kings",
+    "score": 97,
+    "record": "2–14"
+  },
+  "result": "L",
+  "record": "11–5",
+  "takeaway": "Without Jayson Tatum, Derrick White and Mitchell Robinson, Boston blew a 13-point halftime lead, and Keegan Murray's putback with five seconds left gave Sacramento a 97–96 win. The Celtics missed a franchise-record 45 threes and have lost three straight.",
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "boston": [
+      27,
+      27,
+      13,
+      29
+    ],
+    "opp": [
+      25,
+      16,
+      35,
+      21
+    ],
+    "sections": [
+      {
+        "label": "1st quarter",
+        "score": "BOS 27, SAC 25",
+        "text": "Boston opened the game on a 10–0 run before Sacramento worked its way back."
+      },
+      {
+        "label": "2nd quarter",
+        "score": "BOS 54, SAC 41",
+        "text": "The Celtics held the Kings to 16 points in the quarter and took a 13-point lead into halftime."
+      },
+      {
+        "label": "3rd quarter",
+        "score": "SAC 76, BOS 67",
+        "text": "Sacramento won the quarter 35–13 as Boston went 0-for-13 from three, turning a 13-point deficit into a nine-point lead."
+      },
+      {
+        "label": "4th quarter",
+        "score": "Final: SAC 97, BOS 96",
+        "text": "Boston came back, and Payton Pritchard's step-back put it ahead 96–95 with 11.8 seconds left. Darius Acuff Jr. drove and missed, but Murray grabbed the rebound and scored over three defenders with five seconds left, and Pritchard's 20-footer at the buzzer was off."
+      }
+    ],
+    "sources": [
+      {
+        "name": "AP (ESPN)",
+        "url": "https://www.espn.com/nba/recap?gameId=401910028"
+      },
+      {
+        "name": "Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/11/22/sports/nba-celtics-kings-game-score-mike-conley/"
+      },
+      {
+        "name": "Celtics On SI",
+        "url": "https://www.si.com/nba/celtics/onsi/celtics-miss-franchise-record-45-threes-in-loss-to-kings-what-the-box-score-won-t-tell-you-01m8129svk6h"
+      },
+      {
+        "name": "Fadeaway World (Yahoo Sports)",
+        "url": "https://sports.yahoo.com/articles/5-reasons-why-celtics-fell-074246766.html"
+      },
+      {
+        "name": "ESPN",
+        "url": "https://www.espn.com/nba/game/_/gameId/401910028"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "Mike Conley",
+      "line": "19 PTS · 6-7 FG · 4-4 3PT · 3 STL",
+      "note": "Kept Boston in it off the bench in 18 minutes, finishing +17."
+    },
+    {
+      "name": "Paul George",
+      "line": "19 PTS · 8 REB · 6-21 FG",
+      "note": "Led the starters in scoring but needed 21 shots to get there."
+    },
+    {
+      "name": "Payton Pritchard",
+      "line": "9 PTS · 4-17 FG · 0-8 3PT",
+      "note": "In his first start of the season, he hit the go-ahead step-back with 11.8 seconds left but missed the last shot."
+    }
+  ],
+  "oppLine": "Darius Acuff Jr. had 21 points, 8 assists and 6 rebounds; De'Andre Hunter scored 20, Domantas Sabonis had 15 points and 17 rebounds, and Keegan Murray added 15 points and 12 rebounds.",
+  "id": "2026-11-21-celtics-sac",
+  "date": "2026-11-21"
+}

@@ -1,0 +1,91 @@
+{
+  "teamKey": "bruins",
+  "sport": "NHL",
+  "headline": "Lindholm scores four as Bruins outlast Capitals",
+  "home": true,
+  "boston": {
+    "abbr": "BOS",
+    "score": 7
+  },
+  "opp": {
+    "abbr": "WSH",
+    "name": "Capitals",
+    "score": 5,
+    "record": "10–11–0"
+  },
+  "result": "W",
+  "record": "15–7–1",
+  "takeaway": "Elias Lindholm scored four goals, the last early in the third for a 6–4 lead, as Boston beat Washington 7–5 to end a three-game home losing streak. Jeremy Swayman made 30 saves, and the Bruins have won two straight.",
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3"
+    ],
+    "boston": [
+      1,
+      4,
+      2
+    ],
+    "opp": [
+      2,
+      2,
+      1
+    ],
+    "sections": [
+      {
+        "label": "1st period",
+        "score": "WSH 2, BOS 1",
+        "text": "Tom Wilson opened the scoring at 8:03, the fifth straight game Boston gave up the first goal. Lindholm tied it on the power play at 12:42, tipping a David Pastrnak pass, but Alex Tuch beat Swayman short-handed at 15:58."
+      },
+      {
+        "label": "2nd period",
+        "score": "BOS 5, WSH 4",
+        "text": "Pastrnak tied it 2–2 at 2:01, Tanner Jeannot tipped a Charlie McAvoy shot for a 3–2 lead at 6:23, and Lindholm made it 4–2 at 8:54. Pierre-Luc Dubois (power play) and Dylan Strome tied it 4–4 by 14:08, before Lindholm deflected Connor Clifton's shot at 18:24 for the hat trick."
+      },
+      {
+        "label": "3rd period",
+        "score": "Final: BOS 7, WSH 5",
+        "text": "Lindholm redirected a Pastrnak shot at 4:07 for a 6–4 lead, and the hats came down late because few fans had realized his third goal was his. Jakob Chychrun scored on a 5-on-3 at 15:28 to cut it to 6–5, and Fraser Minten hit the empty net at 18:34."
+      }
+    ],
+    "sources": [
+      {
+        "name": "NHL.com",
+        "url": "https://www.nhl.com/news/washington-capitals-boston-bruins-game-recap-november-21-2026"
+      },
+      {
+        "name": "Boston Hockey Now",
+        "url": "https://bostonhockeynow.com/2026-11-21-boston-bruins-washington-capitals-game-23-recap/"
+      },
+      {
+        "name": "Boston.com",
+        "url": "https://boston.com/sports/boston-bruins/2026/11/21/elias-lindholm-boston-bruins-nhl-hockey-hat-trick-celebration-nhl-hockey"
+      },
+      {
+        "name": "ESPN",
+        "url": "https://www.espn.com/nhl/game/_/gameId/401892758"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "Elias Lindholm",
+      "line": "4 G · 1 A",
+      "note": "First four-goal game of his career and first hat trick with Boston, including the game-winner in the third."
+    },
+    {
+      "name": "David Pastrnak",
+      "line": "1 G · 2 A",
+      "note": "Scored the tying goal early in the second and set up two of Lindholm's tips."
+    },
+    {
+      "name": "Charlie McAvoy",
+      "line": "3 A",
+      "note": "Passed 300 career assists, though his holding minor led to Washington's power-play goal in the second."
+    }
+  ],
+  "oppLine": "Tom Wilson, Alex Tuch (short-handed), Pierre-Luc Dubois, Dylan Strome and Jakob Chychrun scored for Washington, which has lost five straight; Charlie Lindgren made 16 saves.",
+  "id": "2026-11-21-bruins-wsh",
+  "date": "2026-11-21"
+}
