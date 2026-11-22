@@ -1,4 +1,19 @@
 {
-  "issue": "2026-11-21",
-  "games": {}
+  "issue": "2026-11-22",
+  "games": {
+    "bruins": {
+      "box": "not yet: shots don't match goalies: (23, 35) vs (35, 22)",
+      "video_notes": [
+        "feeds: found L5qXsHBjJEA"
+      ],
+      "video": "added L5qXsHBjJEA (Sportsnet)"
+    },
+    "celtics": {
+      "box": "added",
+      "video_notes": [
+        "feeds: found m04w-QZ48rQ"
+      ],
+      "video": "added m04w-QZ48rQ (NBA)"
+    }
+  }
 }

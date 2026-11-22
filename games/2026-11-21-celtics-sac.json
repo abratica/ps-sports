@@ -98,6 +98,446 @@
     }
   ],
   "oppLine": "Darius Acuff Jr. had 21 points, 8 assists and 6 rebounds; De'Andre Hunter scored 20, Domantas Sabonis had 15 points and 17 rebounds, and Keegan Murray added 15 points and 12 rebounds.",
+  "box": {
+    "source": {
+      "name": "ESPN",
+      "url": "https://www.espn.com/nba/boxscore/_/gameId/401910028"
+    },
+    "boston": {
+      "name": "Celtics",
+      "groups": [
+        {
+          "label": "",
+          "columns": [
+            "MIN",
+            "PTS",
+            "REB",
+            "AST",
+            "FG",
+            "3PT",
+            "FT",
+            "STL",
+            "BLK",
+            "TO",
+            "+/-"
+          ],
+          "rows": [
+            {
+              "name": "Paul George",
+              "values": [
+                37,
+                19,
+                8,
+                5,
+                "6-21",
+                "2-9",
+                "5-6",
+                4,
+                1,
+                3,
+                "+14"
+              ]
+            },
+            {
+              "name": "Sam Hauser",
+              "values": [
+                31,
+                14,
+                6,
+                2,
+                "5-13",
+                "4-11",
+                "0-0",
+                0,
+                0,
+                0,
+                "+1"
+              ]
+            },
+            {
+              "name": "Neemias Queta",
+              "values": [
+                30,
+                15,
+                7,
+                1,
+                "5-9",
+                "1-1",
+                "4-10",
+                0,
+                2,
+                2,
+                "+6"
+              ]
+            },
+            {
+              "name": "Payton Pritchard",
+              "values": [
+                34,
+                9,
+                6,
+                8,
+                "4-17",
+                "0-8",
+                "1-2",
+                0,
+                0,
+                0,
+                "-13"
+              ]
+            },
+            {
+              "name": "Hugo Gonzalez",
+              "values": [
+                17,
+                5,
+                4,
+                1,
+                "2-4",
+                "1-3",
+                "0-0",
+                0,
+                1,
+                0,
+                "+13"
+              ]
+            },
+            {
+              "name": "Mike Conley",
+              "values": [
+                18,
+                19,
+                4,
+                2,
+                "6-7",
+                "4-4",
+                "3-3",
+                3,
+                0,
+                1,
+                "+17"
+              ]
+            },
+            {
+              "name": "Baylor Scheierman",
+              "values": [
+                18,
+                4,
+                3,
+                1,
+                "2-11",
+                "0-8",
+                "0-0",
+                0,
+                0,
+                1,
+                "-17"
+              ]
+            },
+            {
+              "name": "Luka Garza",
+              "values": [
+                17,
+                5,
+                5,
+                1,
+                "2-6",
+                "0-4",
+                "1-2",
+                0,
+                0,
+                2,
+                "-5"
+              ]
+            },
+            {
+              "name": "Ron Harper Jr.",
+              "values": [
+                13,
+                3,
+                0,
+                1,
+                "1-4",
+                "1-4",
+                "0-0",
+                0,
+                0,
+                0,
+                "+2"
+              ]
+            },
+            {
+              "name": "Chris Cenac Jr.",
+              "values": [
+                12,
+                2,
+                3,
+                0,
+                "1-5",
+                "0-2",
+                "0-0",
+                1,
+                0,
+                1,
+                "-13"
+              ]
+            },
+            {
+              "name": "Jordan Walsh",
+              "values": [
+                8,
+                1,
+                4,
+                0,
+                "0-3",
+                "0-3",
+                "1-2",
+                0,
+                0,
+                0,
+                "-14"
+              ]
+            },
+            {
+              "name": "Devin Carter",
+              "values": [
+                4,
+                0,
+                2,
+                0,
+                "0-1",
+                "0-1",
+                "0-0",
+                0,
+                0,
+                1,
+                "+4"
+              ]
+            }
+          ],
+          "totals": [
+            "",
+            96,
+            52,
+            22,
+            "34-101",
+            "13-58",
+            "15-25",
+            8,
+            4,
+            11,
+            ""
+          ],
+          "starters": 5
+        }
+      ]
+    },
+    "opp": {
+      "name": "Kings",
+      "groups": [
+        {
+          "label": "",
+          "columns": [
+            "MIN",
+            "PTS",
+            "REB",
+            "AST",
+            "FG",
+            "3PT",
+            "FT",
+            "STL",
+            "BLK",
+            "TO",
+            "+/-"
+          ],
+          "rows": [
+            {
+              "name": "Domantas Sabonis",
+              "values": [
+                32,
+                15,
+                17,
+                4,
+                "5-10",
+                "0-1",
+                "5-5",
+                0,
+                1,
+                7,
+                "+2"
+              ]
+            },
+            {
+              "name": "De'Andre Hunter",
+              "values": [
+                41,
+                20,
+                6,
+                2,
+                "5-11",
+                "2-5",
+                "8-9",
+                0,
+                1,
+                1,
+                "+7"
+              ]
+            },
+            {
+              "name": "Keegan Murray",
+              "values": [
+                40,
+                15,
+                12,
+                0,
+                "7-14",
+                "0-5",
+                "1-2",
+                1,
+                0,
+                4,
+                "-15"
+              ]
+            },
+            {
+              "name": "Zach LaVine",
+              "values": [
+                30,
+                13,
+                3,
+                0,
+                "4-10",
+                "2-3",
+                "3-4",
+                1,
+                1,
+                3,
+                "+14"
+              ]
+            },
+            {
+              "name": "Darius Acuff Jr.",
+              "values": [
+                40,
+                21,
+                6,
+                8,
+                "7-23",
+                "2-7",
+                "5-7",
+                0,
+                0,
+                1,
+                "+16"
+              ]
+            },
+            {
+              "name": "Precious Achiuwa",
+              "values": [
+                22,
+                5,
+                7,
+                1,
+                "2-2",
+                "0-0",
+                "1-2",
+                0,
+                1,
+                1,
+                "-3"
+              ]
+            },
+            {
+              "name": "Emanuel Sharp",
+              "values": [
+                16,
+                3,
+                0,
+                0,
+                "1-6",
+                "1-5",
+                "0-0",
+                1,
+                0,
+                0,
+                "-11"
+              ]
+            },
+            {
+              "name": "Malik Monk",
+              "values": [
+                10,
+                3,
+                0,
+                1,
+                "0-0",
+                "0-0",
+                "3-3",
+                0,
+                1,
+                1,
+                "-14"
+              ]
+            },
+            {
+              "name": "Dylan Cardwell",
+              "values": [
+                6,
+                0,
+                1,
+                0,
+                "0-0",
+                "0-0",
+                "0-0",
+                0,
+                0,
+                0,
+                "+2"
+              ]
+            },
+            {
+              "name": "Leaky Black",
+              "values": [
+                4,
+                2,
+                0,
+                0,
+                "1-2",
+                "0-0",
+                "0-0",
+                1,
+                0,
+                0,
+                "+7"
+              ]
+            }
+          ],
+          "totals": [
+            "",
+            97,
+            52,
+            16,
+            "32-78",
+            "7-26",
+            "26-32",
+            4,
+            5,
+            18,
+            ""
+          ],
+          "starters": 5
+        }
+      ]
+    }
+  },
+  "videos": [
+    {
+      "id": "m04w-QZ48rQ",
+      "title": "Celtics at Kings: full game highlights",
+      "channel": "NBA",
+      "kind": "full"
+    }
+  ],
   "id": "2026-11-21-celtics-sac",
   "date": "2026-11-21"
 }
