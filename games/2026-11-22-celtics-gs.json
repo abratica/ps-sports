@@ -1,0 +1,111 @@
+{
+  "teamKey": "celtics",
+  "sport": "NBA",
+  "headline": "Tatum misses at the horn as Celtics' skid hits four",
+  "home": false,
+  "boston": {
+    "abbr": "BOS",
+    "score": 87
+  },
+  "opp": {
+    "abbr": "GS",
+    "name": "Warriors",
+    "score": 88,
+    "record": "9–8"
+  },
+  "result": "L",
+  "record": "11–6",
+  "takeaway": "Jayson Tatum missed a contested jumper over Draymond Green at the horn as Golden State held on 88–87, after Boston scored 12 points in the fourth. The Celtics have lost four straight for the first time since 2021.",
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "boston": [
+      20,
+      22,
+      33,
+      12
+    ],
+    "opp": [
+      27,
+      17,
+      25,
+      19
+    ],
+    "sections": [
+      {
+        "label": "1st quarter",
+        "score": "GS 27, BOS 20",
+        "text": "Tatum scored Boston's first eight points, but Draymond Green hit three threes in the quarter and Golden State led 12–8 midway through and by seven after one."
+      },
+      {
+        "label": "2nd quarter",
+        "score": "GS 44, BOS 42",
+        "text": "The Warriors led 34–26 with 7:41 left before Boston closed the half on a 16–10 run. Tatum's long three in the final seconds gave him 23 first-half points and moved him past Bill Russell into eighth on the Celtics' career scoring list."
+      },
+      {
+        "label": "3rd quarter",
+        "score": "BOS 75, GS 69",
+        "text": "Mike Conley started the second half and hit two threes for Boston's first lead, 48–44, at 10:25. The Celtics built a double-digit lead late in the quarter and took 75–69 into the fourth."
+      },
+      {
+        "label": "4th quarter",
+        "score": "Final: GS 88, BOS 87",
+        "text": "Gui Santos hit back-to-back threes and Yaxel Lendeborg two layups to put Golden State up 81–79. Derrick White's three and a basket made it 86–83 Boston with 4:21 left, but Brandin Podziemski answered with a jumper and a 23-footer for an 88–86 lead at 2:38, the Warriors' last points. Tatum made one of two free throws with 55.6 seconds left and missed a three at 29.6; after Hugo Gonzalez stole the ball from Green, Tatum's fadeaway over Green at the horn missed."
+      }
+    ],
+    "sources": [
+      {
+        "name": "AP (TSN)",
+        "url": "https://www.tsn.ca/nba/article/podziemski-helps-warriors-hold-off-celtics-to-snap-five-game-skid/"
+      },
+      {
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nba/breaking-news/article/jayson-tatum-misses-game-winner-in-loss-to-warriors-as-celtics-continue-on-worst-losing-skid-since-2021-054733536.html"
+      },
+      {
+        "name": "Field Level Media (Yardbarker)",
+        "url": "https://www.yardbarker.com/nba/articles/brandin_podziemskis_late_trey_lifts_warriors_past_celtics/s1_17045_44604513"
+      },
+      {
+        "name": "NBC Sports Bay Area",
+        "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/brandin-podziemski-observations-takeaways-celtics/1982338/"
+      },
+      {
+        "name": "NBC Sports Boston",
+        "url": "https://www.nbcsportsboston.com/nba/boston-celtics/warriors-live-updates-jayson-tatum/815226/"
+      },
+      {
+        "name": "SI",
+        "url": "https://www.si.com/nba/scoreboard/celtics-vs-warriors-11-22-2026-1738"
+      },
+      {
+        "name": "ESPN",
+        "url": "https://www.espn.com/nba/game/_/gameId/401910035"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "Jayson Tatum",
+      "line": "27 PTS · 10 REB · 6 AST · 8-20 FG",
+      "note": "Scored 23 in the first half, then went 0-for-7 from the field after the break and missed the last shot."
+    },
+    {
+      "name": "Derrick White",
+      "line": "14 PTS · 5 AST · 6-21 FG · 2-12 3PT",
+      "note": "His three and basket put Boston up 86–83 with 4:21 left, but he struggled to shoot all night."
+    },
+    {
+      "name": "Luka Garza",
+      "line": "10 PTS · 5 REB · 4-5 FG",
+      "note": "Gave Boston efficient minutes off the bench with Mitchell Robinson out sick."
+    }
+  ],
+  "oppLine": "Brandin Podziemski scored 18 with the go-ahead three at 2:38; Gui Santos and Charles Bassey added 13 apiece, and Bassey had 9 rebounds and 3 steals.",
+  "id": "2026-11-22-celtics-gs",
+  "date": "2026-11-22"
+}

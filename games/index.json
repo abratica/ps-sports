@@ -1,6 +1,20 @@
 {
   "games": [
     {
+      "id": "2026-11-22-celtics-gs",
+      "team": "celtics",
+      "date": "2026-11-22",
+      "home": false,
+      "opp": "Warriors",
+      "oppAbbr": "GS",
+      "bos": 87,
+      "oppScore": 88,
+      "result": "L",
+      "record": "11–6",
+      "headline": "Tatum misses at the horn as Celtics' skid hits four",
+      "ot": false
+    },
+    {
       "id": "2026-11-21-celtics-sac",
       "team": "celtics",
       "date": "2026-11-21",
