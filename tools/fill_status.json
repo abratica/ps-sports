@@ -2,11 +2,8 @@
   "issue": "2026-11-23",
   "games": {
     "celtics": {
-      "box": "added",
-      "video_notes": [
-        "feeds: found CheW6PwsdoU"
-      ],
-      "video": "added CheW6PwsdoU (NBA)"
+      "box": "ok",
+      "video": "ok"
     }
   }
 }
