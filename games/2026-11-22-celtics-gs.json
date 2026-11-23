@@ -106,6 +106,462 @@
     }
   ],
   "oppLine": "Brandin Podziemski scored 18 with the go-ahead three at 2:38; Gui Santos and Charles Bassey added 13 apiece, and Bassey had 9 rebounds and 3 steals.",
+  "box": {
+    "source": {
+      "name": "ESPN",
+      "url": "https://www.espn.com/nba/boxscore/_/gameId/401910035"
+    },
+    "boston": {
+      "name": "Celtics",
+      "groups": [
+        {
+          "label": "",
+          "columns": [
+            "MIN",
+            "PTS",
+            "REB",
+            "AST",
+            "FG",
+            "3PT",
+            "FT",
+            "STL",
+            "BLK",
+            "TO",
+            "+/-"
+          ],
+          "rows": [
+            {
+              "name": "Jayson Tatum",
+              "values": [
+                38,
+                27,
+                10,
+                6,
+                "8-20",
+                "4-11",
+                "7-8",
+                1,
+                0,
+                4,
+                "+11"
+              ]
+            },
+            {
+              "name": "Sam Hauser",
+              "values": [
+                22,
+                3,
+                1,
+                2,
+                "1-7",
+                "1-7",
+                "0-0",
+                0,
+                0,
+                0,
+                "+5"
+              ]
+            },
+            {
+              "name": "Neemias Queta",
+              "values": [
+                30,
+                6,
+                10,
+                4,
+                "3-4",
+                "0-0",
+                "0-0",
+                0,
+                0,
+                3,
+                "-1"
+              ]
+            },
+            {
+              "name": "Derrick White",
+              "values": [
+                32,
+                14,
+                3,
+                5,
+                "6-21",
+                "2-12",
+                "0-0",
+                1,
+                0,
+                1,
+                "+3"
+              ]
+            },
+            {
+              "name": "Hugo Gonzalez",
+              "values": [
+                22,
+                6,
+                2,
+                0,
+                "2-6",
+                "2-6",
+                "0-0",
+                1,
+                0,
+                1,
+                "-2"
+              ]
+            },
+            {
+              "name": "Payton Pritchard",
+              "values": [
+                28,
+                5,
+                1,
+                4,
+                "2-8",
+                "1-4",
+                "0-0",
+                3,
+                1,
+                3,
+                "-5"
+              ]
+            },
+            {
+              "name": "Luka Garza",
+              "values": [
+                17,
+                10,
+                5,
+                0,
+                "4-5",
+                "0-0",
+                "2-4",
+                0,
+                0,
+                1,
+                "-1"
+              ]
+            },
+            {
+              "name": "Mike Conley",
+              "values": [
+                16,
+                6,
+                2,
+                4,
+                "2-5",
+                "2-2",
+                "0-0",
+                1,
+                0,
+                0,
+                "+8"
+              ]
+            },
+            {
+              "name": "Baylor Scheierman",
+              "values": [
+                15,
+                3,
+                4,
+                1,
+                "1-2",
+                "1-2",
+                "0-0",
+                0,
+                0,
+                0,
+                "-6"
+              ]
+            },
+            {
+              "name": "Jordan Walsh",
+              "values": [
+                9,
+                2,
+                0,
+                0,
+                "1-1",
+                "0-0",
+                "0-0",
+                1,
+                0,
+                0,
+                "-9"
+              ]
+            },
+            {
+              "name": "Ron Harper Jr.",
+              "values": [
+                6,
+                5,
+                1,
+                0,
+                "2-3",
+                "1-2",
+                "0-0",
+                1,
+                0,
+                0,
+                "0"
+              ]
+            },
+            {
+              "name": "Chris Cenac Jr.",
+              "values": [
+                5,
+                0,
+                2,
+                0,
+                "0-1",
+                "0-1",
+                "0-0",
+                0,
+                0,
+                1,
+                "-8"
+              ]
+            }
+          ],
+          "totals": [
+            "",
+            87,
+            41,
+            26,
+            "32-83",
+            "14-47",
+            "9-12",
+            9,
+            1,
+            14,
+            ""
+          ],
+          "starters": 5
+        }
+      ]
+    },
+    "opp": {
+      "name": "Warriors",
+      "groups": [
+        {
+          "label": "",
+          "columns": [
+            "MIN",
+            "PTS",
+            "REB",
+            "AST",
+            "FG",
+            "3PT",
+            "FT",
+            "STL",
+            "BLK",
+            "TO",
+            "+/-"
+          ],
+          "rows": [
+            {
+              "name": "Draymond Green",
+              "values": [
+                27,
+                9,
+                6,
+                3,
+                "3-7",
+                "3-6",
+                "0-0",
+                0,
+                0,
+                3,
+                "-8"
+              ]
+            },
+            {
+              "name": "Yaxel Lendeborg",
+              "values": [
+                34,
+                12,
+                8,
+                3,
+                "5-13",
+                "1-4",
+                "1-2",
+                0,
+                0,
+                3,
+                "+7"
+              ]
+            },
+            {
+              "name": "Charles Bassey",
+              "values": [
+                26,
+                13,
+                9,
+                3,
+                "6-7",
+                "0-0",
+                "1-2",
+                3,
+                0,
+                1,
+                "0"
+              ]
+            },
+            {
+              "name": "De'Anthony Melton",
+              "values": [
+                27,
+                2,
+                3,
+                7,
+                "0-7",
+                "0-5",
+                "2-2",
+                2,
+                0,
+                2,
+                "-6"
+              ]
+            },
+            {
+              "name": "Brandin Podziemski",
+              "values": [
+                38,
+                18,
+                7,
+                2,
+                "5-14",
+                "4-10",
+                "4-4",
+                0,
+                0,
+                6,
+                "-5"
+              ]
+            },
+            {
+              "name": "Gui Santos",
+              "values": [
+                23,
+                13,
+                5,
+                3,
+                "5-8",
+                "3-5",
+                "0-0",
+                1,
+                0,
+                1,
+                "+12"
+              ]
+            },
+            {
+              "name": "Al Horford",
+              "values": [
+                18,
+                7,
+                3,
+                2,
+                "3-9",
+                "1-4",
+                "0-0",
+                0,
+                1,
+                0,
+                "+3"
+              ]
+            },
+            {
+              "name": "Will Richard",
+              "values": [
+                17,
+                3,
+                2,
+                2,
+                "1-7",
+                "1-5",
+                "0-0",
+                1,
+                0,
+                2,
+                "+5"
+              ]
+            },
+            {
+              "name": "Gary Payton II",
+              "values": [
+                13,
+                8,
+                1,
+                0,
+                "4-5",
+                "0-1",
+                "0-0",
+                1,
+                0,
+                1,
+                "-9"
+              ]
+            },
+            {
+              "name": "LJ Cryer",
+              "values": [
+                11,
+                3,
+                0,
+                2,
+                "1-3",
+                "1-3",
+                "0-0",
+                0,
+                0,
+                0,
+                "+6"
+              ]
+            },
+            {
+              "name": "Georges Niang",
+              "values": [
+                8,
+                0,
+                1,
+                0,
+                "0-3",
+                "0-2",
+                "0-0",
+                0,
+                0,
+                0,
+                "0"
+              ]
+            }
+          ],
+          "totals": [
+            "",
+            88,
+            45,
+            27,
+            "33-83",
+            "14-45",
+            "8-10",
+            8,
+            1,
+            19,
+            ""
+          ],
+          "starters": 5
+        }
+      ]
+    }
+  },
+  "videos": [
+    {
+      "id": "CheW6PwsdoU",
+      "title": "Celtics at Warriors: full game highlights",
+      "channel": "NBA",
+      "kind": "full"
+    }
+  ],
   "id": "2026-11-22-celtics-gs",
   "date": "2026-11-22"
 }
