@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-24",
  "teams": {
   "celtics": {
    "season": "2026–27",
@@ -144,7 +144,7 @@
      "home": false,
      "opp": "Wizards",
      "oppAbbr": "WSH",
-     "tv": "NBC",
+     "tv": "NBC · Peacock",
      "note": "NBA Cup"
     },
     {
@@ -185,14 +185,16 @@
      "time": "3:00 PM",
      "home": false,
      "opp": "Nets",
-     "oppAbbr": "BKN"
+     "oppAbbr": "BKN",
+     "tv": "NBC Sports Boston"
     },
     {
      "date": "2026-12-14",
      "time": "7:30 PM",
      "home": true,
      "opp": "Wizards",
-     "oppAbbr": "WSH"
+     "oppAbbr": "WSH",
+     "tv": "NBC Sports Boston"
     },
     {
      "date": "2026-12-16",
