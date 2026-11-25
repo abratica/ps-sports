@@ -1,4 +1,9 @@
 {
-  "issue": "2026-11-24",
-  "games": {}
+  "issue": "2026-11-25",
+  "games": {
+    "celtics": {
+      "box": "ok",
+      "video": "ok"
+    }
+  }
 }
