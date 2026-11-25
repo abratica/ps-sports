@@ -1,6 +1,20 @@
 {
   "games": [
     {
+      "id": "2026-11-24-celtics-wsh",
+      "team": "celtics",
+      "date": "2026-11-24",
+      "home": false,
+      "opp": "Wizards",
+      "oppAbbr": "WSH",
+      "bos": 131,
+      "oppScore": 116,
+      "result": "W",
+      "record": "12–6",
+      "headline": "Tatum's 41 snaps Celtics' four-game skid",
+      "ot": false
+    },
+    {
       "id": "2026-11-22-celtics-gs",
       "team": "celtics",
       "date": "2026-11-22",

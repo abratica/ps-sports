@@ -1,0 +1,2139 @@
+{
+  "date": "2026-11-25",
+  "headline": "Tatum's 41 snaps Celtics' four-game skid",
+  "ticker": [
+    "Celtics 131, Wizards 116",
+    "Bruins vs Jets 7:00"
+  ],
+  "today": [
+    {
+      "teamKey": "bruins",
+      "team": "Bruins",
+      "league": "nhl",
+      "record": "15–7–1",
+      "matchup": "vs Jets",
+      "oppRecord": "12–9–4",
+      "time": "7:00 PM",
+      "tv": "NESN",
+      "venue": "TD Garden"
+    }
+  ],
+  "off": [
+    {
+      "teamKey": "celtics",
+      "team": "Celtics",
+      "text": "Next: Fri, Nov 27 vs Hawks, 8:00 PM"
+    },
+    {
+      "teamKey": "patriots",
+      "team": "Patriots",
+      "text": "Next: Sun, Nov 29 at Chargers, 4:05 PM"
+    }
+  ],
+  "previews": {
+    "bruins": {
+      "date": "2026-11-25",
+      "storylines": [
+        "Winnipeg (12–9–4) has won three straight road games; Boston beat the Jets 4–3 in overtime on Oct. 2.",
+        "The Bruins come off three days between games, which Marco Sturm said he doesn't like: \"we play better when we play a lot of games in a short time.\"",
+        "James Hagens returned to practice Tuesday in a non-contact jersey but has no return date."
+      ],
+      "edge": "Boston on paper: it allows 2.65 goals a game, fourth in the NHL, to Winnipeg's 3.32, though the Jets' power play (23.3%) is ahead of Boston's (19.4%)."
+    },
+    "celtics": {
+      "date": "2026-11-27",
+      "storylines": [
+        "Boston (3–0 in NBA Cup play) hosts Atlanta (2–1), and the winner finishes atop East Group C.",
+        "Tatum is coming off 41 points, his most since his Achilles injury, and Paul George just reached 2,500 career threes.",
+        "Mitchell Robinson (illness) has missed three straight games."
+      ],
+      "edge": "Close on paper: Boston is 12–6 and Atlanta 11–6, with the Celtics at home."
+    },
+    "patriots": {
+      "date": "2026-11-29",
+      "storylines": [
+        "New England (5–5, eighth in the AFC) comes off its bye at 1–9 Los Angeles, in a game moved from Sunday night to 4:05 p.m. on CBS.",
+        "Tommy DeVito starts for the injured Drake Maye, and the Patriots are carrying only two healthy quarterbacks, with rookie Behren Morton the backup.",
+        "A.J. Brown (hamstring) is expected to miss multiple weeks, while Romeo Doubs and Alijah Vera-Tucker are eligible to return."
+      ],
+      "edge": "New England on paper against a 1–9 team, though it is without Maye and A.J. Brown and managed 151 yards in Munich."
+    }
+  },
+  "results": [
+    {
+      "teamKey": "celtics",
+      "sport": "NBA",
+      "headline": "Tatum's 41 snaps Celtics' four-game skid",
+      "home": false,
+      "boston": {
+        "abbr": "BOS",
+        "score": 131
+      },
+      "opp": {
+        "abbr": "WSH",
+        "name": "Wizards",
+        "score": 116,
+        "record": "7–12"
+      },
+      "result": "W",
+      "record": "12–6",
+      "takeaway": "Jayson Tatum scored 41, 28 in the first half, as Boston led 80–49 at the break and held off a Washington rally that got within 117–112. The win ends a four-game skid and keeps the Celtics 3–0 in NBA Cup play.",
+      "videos": [
+        {
+          "id": "KTqVQ0JHdwk",
+          "title": "Celtics at Wizards: full game highlights",
+          "channel": "NBA",
+          "kind": "full"
+        }
+      ],
+      "report": {
+        "periods": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "boston": [
+          34,
+          46,
+          24,
+          27
+        ],
+        "opp": [
+          28,
+          21,
+          40,
+          27
+        ],
+        "sections": [
+          {
+            "label": "1st quarter",
+            "score": "BOS 34, WSH 28",
+            "text": "Neemias Queta scored 13 points before Anthony Davis had any, and Tatum had 15 points and five assists in the quarter. Boston led 21–9 with 5:52 left and 34–28 after one."
+          },
+          {
+            "label": "2nd quarter",
+            "score": "BOS 80, WSH 49",
+            "text": "The Celtics opened the quarter on a 14–3 run, capped by Payton Pritchard's three for a 48–31 lead at 9:02. A later 11–0 run with three Tatum threes made it 70–38 with 2:19 left; Boston made 10 threes in a 46-point quarter, and Tatum had 28 at the half."
+          },
+          {
+            "label": "3rd quarter",
+            "score": "BOS 104, WSH 89",
+            "text": "Washington outscored Boston 40–24 and cut it to 94–81 on Bilal Coulibaly's dunk with 3:20 left. Paul George answered with a step-back three and Pritchard scored the next five for a 102–81 lead, before two Coulibaly threes and Trae Young free throws made it a 15-point game."
+          },
+          {
+            "label": "4th quarter",
+            "score": "Final: BOS 131, WSH 116",
+            "text": "Davis and AJ Dybantsa led a Wizards push, and Dybantsa's bank shot made it 117–112 with 3:19 left. Tatum's layup made it 119–112, then Baylor Scheierman, scoreless until then, scored Boston's next eight: a three at 2:31, two free throws and a 30-footer for 127–114 with 1:16 left."
+          }
+        ],
+        "sources": [
+          {
+            "name": "AP (ESPN)",
+            "url": "https://www.espn.com/nba/recap/_/gameId/401909315"
+          },
+          {
+            "name": "Celtics.com",
+            "url": "https://www.nba.com/celtics/news/gamerecap-keys-20261124-boswas"
+          },
+          {
+            "name": "Boston Herald",
+            "url": "https://www.bostonherald.com/2026/11/24/celtics-reserve-rescues-boston-late-in-slump-busting-win-over-wizards/"
+          },
+          {
+            "name": "ESPN",
+            "url": "https://www.espn.com/nba/game/_/gameId/401909315"
+          }
+        ]
+      },
+      "performers": [
+        {
+          "name": "Jayson Tatum",
+          "line": "41 PTS · 6 REB · 8 AST · 13-25 FG · 6-15 3PT",
+          "note": "His most points since returning from his Achilles injury, and his 31st career 40-point game; he set up Scheierman's late threes too."
+        },
+        {
+          "name": "Paul George",
+          "line": "28 PTS · 9 AST · 11-20 FG · 6-9 3PT",
+          "note": "Became the eighth player in NBA history to reach 2,500 career threes and was +34."
+        },
+        {
+          "name": "Neemias Queta",
+          "line": "21 PTS · 5 REB · 9-11 FG · 2 BLK",
+          "note": "A season high, including 13 points in the first quarter before Anthony Davis scored."
+        }
+      ],
+      "oppLine": "Anthony Davis had 33 points and 13 rebounds; Kyshawn George added 24, AJ Dybantsa 20 points, 11 rebounds and 7 assists, and Trae Young 17 points and 12 assists.",
+      "box": {
+        "source": {
+          "name": "ESPN",
+          "url": "https://www.espn.com/nba/boxscore/_/gameId/401909315"
+        },
+        "boston": {
+          "name": "Celtics",
+          "groups": [
+            {
+              "label": "",
+              "columns": [
+                "MIN",
+                "PTS",
+                "REB",
+                "AST",
+                "FG",
+                "3PT",
+                "FT",
+                "STL",
+                "BLK",
+                "TO",
+                "+/-"
+              ],
+              "starters": 5,
+              "rows": [
+                {
+                  "name": "Paul George",
+                  "values": [
+                    33,
+                    28,
+                    4,
+                    9,
+                    "11-20",
+                    "6-9",
+                    "0-0",
+                    1,
+                    0,
+                    1,
+                    "+34"
+                  ]
+                },
+                {
+                  "name": "Jayson Tatum",
+                  "values": [
+                    37,
+                    41,
+                    6,
+                    8,
+                    "13-25",
+                    "6-15",
+                    "9-14",
+                    1,
+                    2,
+                    3,
+                    "-2"
+                  ]
+                },
+                {
+                  "name": "Sam Hauser",
+                  "values": [
+                    22,
+                    4,
+                    3,
+                    1,
+                    "1-4",
+                    "1-3",
+                    "1-2",
+                    1,
+                    1,
+                    0,
+                    "+20"
+                  ]
+                },
+                {
+                  "name": "Neemias Queta",
+                  "values": [
+                    25,
+                    21,
+                    5,
+                    2,
+                    "9-11",
+                    "0-0",
+                    "3-3",
+                    1,
+                    2,
+                    2,
+                    "+14"
+                  ]
+                },
+                {
+                  "name": "Derrick White",
+                  "values": [
+                    30,
+                    6,
+                    7,
+                    5,
+                    "2-10",
+                    "2-6",
+                    "0-0",
+                    1,
+                    0,
+                    0,
+                    "+32"
+                  ]
+                },
+                {
+                  "name": "Payton Pritchard",
+                  "values": [
+                    28,
+                    14,
+                    4,
+                    2,
+                    "4-14",
+                    "4-11",
+                    "2-2",
+                    1,
+                    0,
+                    2,
+                    "-1"
+                  ]
+                },
+                {
+                  "name": "Baylor Scheierman",
+                  "values": [
+                    19,
+                    8,
+                    4,
+                    1,
+                    "2-7",
+                    "2-4",
+                    "2-2",
+                    0,
+                    0,
+                    1,
+                    "-5"
+                  ]
+                },
+                {
+                  "name": "Luka Garza",
+                  "values": [
+                    18,
+                    7,
+                    4,
+                    0,
+                    "3-3",
+                    "1-1",
+                    "0-0",
+                    1,
+                    0,
+                    1,
+                    "+4"
+                  ]
+                },
+                {
+                  "name": "Hugo Gonzalez",
+                  "values": [
+                    9,
+                    0,
+                    5,
+                    0,
+                    "0-1",
+                    "0-0",
+                    "0-0",
+                    0,
+                    1,
+                    0,
+                    "-8"
+                  ]
+                },
+                {
+                  "name": "Ron Harper Jr.",
+                  "values": [
+                    8,
+                    2,
+                    0,
+                    0,
+                    "1-3",
+                    "0-2",
+                    "0-2",
+                    0,
+                    0,
+                    0,
+                    "-5"
+                  ]
+                },
+                {
+                  "name": "Chris Cenac Jr.",
+                  "values": [
+                    6,
+                    0,
+                    2,
+                    1,
+                    "0-1",
+                    "0-0",
+                    "0-0",
+                    1,
+                    0,
+                    0,
+                    "-10"
+                  ]
+                },
+                {
+                  "name": "Jordan Walsh",
+                  "values": [
+                    5,
+                    0,
+                    2,
+                    1,
+                    "0-1",
+                    "0-0",
+                    "0-0",
+                    0,
+                    0,
+                    0,
+                    "+2"
+                  ]
+                }
+              ],
+              "totals": [
+                "",
+                131,
+                46,
+                30,
+                "46-100",
+                "22-51",
+                "17-25",
+                8,
+                6,
+                10,
+                ""
+              ]
+            }
+          ]
+        },
+        "opp": {
+          "name": "Wizards",
+          "groups": [
+            {
+              "label": "",
+              "columns": [
+                "MIN",
+                "PTS",
+                "REB",
+                "AST",
+                "FG",
+                "3PT",
+                "FT",
+                "STL",
+                "BLK",
+                "TO",
+                "+/-"
+              ],
+              "starters": 5,
+              "rows": [
+                {
+                  "name": "Anthony Davis",
+                  "values": [
+                    37,
+                    33,
+                    13,
+                    1,
+                    "12-21",
+                    "1-3",
+                    "8-10",
+                    2,
+                    1,
+                    2,
+                    "-13"
+                  ]
+                },
+                {
+                  "name": "AJ Dybantsa",
+                  "values": [
+                    41,
+                    20,
+                    11,
+                    7,
+                    "7-18",
+                    "2-6",
+                    "4-5",
+                    0,
+                    0,
+                    3,
+                    "-16"
+                  ]
+                },
+                {
+                  "name": "Kyshawn George",
+                  "values": [
+                    38,
+                    24,
+                    9,
+                    3,
+                    "9-20",
+                    "4-12",
+                    "2-2",
+                    1,
+                    0,
+                    1,
+                    "-11"
+                  ]
+                },
+                {
+                  "name": "Alex Sarr",
+                  "values": [
+                    24,
+                    7,
+                    2,
+                    0,
+                    "3-6",
+                    "1-3",
+                    "0-0",
+                    0,
+                    1,
+                    0,
+                    "-10"
+                  ]
+                },
+                {
+                  "name": "Trae Young",
+                  "values": [
+                    35,
+                    17,
+                    0,
+                    12,
+                    "4-9",
+                    "1-2",
+                    "8-9",
+                    2,
+                    0,
+                    1,
+                    "-2"
+                  ]
+                },
+                {
+                  "name": "Bilal Coulibaly",
+                  "values": [
+                    22,
+                    10,
+                    3,
+                    1,
+                    "4-7",
+                    "2-5",
+                    "0-0",
+                    0,
+                    0,
+                    1,
+                    "-5"
+                  ]
+                },
+                {
+                  "name": "Khris Middleton",
+                  "values": [
+                    18,
+                    0,
+                    5,
+                    0,
+                    "0-2",
+                    "0-1",
+                    "0-0",
+                    0,
+                    0,
+                    2,
+                    "-11"
+                  ]
+                },
+                {
+                  "name": "Tre Johnson",
+                  "values": [
+                    8,
+                    0,
+                    1,
+                    0,
+                    "0-3",
+                    "0-2",
+                    "0-0",
+                    0,
+                    0,
+                    2,
+                    "-15"
+                  ]
+                },
+                {
+                  "name": "Bub Carrington",
+                  "values": [
+                    7,
+                    0,
+                    2,
+                    0,
+                    "0-1",
+                    "0-1",
+                    "0-0",
+                    0,
+                    1,
+                    0,
+                    "+7"
+                  ]
+                },
+                {
+                  "name": "Deandre Ayton",
+                  "values": [
+                    5,
+                    0,
+                    2,
+                    0,
+                    "0-1",
+                    "0-0",
+                    "0-0",
+                    0,
+                    0,
+                    1,
+                    "+4"
+                  ]
+                },
+                {
+                  "name": "Will Riley",
+                  "values": [
+                    5,
+                    5,
+                    0,
+                    0,
+                    "2-4",
+                    "1-1",
+                    "0-0",
+                    0,
+                    0,
+                    0,
+                    "-3"
+                  ]
+                },
+                {
+                  "name": "Tre Mann",
+                  "values": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    "0-0",
+                    "0-0",
+                    "0-0",
+                    0,
+                    0,
+                    0,
+                    "0"
+                  ]
+                }
+              ],
+              "totals": [
+                "",
+                116,
+                48,
+                25,
+                "41-92",
+                "12-36",
+                "22-26",
+                5,
+                3,
+                13,
+                ""
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "teamNews": {
+    "celtics": [
+      {
+        "headline": "Skid over; Cup group decided Friday",
+        "summary": "The win ended Boston's four-game losing streak and kept the Celtics unbeaten in NBA Cup play at 3–0. They host Atlanta (2–1) on Friday, with the winner finishing atop the group.",
+        "source": "AP (ESPN)",
+        "url": "https://www.espn.com/nba/recap/_/gameId/401909315",
+        "dateLabel": "Nov 24"
+      },
+      {
+        "headline": "George reaches 2,500 career threes",
+        "summary": "Paul George became the eighth player in NBA history to make 2,500 3-pointers, on a 6-of-9 night from deep with 28 points and nine assists. Neemias Queta added a season-high 21 on 9-of-11 shooting.",
+        "source": "Celtics.com",
+        "url": "https://www.nba.com/celtics/news/gamerecap-keys-20261124-boswas",
+        "dateLabel": "Nov 24"
+      },
+      {
+        "headline": "Tatum's biggest night since the Achilles",
+        "summary": "Jayson Tatum's 41 points were his most since 46 against Cleveland on Feb. 28, 2025, and his 31st career 40-point game. \"We had a tough last week, for various reasons,\" he said. \"We can't change what happened; we can only focus on today.\"",
+        "source": "Fadeaway World (Yahoo Sports)",
+        "url": "https://sports.yahoo.com/nba/articles/jayson-tatum-reflects-difficult-week-054038948.html",
+        "dateLabel": "Nov 25"
+      },
+      {
+        "headline": "Mazzulla ties Phil Jackson to 250 wins",
+        "summary": "Joe Mazzulla reached 250 wins in his 346th game, tying Phil Jackson as the second-fastest coach to get there. Only Steve Kerr (302 games) did it faster.",
+        "source": "Celtics.com",
+        "url": "https://www.nba.com/celtics/news/gamerecap-keys-20261124-boswas",
+        "dateLabel": "Nov 24"
+      },
+      {
+        "headline": "Robinson misses a third straight game",
+        "summary": "Mitchell Robinson (illness) was out again Tuesday at Washington, his third straight missed game. Dillon Mitchell and Amari Williams were assigned to the G League.",
+        "source": "BasketNews",
+        "url": "https://basketnews.com/news-260123-latest-celtics-injury-report-whos-not-playing-vs-wizards-on-tuesday.html",
+        "dateLabel": "Nov 24"
+      },
+      {
+        "headline": "Scheierman's late eight",
+        "summary": "Baylor Scheierman, scoreless for the first 45 and a half minutes, scored eight straight Celtics points in 1:15 after Washington cut a 34-point lead to seven. Boston was playing its third game in four nights.",
+        "source": "Celtics.com",
+        "url": "https://www.nba.com/celtics/news/gamerecap-keys-20261124-boswas",
+        "dateLabel": "Nov 24"
+      },
+      {
+        "headline": "Dybantsa's first game against his hometown team",
+        "summary": "Brockton native AJ Dybantsa had 20 points, 11 rebounds and seven assists in his first career game against the Celtics.",
+        "source": "Celtics.com",
+        "url": "https://www.nba.com/celtics/news/gamerecap-keys-20261124-boswas",
+        "dateLabel": "Nov 24"
+      },
+      {
+        "headline": "Tatum passes Bill Russell",
+        "summary": "Jayson Tatum's 27 points against the Warriors moved him to 14,528 career points, past Bill Russell (14,522) for eighth on the Celtics' all-time scoring list. Sam Jones is seventh at 15,411.",
+        "source": "NESN (Yahoo Sports)",
+        "url": "https://sports.yahoo.com/articles/jayson-tatum-passes-bill-russell-043520005.html",
+        "dateLabel": "Nov 22"
+      },
+      {
+        "headline": "Mazzulla on Conley: 'he gave us a chance to win'",
+        "summary": "Mike Conley scored 19 off the bench, going 4-for-4 from three. \"Tonight's the reason why you have a guy like that on your roster,\" Joe Mazzulla said.",
+        "source": "Celtics.com",
+        "url": "https://www.nba.com/celtics/news/game-recap-keys-20261122-bossac",
+        "dateLabel": "Nov 22"
+      }
+    ],
+    "bruins": [
+      {
+        "headline": "Hagens back at practice",
+        "summary": "James Hagens, out since a cross-check against Pittsburgh on Nov. 5, practiced Tuesday in a non-contact jersey. \"This is the next block,\" Marco Sturm said; neither he nor Hagens gave a return date. Hagens has 12 points in 17 games.",
+        "source": "NHL.com",
+        "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-24-2026",
+        "dateLabel": "Nov 24"
+      },
+      {
+        "headline": "NESN's Garden Party returns Thanksgiving Eve",
+        "summary": "NESN's Garden Party broadcast for Wednesday's game against Winnipeg starts at 6 p.m., with Andrew Raycroft joining Judd Sirott and Andy Brickley in the booth.",
+        "source": "NESN (Yahoo Sports)",
+        "url": "https://sports.yahoo.com/articles/nesns-garden-party-returns-thanksgiving-172507008.html",
+        "dateLabel": "Nov 18"
+      },
+      {
+        "headline": "Tuesday's practice lines",
+        "summary": "Geekie–Lindholm–Pastrnak, Mittelstadt–Zacha–Peterka, Khusnutdinov–Minten–Poitras and Jeannot–Kuraly–Kastelic, with Mikey Eyssimont extra. The pairs were Lindholm–McAvoy, Zadorov–Borgen and Lohrei–Clifton.",
+        "source": "Boston Hockey Now",
+        "url": "https://bostonhockeynow.com/2026-11-24-bruins-practice-james-hagens-returns-skates-non-contact/",
+        "dateLabel": "Nov 24"
+      },
+      {
+        "headline": "Sturm doesn't like the long breaks",
+        "summary": "Boston had three days off before Winnipeg, its third such gap. \"I do believe, overall, us as a team, we play better when we play a lot of games in a short time,\" Sturm said.",
+        "source": "Boston Hockey Now",
+        "url": "https://bostonhockeynow.com/2026-11-24-bruins-practice-james-hagens-returns-skates-non-contact/",
+        "dateLabel": "Nov 24"
+      },
+      {
+        "headline": "Homestand ends against three Canadian teams",
+        "summary": "Boston closes its six-game homestand against Winnipeg on Wednesday, Toronto on Friday at 1 p.m. and Vancouver on Sunday at 5 p.m. The Bruins beat the Jets 4–3 in overtime on Oct. 2.",
+        "source": "Bruins On SI (Yahoo Sports)",
+        "url": "https://sports.yahoo.com/articles/bruins-host-three-canadian-teams-172219962.html",
+        "dateLabel": "Nov 23"
+      },
+      {
+        "headline": "Clifton settling in on the third pair",
+        "summary": "Connor Clifton has played four straight games, staying on the third pair with Mason Lohrei, with one assist, eight shots, six blocks and 13 hits in about 16 minutes a night. The Bruins had a full-team practice Sunday; Marco Sturm said, \"We didn't do any video today; we just had a good skate.\"",
+        "source": "BostonBruins.com",
+        "url": "https://www.nhl.com/bruins/news/practice-report-clifton-gains-confidence-consistency-in-recent-play",
+        "dateLabel": "Nov 22"
+      },
+      {
+        "headline": "McAvoy's Thanksgiving: 20 family members and pies",
+        "summary": "Charlie McAvoy and his wife are hosting 20 family members for Thanksgiving and will deliver pies to St. Francis House and Pine Street Inn. In the same feature, Sturm said he was \"almost in shock\" when Don Sweeney called to offer him the job.",
+        "source": "BostonBruins.com",
+        "url": "https://www.nhl.com/bruins/news/the-sunday-read-broken-arms-job-rejections-and-lamb-chops-the-bruins-are-thankful-for-it-all",
+        "dateLabel": "Nov 22"
+      },
+      {
+        "headline": "Lindholm's first four-goal game",
+        "summary": "Elias Lindholm scored four times against Washington, his first four-goal game and first hat trick as a Bruin. He is tied with David Pastrnak for the team lead with 11 goals.",
+        "source": "Boston.com",
+        "url": "https://boston.com/sports/boston-bruins/2026/11/21/elias-lindholm-boston-bruins-nhl-hockey-hat-trick-celebration-nhl-hockey",
+        "dateLabel": "Nov 21"
+      },
+      {
+        "headline": "McAvoy passes 300 career assists",
+        "summary": "Charlie McAvoy had three assists against Washington, bringing him to 301 for his career. Jeremy Swayman made 30 saves and picked up an assist.",
+        "source": "ESPN",
+        "url": "https://www.espn.com/nhl/story/_/id/50558265/elias-lindholm-four-goal-game-powers-bruins-capitals",
+        "dateLabel": "Nov 21"
+      },
+      {
+        "headline": "Swayman third in NHL.com's quarter-season goalie vote",
+        "summary": "Jeremy Swayman finished third in NHL.com's staff vote with 35 points, behind Wallstedt (60) and Kochetkov (58). He is 10–5–1 with a 2.50 goals-against average, a .908 save percentage and one shutout.",
+        "source": "HEAVY (Yahoo Sports)",
+        "url": "https://sports.yahoo.com/articles/bruins-jeremy-swayman-gets-special-222323456.html",
+        "dateLabel": "Nov 20"
+      }
+    ],
+    "patriots": [
+      {
+        "headline": "Maye out at least six weeks",
+        "summary": "NFL Network's Ian Rapoport reported Sunday that Drake Maye is out at least six weeks with his fractured right fibula. A return this season has not been ruled out.",
+        "source": "HEAVY",
+        "url": "https://heavy.com/sports/nfl/new-england-patriots/patriots-drake-maye-at-least-injury-timeline/",
+        "dateLabel": "Nov 22"
+      },
+      {
+        "headline": "Patriots not adding a quarterback",
+        "summary": "No team claimed Daniel Jones, and Mike Vrabel said adding a quarterback isn't \"something that's going to happen here in the next few days.\" New England has two healthy QBs and none on the practice squad, and wants the reps to develop rookie Behren Morton.",
+        "source": "NFL.com (The Athletic)",
+        "url": "https://www.nfl.com/news/why-the-patriots-aren-t-pursuing-daniel-jones-tommy-devito-s-our-starter",
+        "dateLabel": "Nov 24"
+      },
+      {
+        "headline": "Vera-Tucker could return",
+        "summary": "Alijah Vera-Tucker may be designated to return from injured reserve; \"I think AVT has a chance to be out there,\" Vrabel said. Romeo Doubs could return later in the week.",
+        "source": "NBC Boston",
+        "url": "https://www.nbcboston.com/news/local/patriots-celtics-bruins-red-sox-nfl-nba-all-access/4053751/",
+        "dateLabel": "Nov 23"
+      },
+      {
+        "headline": "Vrabel: 'Tommy's our starter'",
+        "summary": "Asked about Jones, Mike Vrabel said \"Tommy's our starter.\" Tommy DeVito went 12-of-24 for 81 yards with a touchdown and an interception in relief in Munich and is 3–5 in eight career starts.",
+        "source": "Bleacher Report",
+        "url": "https://bleacherreport.com/articles/25536827-patriots-hc-vrabel-addresses-daniel-jones-jimmy-garoppolo-rumors-after-drake-mayes-injury",
+        "dateLabel": "Nov 23"
+      },
+      {
+        "headline": "No fine for Hutchinson's hit on Maye",
+        "summary": "The NFL did not fine Detroit's Aidan Hutchinson for the sack that injured Maye. \"I don't think it was anything intentional,\" Vrabel said.",
+        "source": "HEAVY (Yahoo Sports)",
+        "url": "https://sports.yahoo.com/articles/patriots-nfl-verdict-hit-injured-013245954.html",
+        "dateLabel": "Nov 22"
+      },
+      {
+        "headline": "DeVito to start; Morton the backup",
+        "summary": "Tommy DeVito is set to start at the Chargers, with rookie Behren Morton as the No. 2 quarterback. DeVito went 12-of-24 for 81 yards, a touchdown and an interception in relief against Detroit.",
+        "source": "ESPN",
+        "url": "https://www.espn.com/nfl/story/_/id/50542578/patriots-qb-drake-maye-fractured-fibula-sources-say",
+        "dateLabel": "Nov 20"
+      },
+      {
+        "headline": "A.J. Brown expected to miss multiple weeks",
+        "summary": "A.J. Brown's hamstring injury from the Lions game is expected to sideline him multiple weeks, his third missed stretch this season after a high ankle sprain and a knee flare-up. He has 11 catches for 128 yards in four games.",
+        "source": "ESPN",
+        "url": "https://www.espn.com/nfl/story/_/id/50542578/patriots-qb-drake-maye-fractured-fibula-sources-say",
+        "dateLabel": "Nov 20"
+      },
+      {
+        "headline": "Doubs eligible to return after the bye",
+        "summary": "Patriots.com's bye-week review notes Romeo Doubs (shoulder) becomes eligible to come off injured reserve. TreVeyon Henderson (illness) and guards Alijah Vera-Tucker and Mike Onwenu are also on IR; the line has used six different combinations.",
+        "source": "Patriots.com",
+        "url": "https://www.patriots.com/news/state-of-the-patriots-at-the-bye-a-position-by-position-review-after-the-first-10-games-of-the-season",
+        "dateLabel": "Nov 19"
+      },
+      {
+        "headline": "Cassel's advice for DeVito",
+        "summary": "Matt Cassel, who went 11–5 after replacing an injured Tom Brady in 2008, told Tommy DeVito to trust offensive coordinator Josh McDaniels: \"Josh will put you in a great position to be successful.\"",
+        "source": "Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/11/19/sports/matt-cassel-tommy-devito-patriots/",
+        "dateLabel": "Nov 19"
+      },
+      {
+        "headline": "Chargers game flexed out of Sunday night",
+        "summary": "The NFL moved Patriots at Chargers on Nov. 29 from Sunday Night Football to 4:05 p.m. on CBS; Raiders at Browns takes the 8:20 p.m. slot. New England's Dec. 10 Thursday game against Minnesota and its Dec. 21 Monday game against Kansas City stay in prime time.",
+        "source": "Boston.com",
+        "url": "https://www.boston.com/sports/new-england-patriots/2026/11/17/patriots-chargers-game-flexed-out-of-sunday-night-football/",
+        "dateLabel": "Nov 17"
+      }
+    ],
+    "redsox": [
+      {
+        "headline": "Duran and Casas tendered",
+        "summary": "Boston tendered all of its remaining arbitration-eligible players at the Nov. 20 deadline, including Jarren Duran (projected $11.1 million) and Triston Casas (projected $1.7 million). None has agreed to terms yet.",
+        "source": "MassLive (Yahoo Sports)",
+        "url": "https://sports.yahoo.com/articles/red-sox-keep-duran-casas-235423358.html",
+        "dateLabel": "Nov 20"
+      },
+      {
+        "headline": "Connor Wong non-tendered",
+        "summary": "Catcher Connor Wong, designated for assignment after the Nick Fortes trade, was non-tendered and became a free agent.",
+        "source": "MLB Trade Rumors",
+        "url": "https://www.mlbtraderumors.com/2026/11/2026-non-tenders-american-league.html",
+        "dateLabel": "Nov 20"
+      },
+      {
+        "headline": "Oviedo traded to Arizona",
+        "summary": "Boston traded right-hander Johan Oviedo to the Diamondbacks for minor league lefty Luke Dotson, 22, and a player to be named later or cash. Oviedo pitched once for Boston, on March 30, before going on the injured list with a right elbow strain.",
+        "source": "NESN (Yahoo Sports)",
+        "url": "https://sports.yahoo.com/articles/red-sox-surprising-pitching-trade-135855195.html",
+        "dateLabel": "Nov 22"
+      },
+      {
+        "headline": "Gil signs with Detroit",
+        "summary": "Luis Gil signed a one-year, $2.3 million deal with the Tigers, per ESPN's Jeff Passan. Boston had interest, per the Globe, but never made an offer, per MassLive.",
+        "source": "Heavy (Yahoo Sports)",
+        "url": "https://sports.yahoo.com/articles/red-sox-lose-former-al-012527094.html",
+        "dateLabel": "Nov 23"
+      },
+      {
+        "headline": "Four bench players avoid arbitration",
+        "summary": "Gonzalez, Monasterio, White and Jones signed one-year deals on deadline day.",
+        "source": "MassLive (Yahoo Sports)",
+        "url": "https://sports.yahoo.com/articles/red-sox-lock-four-bench-190841544.html",
+        "dateLabel": "Nov 20"
+      },
+      {
+        "headline": "Gray: a Red Sox reunion 'never really came up'",
+        "summary": "Sonny Gray, who signed with Minnesota, said talks with Boston \"never really got close\" but that \"Boston was great… I loved it there, man. I truly did.\"",
+        "source": "MassLive (Yahoo Sports)",
+        "url": "https://sports.yahoo.com/articles/sonny-gray-says-red-sox-182708910.html",
+        "dateLabel": "Nov 19"
+      },
+      {
+        "headline": "Fortes to back up Rutschman",
+        "summary": "Nick Fortes, acquired from Tampa Bay for 17-year-old right-hander Angel Roa, hit .258 with 6 homers and 35 RBIs in 109 games in 2026. Craig Breslow called him a \"really strong defender who has a great reputation in working with a pitching staff.\" Connor Wong was designated for assignment to make room.",
+        "source": "MLB.com",
+        "url": "https://www.mlb.com/news/nick-fortes-red-sox-rays-trade",
+        "dateLabel": "Nov 18"
+      },
+      {
+        "headline": "Breslow: 'I think we have a good lineup'",
+        "summary": "With Jake Bauers signed for four years and $58 million, Craig Breslow said, \"I think we have a good lineup,\" and that it's hard to envision something else significant on the horizon. Bauers had a .389 on-base percentage in 2026, third in the majors.",
+        "source": "Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/11/18/sports/red-sox-lineup-jake-bauers-signing/",
+        "dateLabel": "Nov 18"
+      },
+      {
+        "headline": "Red Sox agree to four years with Jake Bauers",
+        "summary": "Boston agreed to a four-year, $58 million deal with Jake Bauers, the NLCS MVP for the champion Brewers. He hit .266 with 26 homers and 86 RBIs in 2026, mostly at first base. Because he turned down a qualifying offer, the Red Sox give up two draft picks and $1 million in international bonus pool money.",
+        "source": "Boston Globe (Boston.com)",
+        "url": "https://www.boston.com/sports/boston-red-sox/2026/11/13/jake-bauers-news-red-sox-deal-brewers-world-series/",
+        "dateLabel": "Nov 13"
+      },
+      {
+        "headline": "Breslow promoted to president of baseball operations",
+        "summary": "The Red Sox gave Craig Breslow, entering his fourth season running the club, the title of president of baseball operations, last held by Dave Dombrowski. Breslow said it doesn't change his approach.",
+        "source": "BoSox Injection",
+        "url": "https://bosoxinjection.com/red-sox-news-craig-breslow-promotion-former-pitcher-retires-scott-boras-comments",
+        "dateLabel": "Nov 13"
+      }
+    ]
+  },
+  "standingsAll": {
+    "nba": {
+      "league": "nba",
+      "cols": [
+        "W–L",
+        "GB"
+      ],
+      "confLabel": {
+        "East": "Eastern Conference",
+        "West": "Western Conference"
+      },
+      "conferences": [
+        {
+          "name": "East",
+          "divisions": [
+            {
+              "name": "Atlantic",
+              "rows": [
+                {
+                  "team": "76ers",
+                  "rec": "14–4",
+                  "gb": "—"
+                },
+                {
+                  "team": "Celtics",
+                  "rec": "12–6",
+                  "gb": "2",
+                  "boston": true
+                },
+                {
+                  "team": "Knicks",
+                  "rec": "11–6",
+                  "gb": "2.5"
+                },
+                {
+                  "team": "Raptors",
+                  "rec": "6–11",
+                  "gb": "7.5"
+                },
+                {
+                  "team": "Nets",
+                  "rec": "3–13",
+                  "gb": "10"
+                }
+              ]
+            },
+            {
+              "name": "Central",
+              "rows": [
+                {
+                  "team": "Pistons",
+                  "rec": "11–6",
+                  "gb": "—"
+                },
+                {
+                  "team": "Cavaliers",
+                  "rec": "9–9",
+                  "gb": "2.5"
+                },
+                {
+                  "team": "Pacers",
+                  "rec": "6–12",
+                  "gb": "5.5"
+                },
+                {
+                  "team": "Bulls",
+                  "rec": "5–12",
+                  "gb": "6"
+                },
+                {
+                  "team": "Bucks",
+                  "rec": "2–16",
+                  "gb": "9.5"
+                }
+              ]
+            },
+            {
+              "name": "Southeast",
+              "rows": [
+                {
+                  "team": "Hawks",
+                  "rec": "11–6",
+                  "gb": "—"
+                },
+                {
+                  "team": "Heat",
+                  "rec": "10–6",
+                  "gb": "0.5"
+                },
+                {
+                  "team": "Magic",
+                  "rec": "7–10",
+                  "gb": "4"
+                },
+                {
+                  "team": "Wizards",
+                  "rec": "7–12",
+                  "gb": "5"
+                },
+                {
+                  "team": "Hornets",
+                  "rec": "4–12",
+                  "gb": "6.5"
+                }
+              ]
+            }
+          ],
+          "ranked": [
+            {
+              "team": "76ers",
+              "rec": "14–4",
+              "gb": "—",
+              "rank": 1
+            },
+            {
+              "team": "Celtics",
+              "rec": "12–6",
+              "gb": "2",
+              "rank": 2,
+              "boston": true
+            },
+            {
+              "team": "Hawks",
+              "rec": "11–6",
+              "gb": "2.5",
+              "rank": 3
+            },
+            {
+              "team": "Pistons",
+              "rec": "11–6",
+              "gb": "2.5",
+              "rank": 4
+            },
+            {
+              "team": "Knicks",
+              "rec": "11–6",
+              "gb": "2.5",
+              "rank": 5
+            },
+            {
+              "team": "Heat",
+              "rec": "10–6",
+              "gb": "3",
+              "rank": 6
+            },
+            {
+              "team": "Cavaliers",
+              "rec": "9–9",
+              "gb": "5",
+              "rank": 7
+            },
+            {
+              "team": "Magic",
+              "rec": "7–10",
+              "gb": "6.5",
+              "rank": 8
+            },
+            {
+              "team": "Wizards",
+              "rec": "7–12",
+              "gb": "7.5",
+              "rank": 9
+            },
+            {
+              "team": "Raptors",
+              "rec": "6–11",
+              "gb": "7.5",
+              "rank": 10
+            },
+            {
+              "team": "Pacers",
+              "rec": "6–12",
+              "gb": "8",
+              "rank": 11
+            },
+            {
+              "team": "Bulls",
+              "rec": "5–12",
+              "gb": "8.5",
+              "rank": 12
+            },
+            {
+              "team": "Hornets",
+              "rec": "4–12",
+              "gb": "9",
+              "rank": 13
+            },
+            {
+              "team": "Nets",
+              "rec": "3–13",
+              "gb": "10",
+              "rank": 14
+            },
+            {
+              "team": "Bucks",
+              "rec": "2–16",
+              "gb": "12",
+              "rank": 15
+            }
+          ]
+        },
+        {
+          "name": "West",
+          "divisions": [
+            {
+              "name": "Northwest",
+              "rows": [
+                {
+                  "team": "Timberwolves",
+                  "rec": "13–5",
+                  "gb": "—"
+                },
+                {
+                  "team": "Trail Blazers",
+                  "rec": "11–6",
+                  "gb": "1.5"
+                },
+                {
+                  "team": "Nuggets",
+                  "rec": "10–6",
+                  "gb": "2"
+                },
+                {
+                  "team": "Thunder",
+                  "rec": "10–8",
+                  "gb": "3"
+                },
+                {
+                  "team": "Jazz",
+                  "rec": "3–16",
+                  "gb": "10.5"
+                }
+              ]
+            },
+            {
+              "name": "Pacific",
+              "rows": [
+                {
+                  "team": "Lakers",
+                  "rec": "15–3",
+                  "gb": "—"
+                },
+                {
+                  "team": "Suns",
+                  "rec": "9–7",
+                  "gb": "5"
+                },
+                {
+                  "team": "Warriors",
+                  "rec": "9–8",
+                  "gb": "5.5"
+                },
+                {
+                  "team": "Clippers",
+                  "rec": "4–12",
+                  "gb": "10"
+                },
+                {
+                  "team": "Kings",
+                  "rec": "2–15",
+                  "gb": "12.5"
+                }
+              ]
+            },
+            {
+              "name": "Southwest",
+              "rows": [
+                {
+                  "team": "Spurs",
+                  "rec": "15–3",
+                  "gb": "—"
+                },
+                {
+                  "team": "Rockets",
+                  "rec": "13–5",
+                  "gb": "2"
+                },
+                {
+                  "team": "Grizzlies",
+                  "rec": "13–5",
+                  "gb": "2"
+                },
+                {
+                  "team": "Mavericks",
+                  "rec": "11–7",
+                  "gb": "4"
+                },
+                {
+                  "team": "Pelicans",
+                  "rec": "5–14",
+                  "gb": "10.5"
+                }
+              ]
+            }
+          ],
+          "ranked": [
+            {
+              "team": "Spurs",
+              "rec": "15–3",
+              "gb": "—",
+              "rank": 1
+            },
+            {
+              "team": "Lakers",
+              "rec": "15–3",
+              "gb": "—",
+              "rank": 2
+            },
+            {
+              "team": "Timberwolves",
+              "rec": "13–5",
+              "gb": "2",
+              "rank": 3
+            },
+            {
+              "team": "Rockets",
+              "rec": "13–5",
+              "gb": "2",
+              "rank": 4
+            },
+            {
+              "team": "Grizzlies",
+              "rec": "13–5",
+              "gb": "2",
+              "rank": 5
+            },
+            {
+              "team": "Trail Blazers",
+              "rec": "11–6",
+              "gb": "3.5",
+              "rank": 6
+            },
+            {
+              "team": "Nuggets",
+              "rec": "10–6",
+              "gb": "4",
+              "rank": 7
+            },
+            {
+              "team": "Mavericks",
+              "rec": "11–7",
+              "gb": "4",
+              "rank": 8
+            },
+            {
+              "team": "Suns",
+              "rec": "9–7",
+              "gb": "5",
+              "rank": 9
+            },
+            {
+              "team": "Thunder",
+              "rec": "10–8",
+              "gb": "5",
+              "rank": 10
+            },
+            {
+              "team": "Warriors",
+              "rec": "9–8",
+              "gb": "5.5",
+              "rank": 11
+            },
+            {
+              "team": "Pelicans",
+              "rec": "5–14",
+              "gb": "10.5",
+              "rank": 12
+            },
+            {
+              "team": "Clippers",
+              "rec": "4–12",
+              "gb": "10",
+              "rank": 13
+            },
+            {
+              "team": "Jazz",
+              "rec": "3–16",
+              "gb": "12.5",
+              "rank": 14
+            },
+            {
+              "team": "Kings",
+              "rec": "2–15",
+              "gb": "12.5",
+              "rank": 15
+            }
+          ]
+        }
+      ],
+      "cut": [
+        6,
+        10
+      ],
+      "cutNote": "Top 6 make the playoffs, 7–10 the play-in"
+    },
+    "nhl": {
+      "league": "nhl",
+      "cols": [
+        "W–L–OT",
+        "PTS"
+      ],
+      "confLabel": {
+        "East": "Eastern Conference",
+        "West": "Western Conference"
+      },
+      "conferences": [
+        {
+          "name": "East",
+          "divisions": [
+            {
+              "name": "Atlantic",
+              "rows": [
+                {
+                  "team": "Senators",
+                  "rec": "16–6–3",
+                  "pts": 35
+                },
+                {
+                  "team": "Lightning",
+                  "rec": "15–6–2",
+                  "pts": 32
+                },
+                {
+                  "team": "Canadiens",
+                  "rec": "14–7–4",
+                  "pts": 32
+                },
+                {
+                  "team": "Bruins",
+                  "rec": "15–7–1",
+                  "pts": 31,
+                  "boston": true
+                },
+                {
+                  "team": "Panthers",
+                  "rec": "13–8–3",
+                  "pts": 29
+                },
+                {
+                  "team": "Sabres",
+                  "rec": "10–10–4",
+                  "pts": 24
+                },
+                {
+                  "team": "Maple Leafs",
+                  "rec": "9–14–3",
+                  "pts": 21
+                },
+                {
+                  "team": "Red Wings",
+                  "rec": "8–12–3",
+                  "pts": 19
+                }
+              ]
+            },
+            {
+              "name": "Metropolitan",
+              "rows": [
+                {
+                  "team": "Hurricanes",
+                  "rec": "18–3–3",
+                  "pts": 39
+                },
+                {
+                  "team": "Devils",
+                  "rec": "16–8–0",
+                  "pts": 32
+                },
+                {
+                  "team": "Rangers",
+                  "rec": "13–9–1",
+                  "pts": 27
+                },
+                {
+                  "team": "Islanders",
+                  "rec": "11–7–5",
+                  "pts": 27
+                },
+                {
+                  "team": "Flyers",
+                  "rec": "9–11–6",
+                  "pts": 24
+                },
+                {
+                  "team": "Capitals",
+                  "rec": "10–11–0",
+                  "pts": 20
+                },
+                {
+                  "team": "Blue Jackets",
+                  "rec": "9–13–0",
+                  "pts": 18
+                },
+                {
+                  "team": "Penguins",
+                  "rec": "7–14–2",
+                  "pts": 16
+                }
+              ]
+            }
+          ],
+          "ranked": [
+            {
+              "team": "Hurricanes",
+              "rec": "18–3–3",
+              "pts": 39,
+              "rank": 1
+            },
+            {
+              "team": "Senators",
+              "rec": "16–6–3",
+              "pts": 35,
+              "rank": 2
+            },
+            {
+              "team": "Lightning",
+              "rec": "15–6–2",
+              "pts": 32,
+              "rank": 3
+            },
+            {
+              "team": "Devils",
+              "rec": "16–8–0",
+              "pts": 32,
+              "rank": 4
+            },
+            {
+              "team": "Canadiens",
+              "rec": "14–7–4",
+              "pts": 32,
+              "rank": 5
+            },
+            {
+              "team": "Bruins",
+              "rec": "15–7–1",
+              "pts": 31,
+              "rank": 6,
+              "boston": true
+            },
+            {
+              "team": "Panthers",
+              "rec": "13–8–3",
+              "pts": 29,
+              "rank": 7
+            },
+            {
+              "team": "Rangers",
+              "rec": "13–9–1",
+              "pts": 27,
+              "rank": 8
+            },
+            {
+              "team": "Islanders",
+              "rec": "11–7–5",
+              "pts": 27,
+              "rank": 9
+            },
+            {
+              "team": "Sabres",
+              "rec": "10–10–4",
+              "pts": 24,
+              "rank": 10
+            },
+            {
+              "team": "Flyers",
+              "rec": "9–11–6",
+              "pts": 24,
+              "rank": 11
+            },
+            {
+              "team": "Maple Leafs",
+              "rec": "9–14–3",
+              "pts": 21,
+              "rank": 12
+            },
+            {
+              "team": "Capitals",
+              "rec": "10–11–0",
+              "pts": 20,
+              "rank": 13
+            },
+            {
+              "team": "Red Wings",
+              "rec": "8–12–3",
+              "pts": 19,
+              "rank": 14
+            },
+            {
+              "team": "Blue Jackets",
+              "rec": "9–13–0",
+              "pts": 18,
+              "rank": 15
+            },
+            {
+              "team": "Penguins",
+              "rec": "7–14–2",
+              "pts": 16,
+              "rank": 16
+            }
+          ]
+        },
+        {
+          "name": "West",
+          "divisions": [
+            {
+              "name": "Central",
+              "rows": [
+                {
+                  "team": "Wild",
+                  "rec": "18–3–5",
+                  "pts": 41
+                },
+                {
+                  "team": "Stars",
+                  "rec": "15–6–2",
+                  "pts": 32
+                },
+                {
+                  "team": "Avalanche",
+                  "rec": "13–7–3",
+                  "pts": 29
+                },
+                {
+                  "team": "Predators",
+                  "rec": "12–6–5",
+                  "pts": 29
+                },
+                {
+                  "team": "Blues",
+                  "rec": "13–9–2",
+                  "pts": 28
+                },
+                {
+                  "team": "Jets",
+                  "rec": "12–9–4",
+                  "pts": 28
+                },
+                {
+                  "team": "Mammoth",
+                  "rec": "12–10–3",
+                  "pts": 27
+                },
+                {
+                  "team": "Blackhawks",
+                  "rec": "8–14–2",
+                  "pts": 18
+                }
+              ]
+            },
+            {
+              "name": "Pacific",
+              "rows": [
+                {
+                  "team": "Oilers",
+                  "rec": "17–6–4",
+                  "pts": 38
+                },
+                {
+                  "team": "Golden Knights",
+                  "rec": "15–6–5",
+                  "pts": 35
+                },
+                {
+                  "team": "Sharks",
+                  "rec": "11–13–2",
+                  "pts": 24
+                },
+                {
+                  "team": "Kraken",
+                  "rec": "11–9–1",
+                  "pts": 23
+                },
+                {
+                  "team": "Ducks",
+                  "rec": "11–13–1",
+                  "pts": 23
+                },
+                {
+                  "team": "Flames",
+                  "rec": "10–13–2",
+                  "pts": 22
+                },
+                {
+                  "team": "Kings",
+                  "rec": "8–12–2",
+                  "pts": 18
+                },
+                {
+                  "team": "Canucks",
+                  "rec": "6–19–1",
+                  "pts": 13
+                }
+              ]
+            }
+          ],
+          "ranked": [
+            {
+              "team": "Wild",
+              "rec": "18–3–5",
+              "pts": 41,
+              "rank": 1
+            },
+            {
+              "team": "Oilers",
+              "rec": "17–6–4",
+              "pts": 38,
+              "rank": 2
+            },
+            {
+              "team": "Golden Knights",
+              "rec": "15–6–5",
+              "pts": 35,
+              "rank": 3
+            },
+            {
+              "team": "Stars",
+              "rec": "15–6–2",
+              "pts": 32,
+              "rank": 4
+            },
+            {
+              "team": "Avalanche",
+              "rec": "13–7–3",
+              "pts": 29,
+              "rank": 5
+            },
+            {
+              "team": "Predators",
+              "rec": "12–6–5",
+              "pts": 29,
+              "rank": 6
+            },
+            {
+              "team": "Blues",
+              "rec": "13–9–2",
+              "pts": 28,
+              "rank": 7
+            },
+            {
+              "team": "Jets",
+              "rec": "12–9–4",
+              "pts": 28,
+              "rank": 8
+            },
+            {
+              "team": "Mammoth",
+              "rec": "12–10–3",
+              "pts": 27,
+              "rank": 9
+            },
+            {
+              "team": "Sharks",
+              "rec": "11–13–2",
+              "pts": 24,
+              "rank": 10
+            },
+            {
+              "team": "Kraken",
+              "rec": "11–9–1",
+              "pts": 23,
+              "rank": 11
+            },
+            {
+              "team": "Ducks",
+              "rec": "11–13–1",
+              "pts": 23,
+              "rank": 12
+            },
+            {
+              "team": "Flames",
+              "rec": "10–13–2",
+              "pts": 22,
+              "rank": 13
+            },
+            {
+              "team": "Kings",
+              "rec": "8–12–2",
+              "pts": 18,
+              "rank": 14
+            },
+            {
+              "team": "Blackhawks",
+              "rec": "8–14–2",
+              "pts": 18,
+              "rank": 15
+            },
+            {
+              "team": "Canucks",
+              "rec": "6–19–1",
+              "pts": 13,
+              "rank": 16
+            }
+          ]
+        }
+      ],
+      "cutNote": "Top 3 in each division plus 2 wild cards make the playoffs"
+    },
+    "nfl": {
+      "league": "nfl",
+      "cols": [
+        "W–L",
+        "GB"
+      ],
+      "confLabel": {
+        "AFC": "AFC",
+        "NFC": "NFC"
+      },
+      "conferences": [
+        {
+          "name": "AFC",
+          "divisions": [
+            {
+              "name": "AFC East",
+              "rows": [
+                {
+                  "team": "Bills",
+                  "rec": "9–1",
+                  "gb": "—"
+                },
+                {
+                  "team": "Patriots",
+                  "rec": "5–5",
+                  "gb": "4",
+                  "boston": true
+                },
+                {
+                  "team": "Jets",
+                  "rec": "3–8",
+                  "gb": "6.5"
+                },
+                {
+                  "team": "Dolphins",
+                  "rec": "1–9",
+                  "gb": "8"
+                }
+              ]
+            },
+            {
+              "name": "AFC North",
+              "rows": [
+                {
+                  "team": "Bengals",
+                  "rec": "7–3",
+                  "gb": "—"
+                },
+                {
+                  "team": "Browns",
+                  "rec": "6–4",
+                  "gb": "1"
+                },
+                {
+                  "team": "Steelers",
+                  "rec": "6–4",
+                  "gb": "1"
+                },
+                {
+                  "team": "Ravens",
+                  "rec": "4–7",
+                  "gb": "3.5"
+                }
+              ]
+            },
+            {
+              "name": "AFC South",
+              "rows": [
+                {
+                  "team": "Jaguars",
+                  "rec": "7–3",
+                  "gb": "—"
+                },
+                {
+                  "team": "Texans",
+                  "rec": "4–6",
+                  "gb": "3"
+                },
+                {
+                  "team": "Colts",
+                  "rec": "3–8",
+                  "gb": "4.5"
+                },
+                {
+                  "team": "Titans",
+                  "rec": "1–9",
+                  "gb": "6"
+                }
+              ]
+            },
+            {
+              "name": "AFC West",
+              "rows": [
+                {
+                  "team": "Broncos",
+                  "rec": "8–2",
+                  "gb": "—"
+                },
+                {
+                  "team": "Chiefs",
+                  "rec": "8–2",
+                  "gb": "—"
+                },
+                {
+                  "team": "Raiders",
+                  "rec": "4–7",
+                  "gb": "4.5"
+                },
+                {
+                  "team": "Chargers",
+                  "rec": "1–9",
+                  "gb": "7"
+                }
+              ]
+            }
+          ],
+          "ranked": [
+            {
+              "team": "Bills",
+              "rec": "9–1",
+              "gb": "—",
+              "rank": 1
+            },
+            {
+              "team": "Broncos",
+              "rec": "8–2",
+              "gb": "1",
+              "rank": 2
+            },
+            {
+              "team": "Jaguars",
+              "rec": "7–3",
+              "gb": "2",
+              "rank": 3
+            },
+            {
+              "team": "Bengals",
+              "rec": "7–3",
+              "gb": "2",
+              "rank": 4
+            },
+            {
+              "team": "Chiefs",
+              "rec": "8–2",
+              "gb": "1",
+              "rank": 5
+            },
+            {
+              "team": "Browns",
+              "rec": "6–4",
+              "gb": "3",
+              "rank": 6
+            },
+            {
+              "team": "Steelers",
+              "rec": "6–4",
+              "gb": "3",
+              "rank": 7
+            },
+            {
+              "team": "Patriots",
+              "rec": "5–5",
+              "gb": "4",
+              "rank": 8,
+              "boston": true
+            },
+            {
+              "team": "Texans",
+              "rec": "4–6",
+              "gb": "5",
+              "rank": 9
+            },
+            {
+              "team": "Raiders",
+              "rec": "4–7",
+              "gb": "5.5",
+              "rank": 10
+            },
+            {
+              "team": "Ravens",
+              "rec": "4–7",
+              "gb": "5.5",
+              "rank": 11
+            },
+            {
+              "team": "Jets",
+              "rec": "3–8",
+              "gb": "6.5",
+              "rank": 12
+            },
+            {
+              "team": "Colts",
+              "rec": "3–8",
+              "gb": "6.5",
+              "rank": 13
+            },
+            {
+              "team": "Chargers",
+              "rec": "1–9",
+              "gb": "8",
+              "rank": 14
+            },
+            {
+              "team": "Dolphins",
+              "rec": "1–9",
+              "gb": "8",
+              "rank": 15
+            },
+            {
+              "team": "Titans",
+              "rec": "1–9",
+              "gb": "8",
+              "rank": 16
+            }
+          ]
+        },
+        {
+          "name": "NFC",
+          "divisions": [
+            {
+              "name": "NFC East",
+              "rows": [
+                {
+                  "team": "Giants",
+                  "rec": "6–3–1",
+                  "gb": "—"
+                },
+                {
+                  "team": "Cowboys",
+                  "rec": "5–6",
+                  "gb": "2"
+                },
+                {
+                  "team": "Commanders",
+                  "rec": "4–5",
+                  "gb": "2"
+                },
+                {
+                  "team": "Eagles",
+                  "rec": "3–7",
+                  "gb": "3.5"
+                }
+              ]
+            },
+            {
+              "name": "NFC North",
+              "rows": [
+                {
+                  "team": "Lions",
+                  "rec": "8–2",
+                  "gb": "—"
+                },
+                {
+                  "team": "Bears",
+                  "rec": "8–2",
+                  "gb": "—"
+                },
+                {
+                  "team": "Vikings",
+                  "rec": "7–3",
+                  "gb": "1"
+                },
+                {
+                  "team": "Packers",
+                  "rec": "6–4",
+                  "gb": "2"
+                }
+              ]
+            },
+            {
+              "name": "NFC South",
+              "rows": [
+                {
+                  "team": "Panthers",
+                  "rec": "5–5",
+                  "gb": "—"
+                },
+                {
+                  "team": "Buccaneers",
+                  "rec": "3–7",
+                  "gb": "2"
+                },
+                {
+                  "team": "Falcons",
+                  "rec": "3–7",
+                  "gb": "2"
+                },
+                {
+                  "team": "Saints",
+                  "rec": "3–7",
+                  "gb": "2"
+                }
+              ]
+            },
+            {
+              "name": "NFC West",
+              "rows": [
+                {
+                  "team": "49ers",
+                  "rec": "9–1",
+                  "gb": "—"
+                },
+                {
+                  "team": "Seahawks",
+                  "rec": "6–4",
+                  "gb": "3"
+                },
+                {
+                  "team": "Rams",
+                  "rec": "6–4",
+                  "gb": "3"
+                },
+                {
+                  "team": "Cardinals",
+                  "rec": "3–8",
+                  "gb": "6.5"
+                }
+              ]
+            }
+          ],
+          "ranked": [
+            {
+              "team": "49ers",
+              "rec": "9–1",
+              "gb": "—",
+              "rank": 1
+            },
+            {
+              "team": "Lions",
+              "rec": "8–2",
+              "gb": "1",
+              "rank": 2
+            },
+            {
+              "team": "Giants",
+              "rec": "6–3–1",
+              "gb": "2.5",
+              "rank": 3
+            },
+            {
+              "team": "Panthers",
+              "rec": "5–5",
+              "gb": "4",
+              "rank": 4
+            },
+            {
+              "team": "Bears",
+              "rec": "8–2",
+              "gb": "1",
+              "rank": 5
+            },
+            {
+              "team": "Vikings",
+              "rec": "7–3",
+              "gb": "2",
+              "rank": 6
+            },
+            {
+              "team": "Packers",
+              "rec": "6–4",
+              "gb": "3",
+              "rank": 7
+            },
+            {
+              "team": "Seahawks",
+              "rec": "6–4",
+              "gb": "3",
+              "rank": 8
+            },
+            {
+              "team": "Rams",
+              "rec": "6–4",
+              "gb": "3",
+              "rank": 9
+            },
+            {
+              "team": "Cowboys",
+              "rec": "5–6",
+              "gb": "4.5",
+              "rank": 10
+            },
+            {
+              "team": "Commanders",
+              "rec": "4–5",
+              "gb": "4.5",
+              "rank": 11
+            },
+            {
+              "team": "Buccaneers",
+              "rec": "3–7",
+              "gb": "6",
+              "rank": 12
+            },
+            {
+              "team": "Falcons",
+              "rec": "3–7",
+              "gb": "6",
+              "rank": 13
+            },
+            {
+              "team": "Saints",
+              "rec": "3–7",
+              "gb": "6",
+              "rank": 14
+            },
+            {
+              "team": "Eagles",
+              "rec": "3–7",
+              "gb": "6",
+              "rank": 15
+            },
+            {
+              "team": "Cardinals",
+              "rec": "3–8",
+              "gb": "6.5",
+              "rank": 16
+            }
+          ]
+        }
+      ],
+      "cut": [
+        7
+      ],
+      "cutNote": "Top 7 make the playoffs (division winners seeded 1–4)"
+    }
+  }
+}

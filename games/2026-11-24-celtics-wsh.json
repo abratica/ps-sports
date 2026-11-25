@@ -1,0 +1,571 @@
+{
+  "teamKey": "celtics",
+  "sport": "NBA",
+  "headline": "Tatum's 41 snaps Celtics' four-game skid",
+  "home": false,
+  "boston": {
+    "abbr": "BOS",
+    "score": 131
+  },
+  "opp": {
+    "abbr": "WSH",
+    "name": "Wizards",
+    "score": 116,
+    "record": "7–12"
+  },
+  "result": "W",
+  "record": "12–6",
+  "takeaway": "Jayson Tatum scored 41, 28 in the first half, as Boston led 80–49 at the break and held off a Washington rally that got within 117–112. The win ends a four-game skid and keeps the Celtics 3–0 in NBA Cup play.",
+  "videos": [
+    {
+      "id": "KTqVQ0JHdwk",
+      "title": "Celtics at Wizards: full game highlights",
+      "channel": "NBA",
+      "kind": "full"
+    }
+  ],
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "boston": [
+      34,
+      46,
+      24,
+      27
+    ],
+    "opp": [
+      28,
+      21,
+      40,
+      27
+    ],
+    "sections": [
+      {
+        "label": "1st quarter",
+        "score": "BOS 34, WSH 28",
+        "text": "Neemias Queta scored 13 points before Anthony Davis had any, and Tatum had 15 points and five assists in the quarter. Boston led 21–9 with 5:52 left and 34–28 after one."
+      },
+      {
+        "label": "2nd quarter",
+        "score": "BOS 80, WSH 49",
+        "text": "The Celtics opened the quarter on a 14–3 run, capped by Payton Pritchard's three for a 48–31 lead at 9:02. A later 11–0 run with three Tatum threes made it 70–38 with 2:19 left; Boston made 10 threes in a 46-point quarter, and Tatum had 28 at the half."
+      },
+      {
+        "label": "3rd quarter",
+        "score": "BOS 104, WSH 89",
+        "text": "Washington outscored Boston 40–24 and cut it to 94–81 on Bilal Coulibaly's dunk with 3:20 left. Paul George answered with a step-back three and Pritchard scored the next five for a 102–81 lead, before two Coulibaly threes and Trae Young free throws made it a 15-point game."
+      },
+      {
+        "label": "4th quarter",
+        "score": "Final: BOS 131, WSH 116",
+        "text": "Davis and AJ Dybantsa led a Wizards push, and Dybantsa's bank shot made it 117–112 with 3:19 left. Tatum's layup made it 119–112, then Baylor Scheierman, scoreless until then, scored Boston's next eight: a three at 2:31, two free throws and a 30-footer for 127–114 with 1:16 left."
+      }
+    ],
+    "sources": [
+      {
+        "name": "AP (ESPN)",
+        "url": "https://www.espn.com/nba/recap/_/gameId/401909315"
+      },
+      {
+        "name": "Celtics.com",
+        "url": "https://www.nba.com/celtics/news/gamerecap-keys-20261124-boswas"
+      },
+      {
+        "name": "Boston Herald",
+        "url": "https://www.bostonherald.com/2026/11/24/celtics-reserve-rescues-boston-late-in-slump-busting-win-over-wizards/"
+      },
+      {
+        "name": "ESPN",
+        "url": "https://www.espn.com/nba/game/_/gameId/401909315"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "Jayson Tatum",
+      "line": "41 PTS · 6 REB · 8 AST · 13-25 FG · 6-15 3PT",
+      "note": "His most points since returning from his Achilles injury, and his 31st career 40-point game; he set up Scheierman's late threes too."
+    },
+    {
+      "name": "Paul George",
+      "line": "28 PTS · 9 AST · 11-20 FG · 6-9 3PT",
+      "note": "Became the eighth player in NBA history to reach 2,500 career threes and was +34."
+    },
+    {
+      "name": "Neemias Queta",
+      "line": "21 PTS · 5 REB · 9-11 FG · 2 BLK",
+      "note": "A season high, including 13 points in the first quarter before Anthony Davis scored."
+    }
+  ],
+  "oppLine": "Anthony Davis had 33 points and 13 rebounds; Kyshawn George added 24, AJ Dybantsa 20 points, 11 rebounds and 7 assists, and Trae Young 17 points and 12 assists.",
+  "box": {
+    "source": {
+      "name": "ESPN",
+      "url": "https://www.espn.com/nba/boxscore/_/gameId/401909315"
+    },
+    "boston": {
+      "name": "Celtics",
+      "groups": [
+        {
+          "label": "",
+          "columns": [
+            "MIN",
+            "PTS",
+            "REB",
+            "AST",
+            "FG",
+            "3PT",
+            "FT",
+            "STL",
+            "BLK",
+            "TO",
+            "+/-"
+          ],
+          "starters": 5,
+          "rows": [
+            {
+              "name": "Paul George",
+              "values": [
+                33,
+                28,
+                4,
+                9,
+                "11-20",
+                "6-9",
+                "0-0",
+                1,
+                0,
+                1,
+                "+34"
+              ]
+            },
+            {
+              "name": "Jayson Tatum",
+              "values": [
+                37,
+                41,
+                6,
+                8,
+                "13-25",
+                "6-15",
+                "9-14",
+                1,
+                2,
+                3,
+                "-2"
+              ]
+            },
+            {
+              "name": "Sam Hauser",
+              "values": [
+                22,
+                4,
+                3,
+                1,
+                "1-4",
+                "1-3",
+                "1-2",
+                1,
+                1,
+                0,
+                "+20"
+              ]
+            },
+            {
+              "name": "Neemias Queta",
+              "values": [
+                25,
+                21,
+                5,
+                2,
+                "9-11",
+                "0-0",
+                "3-3",
+                1,
+                2,
+                2,
+                "+14"
+              ]
+            },
+            {
+              "name": "Derrick White",
+              "values": [
+                30,
+                6,
+                7,
+                5,
+                "2-10",
+                "2-6",
+                "0-0",
+                1,
+                0,
+                0,
+                "+32"
+              ]
+            },
+            {
+              "name": "Payton Pritchard",
+              "values": [
+                28,
+                14,
+                4,
+                2,
+                "4-14",
+                "4-11",
+                "2-2",
+                1,
+                0,
+                2,
+                "-1"
+              ]
+            },
+            {
+              "name": "Baylor Scheierman",
+              "values": [
+                19,
+                8,
+                4,
+                1,
+                "2-7",
+                "2-4",
+                "2-2",
+                0,
+                0,
+                1,
+                "-5"
+              ]
+            },
+            {
+              "name": "Luka Garza",
+              "values": [
+                18,
+                7,
+                4,
+                0,
+                "3-3",
+                "1-1",
+                "0-0",
+                1,
+                0,
+                1,
+                "+4"
+              ]
+            },
+            {
+              "name": "Hugo Gonzalez",
+              "values": [
+                9,
+                0,
+                5,
+                0,
+                "0-1",
+                "0-0",
+                "0-0",
+                0,
+                1,
+                0,
+                "-8"
+              ]
+            },
+            {
+              "name": "Ron Harper Jr.",
+              "values": [
+                8,
+                2,
+                0,
+                0,
+                "1-3",
+                "0-2",
+                "0-2",
+                0,
+                0,
+                0,
+                "-5"
+              ]
+            },
+            {
+              "name": "Chris Cenac Jr.",
+              "values": [
+                6,
+                0,
+                2,
+                1,
+                "0-1",
+                "0-0",
+                "0-0",
+                1,
+                0,
+                0,
+                "-10"
+              ]
+            },
+            {
+              "name": "Jordan Walsh",
+              "values": [
+                5,
+                0,
+                2,
+                1,
+                "0-1",
+                "0-0",
+                "0-0",
+                0,
+                0,
+                0,
+                "+2"
+              ]
+            }
+          ],
+          "totals": [
+            "",
+            131,
+            46,
+            30,
+            "46-100",
+            "22-51",
+            "17-25",
+            8,
+            6,
+            10,
+            ""
+          ]
+        }
+      ]
+    },
+    "opp": {
+      "name": "Wizards",
+      "groups": [
+        {
+          "label": "",
+          "columns": [
+            "MIN",
+            "PTS",
+            "REB",
+            "AST",
+            "FG",
+            "3PT",
+            "FT",
+            "STL",
+            "BLK",
+            "TO",
+            "+/-"
+          ],
+          "starters": 5,
+          "rows": [
+            {
+              "name": "Anthony Davis",
+              "values": [
+                37,
+                33,
+                13,
+                1,
+                "12-21",
+                "1-3",
+                "8-10",
+                2,
+                1,
+                2,
+                "-13"
+              ]
+            },
+            {
+              "name": "AJ Dybantsa",
+              "values": [
+                41,
+                20,
+                11,
+                7,
+                "7-18",
+                "2-6",
+                "4-5",
+                0,
+                0,
+                3,
+                "-16"
+              ]
+            },
+            {
+              "name": "Kyshawn George",
+              "values": [
+                38,
+                24,
+                9,
+                3,
+                "9-20",
+                "4-12",
+                "2-2",
+                1,
+                0,
+                1,
+                "-11"
+              ]
+            },
+            {
+              "name": "Alex Sarr",
+              "values": [
+                24,
+                7,
+                2,
+                0,
+                "3-6",
+                "1-3",
+                "0-0",
+                0,
+                1,
+                0,
+                "-10"
+              ]
+            },
+            {
+              "name": "Trae Young",
+              "values": [
+                35,
+                17,
+                0,
+                12,
+                "4-9",
+                "1-2",
+                "8-9",
+                2,
+                0,
+                1,
+                "-2"
+              ]
+            },
+            {
+              "name": "Bilal Coulibaly",
+              "values": [
+                22,
+                10,
+                3,
+                1,
+                "4-7",
+                "2-5",
+                "0-0",
+                0,
+                0,
+                1,
+                "-5"
+              ]
+            },
+            {
+              "name": "Khris Middleton",
+              "values": [
+                18,
+                0,
+                5,
+                0,
+                "0-2",
+                "0-1",
+                "0-0",
+                0,
+                0,
+                2,
+                "-11"
+              ]
+            },
+            {
+              "name": "Tre Johnson",
+              "values": [
+                8,
+                0,
+                1,
+                0,
+                "0-3",
+                "0-2",
+                "0-0",
+                0,
+                0,
+                2,
+                "-15"
+              ]
+            },
+            {
+              "name": "Bub Carrington",
+              "values": [
+                7,
+                0,
+                2,
+                0,
+                "0-1",
+                "0-1",
+                "0-0",
+                0,
+                1,
+                0,
+                "+7"
+              ]
+            },
+            {
+              "name": "Deandre Ayton",
+              "values": [
+                5,
+                0,
+                2,
+                0,
+                "0-1",
+                "0-0",
+                "0-0",
+                0,
+                0,
+                1,
+                "+4"
+              ]
+            },
+            {
+              "name": "Will Riley",
+              "values": [
+                5,
+                5,
+                0,
+                0,
+                "2-4",
+                "1-1",
+                "0-0",
+                0,
+                0,
+                0,
+                "-3"
+              ]
+            },
+            {
+              "name": "Tre Mann",
+              "values": [
+                1,
+                0,
+                0,
+                1,
+                "0-0",
+                "0-0",
+                "0-0",
+                0,
+                0,
+                0,
+                "0"
+              ]
+            }
+          ],
+          "totals": [
+            "",
+            116,
+            48,
+            25,
+            "41-92",
+            "12-36",
+            "22-26",
+            5,
+            3,
+            13,
+            ""
+          ]
+        }
+      ]
+    }
+  },
+  "id": "2026-11-24-celtics-wsh",
+  "date": "2026-11-24"
+}
