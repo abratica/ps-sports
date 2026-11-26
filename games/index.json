@@ -1,6 +1,20 @@
 {
   "games": [
     {
+      "id": "2026-11-25-bruins-wpg",
+      "team": "bruins",
+      "date": "2026-11-25",
+      "home": true,
+      "opp": "Jets",
+      "oppAbbr": "WPG",
+      "bos": 2,
+      "oppScore": 4,
+      "result": "L",
+      "record": "15–8–1",
+      "headline": "Jets' top line burns Bruins in 4–2 loss",
+      "ot": false
+    },
+    {
       "id": "2026-11-24-celtics-wsh",
       "team": "celtics",
       "date": "2026-11-24",

@@ -1,0 +1,99 @@
+{
+  "teamKey": "bruins",
+  "sport": "NHL",
+  "headline": "Jets' top line burns Bruins in 4–2 loss",
+  "home": true,
+  "boston": {
+    "abbr": "BOS",
+    "score": 2
+  },
+  "opp": {
+    "abbr": "WPG",
+    "name": "Jets",
+    "score": 4,
+    "record": "13–9–4"
+  },
+  "result": "L",
+  "record": "15–8–1",
+  "takeaway": "Morgan Barron broke a 2–2 tie with 2:07 left in the second, poking in a Jeremy Swayman rebound, and Winnipeg won 4–2. The Bruins never led, gave up the first goal for a sixth straight game and have lost four of five at home.",
+  "videos": [
+    {
+      "id": "dKdmS9EIr1Q",
+      "title": "Jets at Bruins: full game highlights",
+      "channel": "Sportsnet",
+      "kind": "full"
+    }
+  ],
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3"
+    ],
+    "boston": [
+      1,
+      1,
+      0
+    ],
+    "opp": [
+      2,
+      1,
+      1
+    ],
+    "sections": [
+      {
+        "label": "1st period",
+        "score": "BOS 1, WPG 2",
+        "text": "Kyle Connor scored 65 seconds in on the rush, off Mark Scheifele's cross-ice pass, after a Nikita Zadorov pinch. Morgan Geekie tied it 1–1 at 6:11, tapping in David Pastrnak's feed 11 seconds into a power play, and Tanner Jeannot fought Tyrel Bauer at center ice. Josh Morrissey's slap shot through a Gabriel Vilardi screen made it 2–1 at 17:56."
+      },
+      {
+        "label": "2nd period",
+        "score": "BOS 2, WPG 3",
+        "text": "Fraser Minten tied it 2–2 at 10:57, tipping Mason Lohrei's point shot from in front. Barron put Winnipeg back ahead 3–2 at 17:53, poking the rebound of Mario Ferraro's shot through Swayman's pads after a Geekie turnover."
+      },
+      {
+        "label": "3rd period",
+        "score": "Final: BOS 2, WPG 4",
+        "text": "Boston outshot Winnipeg 7–2 but had no high-danger chances, per Natural Stat Trick, and Marco Sturm moved Marat Khusnutdinov onto the top line in place of Geekie. Scheifele's empty-netter at 18:48 made it 4–2."
+      }
+    ],
+    "sources": [
+      {
+        "name": "AP (ESPN)",
+        "url": "https://www.espn.com/nhl/recap/_/gameId/401892781"
+      },
+      {
+        "name": "NHL.com",
+        "url": "https://www.nhl.com/bruins/news/winnipeg-jets-boston-bruins-game-recap-november-25-2026-x3734"
+      },
+      {
+        "name": "Boston Hockey Now",
+        "url": "https://bostonhockeynow.com/2026-11-26-bruins-postgame-jets-wasted-spark-disrespectful-start/"
+      },
+      {
+        "name": "ESPN",
+        "url": "https://www.espn.com/nhl/game/_/gameId/401892781"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "Fraser Minten",
+      "line": "1 G · 2 SOG · 3 HIT · 6-11 FO · +1",
+      "note": "Tied it 2–2 with a tip in front of the net, his ninth goal."
+    },
+    {
+      "name": "Morgan Geekie",
+      "line": "1 G (PP) · 2 SOG · −4",
+      "note": "Scored the power-play equalizer, but his turnover led to Barron's winner and he was moved off the top line for the third."
+    },
+    {
+      "name": "Jeremy Swayman",
+      "line": "14 SV · 17 SA · .824 SV%",
+      "note": "Mishandled the rebound on Barron's go-ahead goal on a night Winnipeg managed 18 shots."
+    }
+  ],
+  "oppLine": "Kyle Connor had a goal and two assists, reaching 20 goals in 26 games; Mark Scheifele added a goal and an assist, and Nico Daws made 21 saves.",
+  "id": "2026-11-25-bruins-wpg",
+  "date": "2026-11-25"
+}
