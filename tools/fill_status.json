@@ -1,8 +1,8 @@
 {
-  "issue": "2026-11-25",
+  "issue": "2026-11-26",
   "games": {
-    "celtics": {
-      "box": "ok",
+    "bruins": {
+      "box": "not yet: shots don't match goalies: (23, 17) vs (18, 23)",
       "video": "ok"
     }
   }
