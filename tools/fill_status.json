@@ -1,9 +1,4 @@
 {
-  "issue": "2026-11-26",
-  "games": {
-    "bruins": {
-      "box": "not yet: shots don't match goalies: (23, 17) vs (18, 23)",
-      "video": "ok"
-    }
-  }
+  "issue": "2026-11-27",
+  "games": {}
 }
