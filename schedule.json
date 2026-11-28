@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "teams": {
   "celtics": {
    "season": "2026–27",
@@ -179,6 +179,15 @@
      "opp": "Hornets",
      "oppAbbr": "CHA",
      "tv": "NBC Sports Boston"
+    },
+    {
+     "date": "2026-12-05",
+     "time": "7:30 PM",
+     "home": false,
+     "opp": "Pistons",
+     "oppAbbr": "DET",
+     "tv": "Prime Video",
+     "note": "NBA Cup quarterfinal"
     },
     {
      "date": "2026-12-13",

@@ -1,0 +1,487 @@
+{
+  "teamKey": "celtics",
+  "sport": "NBA",
+  "headline": "26 turnovers sink Celtics in one-point loss to Hawks",
+  "home": true,
+  "boston": {
+    "abbr": "BOS",
+    "score": 86
+  },
+  "opp": {
+    "abbr": "ATL",
+    "name": "Hawks",
+    "score": 87,
+    "record": "12–6"
+  },
+  "result": "L",
+  "record": "12–7",
+  "takeaway": "Boston blew a 15-point third-quarter lead and committed 26 turnovers, the last by Jayson Tatum with 3.8 seconds left, as Atlanta won 87–86. The Celtics still reach the NBA Cup quarterfinals as the East wild card, at Detroit on Dec. 5.",
+  "videos": [
+    {
+      "id": "q1wH55FVPRY",
+      "title": "Hawks at Celtics: full game highlights",
+      "channel": "NBA",
+      "kind": "full"
+    }
+  ],
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "boston": [
+      29,
+      22,
+      18,
+      17
+    ],
+    "opp": [
+      14,
+      25,
+      31,
+      17
+    ],
+    "sections": [
+      {
+        "label": "1st quarter",
+        "score": "BOS 29, ATL 14",
+        "text": "Atlanta missed 11 of its first 12 shots, and Jayson Tatum scored 13 in the quarter, capped by a step-back three for a 26–13 lead. Payton Pritchard's step-back three with 29 seconds left made it 29–14."
+      },
+      {
+        "label": "2nd quarter",
+        "score": "BOS 51, ATL 39",
+        "text": "Sam Hauser's three and tip-in stretched the lead to 37–20 early in the quarter. Aaron Wiggins and Jalen Johnson kept Atlanta within reach as Paul George committed four turnovers in the quarter, and Hugo Gonzalez's floater made it 51–39 at the half."
+      },
+      {
+        "label": "3rd quarter",
+        "score": "BOS 69, ATL 70",
+        "text": "George hit two threes and Neemias Queta's layup made it 65–50 with 6:26 left. Atlanta closed on a 20–4 run, with threes from Nickeil Alexander-Walker, Luguentz Dort, Johnson and Wiggins, and Dyson Daniels' floater with 11.5 seconds left gave the Hawks their first lead, 70–69."
+      },
+      {
+        "label": "4th quarter",
+        "score": "Final: BOS 86, ATL 87",
+        "text": "Hauser's three put Boston up 78–77 with 7:48 left, its last lead, and the Celtics then went 5:32 without a point as Atlanta went ahead 81–78. Derrick White's floater tied it 83–83 with 1:10 left, Alexander-Walker answered with a driving layup at 54.3 seconds, and after Tatum stole the ball back he threw it away with 3.8 seconds left. White's three at the buzzer made the final 87–86."
+      }
+    ],
+    "sources": [
+      {
+        "name": "AP (ESPN)",
+        "url": "https://www.espn.com/nba/recap/_/gameId/401909330"
+      },
+      {
+        "name": "Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/11/27/sports/celtics-hawks-nba-cup-group-stage-game/"
+      },
+      {
+        "name": "ESPN",
+        "url": "https://www.espn.com/nba/game/_/gameId/401909330"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "Neemias Queta",
+      "line": "11 PTS · 22 REB · 3 AST · 2 BLK · 7 TO",
+      "note": "Grabbed a career-high 22 rebounds starting in place of Mitchell Robinson, but also had a team-high seven turnovers."
+    },
+    {
+      "name": "Jayson Tatum",
+      "line": "20 PTS · 9 REB · 5 AST · 4 STL · 8-22 FG",
+      "note": "Scored 13 in the first quarter and none in the fourth, and his turnover with 3.8 seconds left ended Boston's last chance."
+    },
+    {
+      "name": "Derrick White",
+      "line": "13 PTS · 4-8 FG · 2-5 3PT · 2 STL",
+      "note": "Scored Boston's last seven points, including the tying floater with 1:10 left and a three at the buzzer."
+    }
+  ],
+  "oppLine": "Jalen Johnson had 24 points and 12 rebounds; Nickeil Alexander-Walker scored 20, including Atlanta's last four, and Luguentz Dort added 14 off the bench.",
+  "box": {
+    "source": {
+      "name": "ESPN",
+      "url": "https://www.espn.com/nba/boxscore/_/gameId/401909330"
+    },
+    "boston": {
+      "name": "Celtics",
+      "groups": [
+        {
+          "label": "",
+          "columns": [
+            "MIN",
+            "PTS",
+            "REB",
+            "AST",
+            "FG",
+            "3PT",
+            "FT",
+            "STL",
+            "BLK",
+            "TO",
+            "+/-"
+          ],
+          "starters": 5,
+          "rows": [
+            {
+              "name": "Paul George",
+              "values": [
+                29,
+                8,
+                3,
+                1,
+                "3-8",
+                "2-6",
+                "0-0",
+                2,
+                0,
+                6,
+                "+1"
+              ]
+            },
+            {
+              "name": "Jayson Tatum",
+              "values": [
+                38,
+                20,
+                9,
+                5,
+                "8-22",
+                "1-6",
+                "3-4",
+                4,
+                0,
+                4,
+                "-2"
+              ]
+            },
+            {
+              "name": "Neemias Queta",
+              "values": [
+                33,
+                11,
+                22,
+                3,
+                "4-8",
+                "0-1",
+                "3-6",
+                1,
+                2,
+                7,
+                "-2"
+              ]
+            },
+            {
+              "name": "Derrick White",
+              "values": [
+                31,
+                13,
+                3,
+                0,
+                "4-8",
+                "2-5",
+                "3-4",
+                2,
+                1,
+                2,
+                "+4"
+              ]
+            },
+            {
+              "name": "Hugo Gonzalez",
+              "values": [
+                16,
+                9,
+                3,
+                1,
+                "4-6",
+                "1-2",
+                "0-0",
+                0,
+                1,
+                0,
+                "+2"
+              ]
+            },
+            {
+              "name": "Payton Pritchard",
+              "values": [
+                35,
+                10,
+                3,
+                4,
+                "3-12",
+                "2-8",
+                "2-2",
+                0,
+                0,
+                0,
+                "-4"
+              ]
+            },
+            {
+              "name": "Sam Hauser",
+              "values": [
+                25,
+                8,
+                2,
+                0,
+                "3-7",
+                "2-5",
+                "0-0",
+                1,
+                0,
+                0,
+                "-4"
+              ]
+            },
+            {
+              "name": "Luka Garza",
+              "values": [
+                15,
+                4,
+                2,
+                0,
+                "2-4",
+                "0-1",
+                "0-0",
+                0,
+                0,
+                1,
+                "+1"
+              ]
+            },
+            {
+              "name": "Baylor Scheierman",
+              "values": [
+                12,
+                3,
+                3,
+                0,
+                "1-3",
+                "1-3",
+                "0-0",
+                0,
+                0,
+                3,
+                "+3"
+              ]
+            },
+            {
+              "name": "Ron Harper Jr.",
+              "values": [
+                6,
+                0,
+                1,
+                0,
+                "0-0",
+                "0-0",
+                "0-0",
+                0,
+                1,
+                0,
+                "-4"
+              ]
+            }
+          ],
+          "totals": [
+            "",
+            86,
+            51,
+            14,
+            "32-78",
+            "11-37",
+            "11-16",
+            10,
+            5,
+            23,
+            ""
+          ]
+        }
+      ]
+    },
+    "opp": {
+      "name": "Hawks",
+      "groups": [
+        {
+          "label": "",
+          "columns": [
+            "MIN",
+            "PTS",
+            "REB",
+            "AST",
+            "FG",
+            "3PT",
+            "FT",
+            "STL",
+            "BLK",
+            "TO",
+            "+/-"
+          ],
+          "starters": 5,
+          "rows": [
+            {
+              "name": "Onyeka Okongwu",
+              "values": [
+                33,
+                4,
+                9,
+                2,
+                "2-10",
+                "0-7",
+                "0-0",
+                0,
+                1,
+                3,
+                "0"
+              ]
+            },
+            {
+              "name": "Jalen Johnson",
+              "values": [
+                36,
+                24,
+                12,
+                3,
+                "8-19",
+                "2-6",
+                "6-6",
+                1,
+                2,
+                1,
+                "+1"
+              ]
+            },
+            {
+              "name": "Nickeil Alexander-Walker",
+              "values": [
+                32,
+                20,
+                4,
+                3,
+                "6-19",
+                "2-11",
+                "6-6",
+                2,
+                0,
+                2,
+                "0"
+              ]
+            },
+            {
+              "name": "Dyson Daniels",
+              "values": [
+                37,
+                5,
+                6,
+                5,
+                "2-5",
+                "1-2",
+                "0-2",
+                4,
+                0,
+                0,
+                "-4"
+              ]
+            },
+            {
+              "name": "Kingston Flemings",
+              "values": [
+                25,
+                2,
+                3,
+                2,
+                "1-3",
+                "0-0",
+                "0-0",
+                1,
+                0,
+                3,
+                "-1"
+              ]
+            },
+            {
+              "name": "Luguentz Dort",
+              "values": [
+                29,
+                14,
+                2,
+                1,
+                "4-9",
+                "2-6",
+                "4-6",
+                1,
+                0,
+                3,
+                "+5"
+              ]
+            },
+            {
+              "name": "Aaron Wiggins",
+              "values": [
+                21,
+                11,
+                0,
+                2,
+                "4-8",
+                "3-7",
+                "0-0",
+                3,
+                0,
+                0,
+                "+3"
+              ]
+            },
+            {
+              "name": "Zuby Ejiofor",
+              "values": [
+                15,
+                3,
+                1,
+                2,
+                "1-3",
+                "1-3",
+                "0-0",
+                0,
+                0,
+                1,
+                "+1"
+              ]
+            },
+            {
+              "name": "Corey Kispert",
+              "values": [
+                12,
+                4,
+                0,
+                1,
+                "2-5",
+                "0-3",
+                "0-0",
+                0,
+                0,
+                1,
+                "0"
+              ]
+            }
+          ],
+          "totals": [
+            "",
+            87,
+            37,
+            21,
+            "30-81",
+            "11-45",
+            "16-20",
+            12,
+            3,
+            14,
+            ""
+          ]
+        }
+      ]
+    }
+  },
+  "id": "2026-11-27-celtics-atl",
+  "date": "2026-11-27"
+}

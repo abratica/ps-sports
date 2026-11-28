@@ -1,0 +1,669 @@
+{
+  "teamKey": "bruins",
+  "sport": "NHL",
+  "headline": "Rielly's two goals sink Bruins, who lose Pastrnak",
+  "home": true,
+  "boston": {
+    "abbr": "BOS",
+    "score": 1
+  },
+  "opp": {
+    "abbr": "TOR",
+    "name": "Maple Leafs",
+    "score": 3,
+    "record": "10–14–3"
+  },
+  "result": "L",
+  "record": "15–9–1",
+  "takeaway": "Morgan Rielly scored twice, the go-ahead goal off a faceoff with 2:04 left in the second, and Toronto beat Boston 3–1. David Pastrnak, the team's leading scorer, left in the first period with a lower-body injury and did not return.",
+  "videos": [
+    {
+      "id": "vlFZaZ6oFGE",
+      "title": "Maple Leafs at Bruins: full game highlights",
+      "channel": "NHL",
+      "kind": "full"
+    }
+  ],
+  "report": {
+    "periods": [
+      "1",
+      "2",
+      "3"
+    ],
+    "boston": [
+      1,
+      0,
+      0
+    ],
+    "opp": [
+      1,
+      1,
+      1
+    ],
+    "sections": [
+      {
+        "label": "1st period",
+        "score": "BOS 1, TOR 1",
+        "text": "Casey Mittelstadt scored on the power play at 6:31, from Mason Lohrei and JJ Peterka, for a 1–0 lead. David Pastrnak left the bench with about six minutes left in the period, and the Bruins announced a lower-body injury before the second. Morgan Rielly's wrist shot from the point, through traffic in front of Jeremy Swayman, tied it 1–1 at 16:53."
+      },
+      {
+        "label": "2nd period",
+        "score": "BOS 1, TOR 2",
+        "text": "Toronto lost defenseman Chris Tanev to a lower-body injury after a collision with Mark Kastelic three minutes in. Rielly scored again off a faceoff win in Boston's zone with 2:04 left, the 100th goal of his career, for a 2–1 lead."
+      },
+      {
+        "label": "3rd period",
+        "score": "Final: BOS 1, TOR 3",
+        "text": "Boston got one shot on a 5-on-3 that lasted 1:58 early in the period. Colton Sissons made it 3–1 at 7:24, from Gavin McKenna, and Anthony Stolarz shut the door the rest of the way."
+      }
+    ],
+    "sources": [
+      {
+        "name": "AP (ESPN)",
+        "url": "https://www.espn.com/nhl/recap/_/gameId/401892795"
+      },
+      {
+        "name": "NHL.com",
+        "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-27-2026"
+      },
+      {
+        "name": "ESPN",
+        "url": "https://www.espn.com/nhl/game/_/gameId/401892795"
+      }
+    ]
+  },
+  "performers": [
+    {
+      "name": "Casey Mittelstadt",
+      "line": "1 G (PP) · 1 SOG · 16:49 TOI",
+      "note": "Scored Boston's only goal, his ninth, on the power play."
+    },
+    {
+      "name": "JJ Peterka",
+      "line": "1 A · 5 SOG · 20:02 TOI",
+      "note": "Led the Bruins with five shots and set up Mittelstadt's goal."
+    },
+    {
+      "name": "Jeremy Swayman",
+      "line": "15 SV · 18 SA · .833 SV%",
+      "note": "Toronto scored three times on 18 shots, including Rielly's long-range equalizer through traffic."
+    }
+  ],
+  "oppLine": "Morgan Rielly scored his first two goals of the season; Colton Sissons had a goal and an assist, and Anthony Stolarz made 28 saves.",
+  "box": {
+    "source": {
+      "name": "ESPN",
+      "url": "https://www.espn.com/nhl/boxscore/_/gameId/401892795"
+    },
+    "boston": {
+      "name": "Bruins",
+      "groups": [
+        {
+          "label": "Skaters",
+          "columns": [
+            "G",
+            "A",
+            "PTS",
+            "+/-",
+            "SOG",
+            "HIT",
+            "BLK",
+            "TOI"
+          ],
+          "rows": [
+            {
+              "name": "Charlie McAvoy",
+              "values": [
+                0,
+                0,
+                0,
+                "-3",
+                1,
+                0,
+                2,
+                "26:49"
+              ]
+            },
+            {
+              "name": "Elias Lindholm",
+              "values": [
+                0,
+                0,
+                0,
+                "-1",
+                4,
+                0,
+                0,
+                "20:38"
+              ]
+            },
+            {
+              "name": "JJ Peterka",
+              "values": [
+                0,
+                1,
+                1,
+                "-1",
+                5,
+                0,
+                0,
+                "20:02"
+              ]
+            },
+            {
+              "name": "Nikita Zadorov",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                2,
+                2,
+                2,
+                "19:55"
+              ]
+            },
+            {
+              "name": "Pavel Zacha",
+              "values": [
+                0,
+                0,
+                0,
+                "-1",
+                3,
+                0,
+                0,
+                "19:40"
+              ]
+            },
+            {
+              "name": "Morgan Geekie",
+              "values": [
+                0,
+                0,
+                0,
+                "-1",
+                3,
+                1,
+                0,
+                "19:26"
+              ]
+            },
+            {
+              "name": "Fraser Minten",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                3,
+                3,
+                1,
+                "18:33"
+              ]
+            },
+            {
+              "name": "Hampus Lindholm",
+              "values": [
+                0,
+                0,
+                0,
+                "-2",
+                0,
+                1,
+                2,
+                "18:16"
+              ]
+            },
+            {
+              "name": "Casey Mittelstadt",
+              "values": [
+                1,
+                0,
+                1,
+                "-1",
+                1,
+                2,
+                1,
+                "16:49"
+              ]
+            },
+            {
+              "name": "Matthew Poitras",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                0,
+                0,
+                0,
+                "16:45"
+              ]
+            },
+            {
+              "name": "Will Borgen",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                1,
+                0,
+                1,
+                "16:44"
+              ]
+            },
+            {
+              "name": "Marat Khusnutdinov",
+              "values": [
+                0,
+                0,
+                0,
+                "-1",
+                0,
+                1,
+                0,
+                "16:09"
+              ]
+            },
+            {
+              "name": "Mason Lohrei",
+              "values": [
+                0,
+                1,
+                1,
+                "0",
+                3,
+                0,
+                1,
+                "15:32"
+              ]
+            },
+            {
+              "name": "Connor Clifton",
+              "values": [
+                0,
+                0,
+                0,
+                "-2",
+                0,
+                5,
+                0,
+                "14:59"
+              ]
+            },
+            {
+              "name": "Tanner Jeannot",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                3,
+                3,
+                2,
+                "12:12"
+              ]
+            },
+            {
+              "name": "Mark Kastelic",
+              "values": [
+                0,
+                0,
+                0,
+                "-1",
+                0,
+                2,
+                1,
+                "9:52"
+              ]
+            },
+            {
+              "name": "Sean Kuraly",
+              "values": [
+                0,
+                0,
+                0,
+                "-1",
+                0,
+                0,
+                0,
+                "9:23"
+              ]
+            },
+            {
+              "name": "David Pastrnak",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                0,
+                0,
+                0,
+                "5:50"
+              ]
+            }
+          ],
+          "totals": [
+            1,
+            2,
+            3,
+            "",
+            29,
+            20,
+            13,
+            ""
+          ]
+        },
+        {
+          "label": "Goalies",
+          "columns": [
+            "SA",
+            "SV",
+            "SV%",
+            "TOI"
+          ],
+          "rows": [
+            {
+              "name": "Jeremy Swayman",
+              "values": [
+                18,
+                15,
+                ".833",
+                "56:26"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "opp": {
+      "name": "Maple Leafs",
+      "groups": [
+        {
+          "label": "Skaters",
+          "columns": [
+            "G",
+            "A",
+            "PTS",
+            "+/-",
+            "SOG",
+            "HIT",
+            "BLK",
+            "TOI"
+          ],
+          "rows": [
+            {
+              "name": "Jake McCabe",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                1,
+                4,
+                3,
+                "22:40"
+              ]
+            },
+            {
+              "name": "Troy Stecher",
+              "values": [
+                0,
+                1,
+                1,
+                "3",
+                0,
+                2,
+                0,
+                "22:39"
+              ]
+            },
+            {
+              "name": "Oliver Ekman-Larsson",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                1,
+                1,
+                1,
+                "22:21"
+              ]
+            },
+            {
+              "name": "Darren Raddysh",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                2,
+                0,
+                0,
+                "22:20"
+              ]
+            },
+            {
+              "name": "Auston Matthews",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                0,
+                0,
+                1,
+                "19:39"
+              ]
+            },
+            {
+              "name": "Morgan Rielly",
+              "values": [
+                2,
+                0,
+                2,
+                "3",
+                3,
+                0,
+                0,
+                "18:56"
+              ]
+            },
+            {
+              "name": "Nick Paul",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                1,
+                1,
+                0,
+                "18:03"
+              ]
+            },
+            {
+              "name": "Colton Sissons",
+              "values": [
+                1,
+                1,
+                2,
+                "2",
+                1,
+                2,
+                2,
+                "15:53"
+              ]
+            },
+            {
+              "name": "John Tavares",
+              "values": [
+                0,
+                0,
+                0,
+                "1",
+                2,
+                2,
+                0,
+                "15:31"
+              ]
+            },
+            {
+              "name": "Kirill Marchenko",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                1,
+                0,
+                0,
+                "15:28"
+              ]
+            },
+            {
+              "name": "Easton Cowan",
+              "values": [
+                0,
+                1,
+                1,
+                "1",
+                2,
+                2,
+                1,
+                "15:06"
+              ]
+            },
+            {
+              "name": "William Nylander",
+              "values": [
+                0,
+                0,
+                0,
+                "1",
+                3,
+                0,
+                0,
+                "14:48"
+              ]
+            },
+            {
+              "name": "Gavin McKenna",
+              "values": [
+                0,
+                1,
+                1,
+                "1",
+                0,
+                0,
+                1,
+                "14:23"
+              ]
+            },
+            {
+              "name": "Aatu Raty",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                1,
+                6,
+                2,
+                "13:27"
+              ]
+            },
+            {
+              "name": "Teddy Blueger",
+              "values": [
+                0,
+                0,
+                0,
+                "1",
+                0,
+                1,
+                0,
+                "13:18"
+              ]
+            },
+            {
+              "name": "Brandon Duhaime",
+              "values": [
+                0,
+                1,
+                1,
+                "1",
+                0,
+                0,
+                0,
+                "10:17"
+              ]
+            },
+            {
+              "name": "Chris Tanev",
+              "values": [
+                0,
+                0,
+                0,
+                "0",
+                0,
+                0,
+                0,
+                "7:53"
+              ]
+            },
+            {
+              "name": "Zack MacEwen",
+              "values": [
+                0,
+                0,
+                0,
+                "1",
+                0,
+                2,
+                0,
+                "7:51"
+              ]
+            }
+          ],
+          "totals": [
+            3,
+            5,
+            8,
+            "",
+            18,
+            23,
+            11,
+            ""
+          ]
+        },
+        {
+          "label": "Goalies",
+          "columns": [
+            "SA",
+            "SV",
+            "SV%",
+            "TOI"
+          ],
+          "rows": [
+            {
+              "name": "Anthony Stolarz",
+              "values": [
+                29,
+                28,
+                ".966",
+                "60:00"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "id": "2026-11-27-bruins-tor",
+  "date": "2026-11-27"
+}
